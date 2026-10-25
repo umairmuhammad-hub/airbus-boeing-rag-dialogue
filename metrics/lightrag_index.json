@@ -1,0 +1,9 @@
+{
+  "system": "LightRAG",
+  "seconds": 2076.7,
+  "documents": 6,
+  "text_units": 99,
+  "entities": 1471,
+  "relationships": 1392,
+  "index_size_mb": 41.92
+}

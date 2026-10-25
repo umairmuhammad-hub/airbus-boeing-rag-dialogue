@@ -1,0 +1,17 @@
+{
+  "_note": "Which PDFs to use and which pages (1-based, inclusive). Front matter and chart-only chapters are skipped.",
+  "documents": [
+    {"file": "AC_A320_0624.pdf", "id": "airbus_a320_aircraft_characteristics", "maker": "Airbus",
+     "title": "A320 Aircraft Characteristics - Airport and Maintenance Planning (Rev. Jun 2024)", "pages": [30, 180]},
+    {"file": "Safety-First-23.pdf", "id": "airbus_safety_first_23", "maker": "Airbus",
+     "title": "Safety First magazine, issue 23", "pages": null},
+    {"file": "Airbus_Safety_first_magazine_25.pdf", "id": "airbus_safety_first_25", "maker": "Airbus",
+     "title": "Safety First magazine, issue 25", "pages": null},
+    {"file": "737MAX_RevK.pdf", "id": "boeing_737max_airport_planning", "maker": "Boeing",
+     "title": "737 MAX Airplane Characteristics for Airport Planning (D6-38A004, Rev. K)", "pages": [13, 101]},
+    {"file": "787_ACAP_Rev_Q.pdf", "id": "boeing_787_airport_planning", "maker": "Boeing",
+     "title": "787 Airplane Characteristics for Airport Planning (D6-58333, Rev. Q)", "pages": [13, 69]},
+    {"file": "statsum.pdf", "id": "boeing_statistical_summary_accidents", "maker": "Boeing",
+     "title": "Statistical Summary of Commercial Jet Airplane Accidents", "pages": null}
+  ]
+}

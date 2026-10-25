@@ -1,0 +1,783 @@
+Document: 737 MAX Airplane Characteristics for Airport Planning (D6-38A004, Rev. K)
+Manufacturer: Boeing
+Source id: boeing_737max_airport_planning
+
+1.0 SCOPE AND INTRODUCTION
+1.1 SCOPE
+This document provides, in a standardized format, airplane characteristics data for general 
+airport planning. Since operational practices vary among airlines, specific data should be 
+coordinated with the using airlines prior to facility design. Boeing Commercial Airplanes 
+should be contacted for any additional information required.
+Content of the document reflects the results of a coordinated effort by representatives from 
+the following organizations:
+• Aerospace Industries Association
+• Airports Council International - North America
+• Air Transport Association of America
+• International Air Transport Association
+The airport planner may also want to consider the information presented in the 
+"Commercial Aircraft Design Characteristics - Trends and Growth Projections," for long 
+range planning needs and can be accessed via the following website:
+http://www.boeing.com/airports
+The document is updated periodically and represents the coordinated efforts of the 
+following organizations regarding future aircraft growth trends.
+• International Coordinating Council of Aerospace Industries Associations
+• Airports Council International - North America
+• Air Transport Association of America
+• International Air Transport Association
+1-1
+
+1.2 INTRODUCTION
+This document conforms to NAS 3601. It provides characteristics of the Boeing Model 737 
+MAX airplane for airport planners and operators, airlines, architectural and engineering 
+consultant organizations, and other interested industry agencies. Airplane changes and 
+available options may alter model characteristics. Data contained herein is generic in scope 
+and not customer-specific.
+For additional information contact:
+Boeing Commercial Airplanes 
+2201 Seal Beach Blvd. M/C: 110-SB02 
+Seal Beach, CA 90740-1515 
+U.S.A.
+Attention: Manager, Airport Operations Engineering
+Email: AirportCompatibility@boeing.com
+1-2
+
+1.3 BRIEF DESCRIPTION OF THE 737 MAX FAMILY OF AIRPLANES
+The 737 MAX is the latest series of derivative airplanes in the 737 family of airplanes. The 
+737 MAX airplanes include 737-7, 737-8, 737-8-200, 737-9, 737-10, and the Business Jet 
+versions.
+The 737 MAX series airplanes have improved fuel efficiency, increased payload or range, 
+and reduced emissions and noise. The 737 MAX incorporates an all new CFM LEAP-1B 
+engine for improved fuel-efficiency and reduced community noise. One of the 
+characteristics new to the 737 MAX family which improves operational efficiency is the 
+new Advanced Technology (AT) winglet with a distinctive dual-feather configuration to 
+improve aerodynamics.
+The 737 MAX family remains a Federal Aviation Administration (FAA) Airplane Design 
+Group III and International Civil Aviation Organization (ICAO) Aerodrome Reference 
+Code Letter C aircraft.
+1-3
+
+1.4 CONVERSION FACTORS
+The data in this manual is provided in both English and Metric units. Unless otherwise 
+stated, the conversions listed below are used throughout this manual.
+|MULTIPLY|BY|TOOBTAIN|
+|---|---|---|
+|Pounds|0.45359237|Kilograms|
+|U.S. Gallons|3.78541180|Liters|
+|Inches|2.54000000|Centimeters|
+|Feet|0.30480000|Meters|
+When totals or summations are required the English values are summed separately from 
+the Metric values. Differences may occur when comparing the English total with metric 
+totals due to rounding.
+All metric values are converted from English values. When using the conversion factors 
+in this manual, all resultants will be rounded except when the value is a weight limitation. 
+For minimum or maximum weight limitations the resultant metric values will be rounded 
+up or truncated, whichever is more conservative.
+1-4
+
+2.0 AIRPLANE DESCRIPTION
+2.1 GENERAL CHARACTERISTICS
+Maximum Design Taxi Weight (MTW). Maximum weight for ground maneuver as limited 
+by aircraft strength and airworthiness requirements. (It includes weight of taxi and run-up 
+fuel.)
+Maximum Design Takeoff Weight (MTOW). Maximum weight for takeoff as limited by 
+aircraft strength and airworthiness requirements. (This is the maximum weight at start of 
+the takeoff run.)
+Maximum Design Landing Weight (MLW). Maximum weight for landing as limited by 
+aircraft strength and airworthiness requirements.
+Maximum Design Zero Fuel Weight (MZFW). Maximum weight allowed before usable 
+fuel and other specified usable agents must be loaded in defined sections of the aircraft as 
+limited by strength and airworthiness requirements.
+Operating Empty Weight (OEW). Weight of structure, power plant, furnishing systems, 
+unusable fuel and other unusable propulsion agents, and other items of equipment that are 
+considered an integral part of a particular airplane configuration. Also included are certain 
+standard items, personnel, equipment, and supplies necessary for full operations, excluding 
+usable fuel and payload.
+Maximum Payload. Maximum design zero fuel weight minus operational empty weight.
+Maximum Seating Capacity. The maximum number of passengers specifically certificated 
+or anticipated for certification.
+Maximum Cargo Volume. The maximum space available for cargo.
+Usable Fuel. Fuel available for aircraft propulsion.
+2-1
+
+2.1.1 General Characteristics: Model 737-7
+|CHARACTERISTICS|UNITS|MODEL737 7 -|Col4|
+|---|---|---|---|
+|MAX DESIGN TAXI WEIGHT|POUNDS|145,500|177,500|
+|MAX DESIGN TAXI WEIGHT|KILOGRAMS|65,997|80,512|
+|MAX DESIGN TAKEOFF WEIGHT|POUNDS|145,000|177,000|
+|MAX DESIGN TAKEOFF WEIGHT|KILOGRAMS|65,770|80,285|
+|MAX DESIGN LANDING WEIGHT|POUNDS|140,900|145,600|
+|MAX DESIGN LANDING WEIGHT|KILOGRAMS|63,911|66,043|
+|MAX DESIGN ZERO FUEL WEIGHT|POUNDS|134,000|138,700|
+|MAX DESIGN ZERO FUEL WEIGHT|KILOGRAMS|60,781|62,913|
+|SEATING CAPACITY|TWO-CLASS|153|153|
+|SEATING CAPACITY|SINGLE-CLASS|172|172|
+|MAX CARGO VOLUME LOWER DECK|CUBIC FEET|1,114|1,114|
+|MAX CARGO VOLUME LOWER DECK|CUBIC METERS|31.5|31.5|
+|USABLE FUEL *[1]|US GALLONS|6,820|6,820|
+|USABLE FUEL *[1]|LITERS|25,816|25,816|
+|USABLE FUEL *[1]|POUNDS|45,694|45,694|
+|USABLE FUEL *[1]|KILOGRAMS|20,730|20,730|
+2-2
+
+2.1.2 General Characteristics: Model 737-8
+|CHARACTERISTICS|UNITS|MODEL737 8 -|Col4|Col5|
+|---|---|---|---|---|
+|MAX DESIGN TAXI WEIGHT|POUNDS|159,900|180,300|182,700|
+|MAX DESIGN TAXI WEIGHT|KILOGRAMS|72,529|81,782|82,871|
+|MAX DESIGN TAKEOFF WEIGHT|POUNDS|159,400|179,800|182,200|
+|MAX DESIGN TAKEOFF WEIGHT|KILOGRAMS|72,302|81,555|82,644|
+|MAX DESIGN LANDING WEIGHT|POUNDS|150,300|150,300|152,800|
+|MAX DESIGN LANDING WEIGHT|KILOGRAMS|68,174|68,174|69,308|
+|MAX DESIGN ZERO FUEL WEIGHT|POUNDS|142,900|142,900|145,400|
+|MAX DESIGN ZERO FUEL WEIGHT|KILOGRAMS|64,818|64,818|65,952|
+|SEATING CAPACITY|TWO-CLASS|178|178|178|
+|SEATING CAPACITY|SINGLE-CLASS|189|189|189|
+|MAX CARGO VOLUME LOWER DECK|CUBIC FEET|1,515|1,515|1,515|
+|MAX CARGO VOLUME LOWER DECK|CUBIC METERS|42.9|42.9|42.9|
+|USABLE FUEL *[1]|US GALLONS|6,820|6,820|6,820|
+|USABLE FUEL *[1]|LITERS|25,816|25,816|25,816|
+|USABLE FUEL *[1]|POUNDS|45,694|45,694|45,694|
+|USABLE FUEL *[1]|KILOGRAMS|20,730|20,730|20,730|
+2-3
+
+2.1.3 General Characteristics: Model 737-8-200
+|CHARACTERISTICS|UNITS|MODEL737 8 200 - -|Col4|Col5|
+|---|---|---|---|---|
+|MAX DESIGN TAXI WEIGHT|POUNDS|159,900|180,300|181,700|
+|MAX DESIGN TAXI WEIGHT|KILOGRAMS|72,529|81,782|82,417|
+|MAX DESIGN TAKEOFF WEIGHT|POUNDS|159,400|179,800|181,200|
+|MAX DESIGN TAKEOFF WEIGHT|KILOGRAMS|72,302|81,555|82,190|
+|MAX DESIGN LANDING WEIGHT|POUNDS|150,300|150,300|152,800|
+|MAX DESIGN LANDING WEIGHT|KILOGRAMS|68,174|68,174|69,308|
+|MAX DESIGN ZERO FUEL WEIGHT|POUNDS|142,900|142,900|145,400|
+|MAX DESIGN ZERO FUEL WEIGHT|KILOGRAMS|64,818|64,818|65,952|
+|SEATING CAPACITY|TWO-CLASS|*[2]|*[2]|*[2]|
+|SEATING CAPACITY|SINGLE-CLASS|200|201|202|
+|MAX CARGO VOLUME LOWER DECK|CUBIC FEET|1,515|1,515|1,515|
+|MAX CARGO VOLUME LOWER DECK|CUBIC METERS|42.9|42.9|42.9|
+|USABLE FUEL *[1]|US GALLONS|6,820|6,820|6,820|
+|USABLE FUEL *[1]|LITERS|25,816|25,816|25,816|
+|USABLE FUEL *[1]|POUNDS|45,694|45,694|45,694|
+|USABLE FUEL *[1]|KILOGRAMS|20,730|20,730|20,730|
+NOTES: 
+*[1] FUEL DENSITY = 6.7 LBS/US GAL 
+*[2] ONLY SINGLE-CLASS LAYOUT
+2-4
+
+2.1.4 General Characteristics: Model BBJ MAX 8
+|CHARACTERISTICS|UNITS|MODELBBJMAX8|Col4|Col5|
+|---|---|---|---|---|
+|MAX DESIGN TAXI WEIGHT|POUNDS|159,900|180,300|181,700|
+|MAX DESIGN TAXI WEIGHT|KILOGRAMS|72,529|81,782|82,417|
+|MAX DESIGN TAKEOFF WEIGHT|POUNDS|159,400|179,800|181,200|
+|MAX DESIGN TAKEOFF WEIGHT|KILOGRAMS|72,302|81,555|82,190|
+|MAX DESIGN LANDING WEIGHT|POUNDS|150,300|150,300|152,800|
+|MAX DESIGN LANDING WEIGHT|KILOGRAMS|68,174|68,174|69,308|
+|MAX DESIGN ZERO FUEL WEIGHT|POUNDS|142,900|142,900|145,400|
+|MAX DESIGN ZERO FUEL WEIGHT|KILOGRAMS|64,818|64,818|65,952|
+|SEATING CAPACITY|TWO-CLASS|*[1]|*[1]|*[1]|
+|SEATING CAPACITY|SINGLE-CLASS|*[1]|*[1]|*[1]|
+|AUXILIARYTANKCONFIGURATIONS: LOWERDECKMAXIMUMCARGOVOLUMEANDUSABLEFUEL*[2]|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+||**NUMBER OF AUXILIARY FUEL TANKS**|**NUMBER OF AUXILIARY FUEL TANKS**|**NUMBER OF AUXILIARY FUEL TANKS**|**NUMBER OF AUXILIARY FUEL TANKS**|**NUMBER OF AUXILIARY FUEL TANKS**|**NUMBER OF AUXILIARY FUEL TANKS**|**NUMBER OF AUXILIARY FUEL TANKS**|**NUMBER OF AUXILIARY FUEL TANKS**|**NUMBER OF AUXILIARY FUEL TANKS**|**NUMBER OF AUXILIARY FUEL TANKS**|**NUMBER OF AUXILIARY FUEL TANKS**|
+|FWD|**0 **|**0 **|**0 **|**0 **|**0 **|**1 **|**1 **|**2 **|**1 **|**2 **|**2 **|
+|AFT|**0 **|**1 **|**2 **|**3 **|**4 **|**3 **|**4 **|**3 **|**5 **|**4 **|**5 **|
+|TOTAL CARGO (CU FT)|1,526|1,272|1,272|1,176|1,066|968|858|855|746|745|633|
+|TOTAL CARGO (CU M)|43.2|36.0|36.0|33.3|30.2|27.4|24.3|24.2|21.1|21.1|17.9|
+|FUEL (US GAL)|6,820|7,335|7,791|8,310|8,834|8,802|9,326|9,325|9,871|9,849|10,394|
+|FUEL (LITER)|25,816|27,765|29,492|31,456|33,440|33,319|35,302|35,298|37,365|37,282|39,345|
+|FUEL (LBS)|45,694|49,145|52,200|55,677|59,188|58,973|62,484|62,478|66,136|65,988|69,640|
+|FUEL (KGS)|20,730|22,295|23,682|25,259|26,852|26,755|28,347|28,344|30,004|29,937|31,594|
+NOTES: 
+*[1] BBJ LAYOUTS ARE CUSTOMIZED 
+*[2] FUEL DENSITY = 6.7 LBS/US GAL
+2-5
+
+2.1.5 General Characteristics: Model 737-9
+|CHARACTERISTICS|UNITS|MODEL737 9 -|Col4|Col5|
+|---|---|---|---|---|
+|MAX DESIGN TAXI WEIGHT|POUNDS|168,700|190,400|195,200|
+|MAX DESIGN TAXI WEIGHT|KILOGRAMS|76,521|86,363|88,541|
+|MAX DESIGN TAKEOFF WEIGHT|POUNDS|168,200|189,900|194,700|
+|MAX DESIGN TAKEOFF WEIGHT|KILOGRAMS|76,294|86,137|88,314|
+|MAX DESIGN LANDING WEIGHT|POUNDS|155,700|155,700|163,900|
+|MAX DESIGN LANDING WEIGHT|KILOGRAMS|70,624|70,624|74,343|
+|MAX DESIGN ZERO FUEL WEIGHT|POUNDS|148,300|148,300|156,500|
+|MAX DESIGN ZERO FUEL WEIGHT|KILOGRAMS|67,267|67,267|70,987|
+|SEATING CAPACITY|TWO-CLASS|193|193|193|
+|SEATING CAPACITY|SINGLE-CLASS|220|220|220|
+|MAX CARGO VOLUME LOWER DECK|CUBIC FEET|1,786|1,786|1,786|
+|MAX CARGO VOLUME LOWER DECK|CUBIC METERS|50.5|50.5|50.5|
+|USABLE FUEL *[1]|US GALLONS|6,820|6,820|6,820|
+|USABLE FUEL *[1]|LITERS|25,816|25,816|25,816|
+|USABLE FUEL *[1]|POUNDS|45,694|45,694|45,694|
+|USABLE FUEL *[1]|KILOGRAMS|20,730|20,730|20,730|
+2-6
+
+2.1.6 General Characteristics: Model BBJ MAX 9
+|CHARACTERISTICS|UNITS|MODELBBJMAX9|Col4|Col5|
+|---|---|---|---|---|
+|MAX DESIGN TAXI WEIGHT|POUNDS|168,700|190,400|195,200|
+|MAX DESIGN TAXI WEIGHT|KILOGRAMS|76,521|86,363|88,541|
+|MAX DESIGN TAKEOFF WEIGHT|POUNDS|168,200|189,900|194,700|
+|MAX DESIGN TAKEOFF WEIGHT|KILOGRAMS|76,294|86,137|88,314|
+|MAX DESIGN LANDING WEIGHT|POUNDS|155,700|155,700|163,900|
+|MAX DESIGN LANDING WEIGHT|KILOGRAMS|70,624|70,624|74,343|
+|MAX DESIGN ZERO FUEL WEIGHT|POUNDS|148,300|148,300|156,500|
+|MAX DESIGN ZERO FUEL WEIGHT|KILOGRAMS|67,267|67,267|70,987|
+|SEATING CAPACITY|TWO-CLASS|*[1]|*[1]|*[1]|
+|SEATING CAPACITY|SINGLE-CLASS|*[1]|*[1]|*[1]|
+|AUXILIARYTANKCONFIGURATIONS: LOWERDECKMAXIMUMCARGOVOLUMEANDUSABLE FUEL*[2]|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||**NUMBER OF AUXILIARY FUEL TANKS**|**NUMBER OF AUXILIARY FUEL TANKS**|**NUMBER OF AUXILIARY FUEL TANKS**|**NUMBER OF AUXILIARY FUEL TANKS**|**NUMBER OF AUXILIARY FUEL TANKS**|**NUMBER OF AUXILIARY FUEL TANKS**|**NUMBER OF AUXILIARY FUEL TANKS**|**NUMBER OF AUXILIARY FUEL TANKS**|**NUMBER OF AUXILIARY FUEL TANKS**|**NUMBER OF AUXILIARY FUEL TANKS**|**NUMBER OF AUXILIARY FUEL TANKS**|**NUMBER OF AUXILIARY FUEL TANKS**|**NUMBER OF AUXILIARY FUEL TANKS**|
+|FWD|**0 **|**0 **|**0 **|**0 **|**0 **|**1 **|**1 **|**2 **|**1 **|**2 **|**2 **|**3 **|**3 **|
+|AFT|**0 **|**1 **|**2 **|**3 **|**4 **|**3 **|**4 **|**3 **|**5 **|**4 **|**5 **|**4 **|**5 **|
+|TOTAL CARGO (CU FT)|1,797|1,543|1,543|1,447|1,337|1,239|1,129|1,126|1,016|1,016|903|903|790|
+|TOTAL CARGO (CU M)|50.9|43.7|43.7|41.0|37.9|35.1|32.0|31.9|28.8|28.8|25.6|25.6|22.4|
+|FUEL (US GAL)|6,820|7,335|7,791|8,310|8,834|8,802|9,326|9,325|9,871|9,849|10,394|10,376|10,921|
+|FUEL (LITER)|25,816|27,766|29,492|31,456|33,440|33,319|35,302|35,298|37,365|37,282|39,345|39,277|41,340|
+|FUEL (LBS)|45,694|49,144|52,199|55,677|59,187|58,973|62,484|62,477|66,135|65,988|69,639|69,519|73,170|
+|FUEL (KGS)|20,730|22,296|23,682|25,259|26,852|26,755|28,348|28,345|30,004|29,937|31,594|31,539|33,196|
+NOTES: 
+*[1] BBJ LAYOUTS ARE CUSTOMIZED 
+*[2] FUEL DENSITY = 6.7 LBS/US GAL
+2-7
+
+2.1.7 General Characteristics: Model 737-10
+|CHARACTERISTICS|UNITS|MODEL737 10 -|Col4|Col5|
+|---|---|---|---|---|
+|MAX DESIGN TAXI WEIGHT|POUNDS|175,500|194,000|198,400|
+|MAX DESIGN TAXI WEIGHT|KILOGRAMS|79,605|87,996|89,992|
+|MAX DESIGN TAKEOFF WEIGHT|POUNDS|175,000|193,500|197,900|
+|MAX DESIGN TAKEOFF WEIGHT|KILOGRAMS|79,378|87,770|89,765|
+|MAX DESIGN LANDING WEIGHT|POUNDS|161,300|161,300|167,400|
+|MAX DESIGN LANDING WEIGHT|KILOGRAMS|73,164|73,164|75,931|
+|MAX DESIGN ZERO FUEL WEIGHT|POUNDS|153,900|153,900|160,000|
+|MAX DESIGN ZERO FUEL WEIGHT|KILOGRAMS|69,807|69,807|72,574|
+|SEATING CAPACITY|TWO-CLASS|204|204|204|
+|SEATING CAPACITY|SINGLE-CLASS|230|230|230|
+|MAX CARGO VOLUME LOWER DECK|CUBIC FEET|1,958|1,958|1,958|
+|MAX CARGO VOLUME LOWER DECK|CUBIC METERS|55.4|55.4|55.4|
+|USABLE FUEL *[1]|US GALLONS|6,820|6,820|6,820|
+|USABLE FUEL *[1]|LITERS|25,816|25,816|25,816|
+|USABLE FUEL *[1]|POUNDS|45,694|45,694|45,694|
+|USABLE FUEL *[1]|KILOGRAMS|20,730|20,730|20,730|
+2-8
+
+2.2 GENERAL DIMENSIONS
+2.2.1 General Dimensions: Model 737-7
+NOTE: THESE DRAWINGS ARE USED FOR AIRPORT PLANNING PURPOSES. THEY ARE
+ACCURATE WITHIN +/- 6 INCHES.
+2-9
+
+2.2.2 General Dimensions: Model 737-8 / -8-200 / BBJ MAX 8
+NOTE: THESE DRAWINGS ARE USED FOR AIRPORT PLANNING PURPOSES. THEY ARE
+ACCURATE WITHIN +/- 6 INCHES.
+2-10
+
+2.2.3 General Dimensions: Model 737-9 / BBJ MAX 9
+NOTE: THESE DRAWINGS ARE USED FOR AIRPORT PLANNING PURPOSES. THEY ARE
+ACCURATE WITHIN +/- 6 INCHES.
+2-11
+
+2.2.4 General Dimensions: Model 737-10
+NOTE: THESE DRAWINGS ARE USED FOR AIRPORT PLANNING PURPOSES. THEY ARE
+ACCURATE WITHIN +/- 6 INCHES.
+2-12
+
+2.3 GROUND CLEARANCES
+2.3.1 Ground Clearances: Model 737-7
+|Col1|DESCRIPTION|737 7*[1] -|Col4|Col5|Col6|
+|---|---|---|---|---|---|
+||**DESCRIPTION**|**MINIMUM**|**MINIMUM**|**MAXIMUM**|**MAXIMUM**|
+||**DESCRIPTION**|**FT - IN**|**M **|**FT - IN**|**M **|
+|A|FUSELAGE - TOP|16-7|5.05|18-1|5.51|
+|B|FORWARD DOOR, LEFT & RIGHT|9-1|2.77|10-1|3.07|
+|C|FUSELAGE - BOTTOM|4-2|1.27|5-1|1.55|
+|D|FORWARD CARGO DOOR|4-8|1.42|5-6|1.68|
+|E|ENGINE|1-5|0.43|1-10|0.56|
+|F|FORWARD OVERWING EXIT DOOR, LEFT & RIGHT|10-2|3.10|10-7|3.23|
+|G|AFT OVERWING EXIT, LEFT & RIGHT|10-2|3.10|10-6|3.20|
+|J|WINGLET BLADE, LOWER|9-2|2.79|10-4|3.15|
+|K|WINGLET BLADE, UPPER|18-9|5.72|19-11|6.07|
+|L|AFT CARGO DOOR|4-4|1.32|5-5|1.65|
+|M|AFT PASSENGER DOOR, LEFT & RIGHT|8-2|2.49|9-7|2.92|
+|N|HORIZONTAL STABILIZER|15-8|4.78|17-8|5.38|
+|P|VERTICAL STABILIZER|38-10|11.84|41-0|12.50|
+NOTES: 
+*[1] CLEARANCES SHOWN ARE NOMINAL. ADD PLUS OR MINUS 3 INCHES TO ACCOUNT 
+FOR VARIATIONS IN LOADING, OLEO AND TIRE PRESSURES, CENTER OF GRAVITY, 
+ETC. DURING ROUTINE SERVICING, THE AIRPLANE REMAINS RELATIVELY STABLE, 
+PITCH AND ELEVATION CHANGES OCCURRING SLOWLY.
+2-13
+
+2.3.2 Ground Clearances: Model 737-8 / -8-200 / BBJ MAX 8
+|Col1|DESCRIPTION|737 8/ 8 200/BBJMAX8*[1] - - -|Col4|Col5|Col6|
+|---|---|---|---|---|---|
+||**DESCRIPTION**|**MINIMUM**|**MINIMUM**|**MAXIMUM**|**MAXIMUM**|
+||**DESCRIPTION**|**FT - IN**|**M **|**FT - IN**|**M **|
+|A|FUSELAGE - TOP|16-8|5.08|18-1|5.51|
+|B|FORWARD DOOR, LEFT & RIGHT|9-1|2.77|10-1|3.07|
+|C|FUSELAGE - BOTTOM|4-2|1.27|5-1|1.55|
+|D|FORWARD CARGO DOOR|4-8|1.42|5-6|1.68|
+|E|ENGINE|1-5|0.43|1-10|0.56|
+|F|FORWARD OVERWING EXIT DOOR, LEFT & RIGHT|10-2|3.10|10-7|3.23|
+|G|AFT OVERWING EXIT, LEFT & RIGHT|10-2|3.10|10-6|3.20|
+|H|MID EXIT DOOR, LEFT & RIGHT *[2]|8-8|2.64|9-5|2.87|
+|J|WINGLET BLADE, LOWER|9-2|2.79|10-4|3.15|
+|K|WINGLET BLADE, UPPER|18-9|5.72|19-11|6.07|
+|L|AFT CARGO DOOR|4-4|1.32|5-5|1.65|
+|M|AFT PASSENGER DOOR, LEFT & RIGHT|8-2|2.49|9-6|2.90|
+|N|HORIZONTAL STABILIZER|15-8|4.78|17-7|5.36|
+|P|VERTICAL STABILIZER|38-11|11.86|40-10|12.45|
+NOTES: 
+*[1] CLEARANCES SHOWN ARE NOMINAL. ADD PLUS OR MINUS 3 INCHES TO ACCOUNT 
+FOR VARIATIONS IN LOADING, OLEO AND TIRE PRESSURES, CENTER OF GRAVITY, 
+ETC. DURING ROUTINE SERVICING, THE AIRPLANE REMAINS RELATIVELY STABLE, 
+PITCH AND ELEVATION CHANGES OCCURRING SLOWLY. 
+*[2] MID EXIT DOOR ONLY EQUIPPED ON 737-8-200.
+2-14
+
+2.3.3 Ground Clearances: Model 737-9 / BBJ MAX 9
+|Col1|DESCRIPTION|737 9/BBJMAX9*[1] -|Col4|Col5|Col6|
+|---|---|---|---|---|---|
+||**DESCRIPTION**|**MINIMUM**|**MINIMUM**|**MAXIMUM**|**MAXIMUM**|
+||**DESCRIPTION**|**FT - IN**|**M **|**FT - IN**|**M **|
+|A|FUSELAGE - TOP|16-8|5.08|18-1|5.51|
+|B|FORWARD DOOR, LEFT & RIGHT|9-2|2.79|10-1|3.07|
+|C|FUSELAGE - BOTTOM|4-2|1.27|5-1|1.55|
+|D|FORWARD CARGO DOOR|4-9|1.45|5-6|1.68|
+|E|ENGINE|1-5|0.43|1-10|0.56|
+|F|FORWARD OVERWING EXIT DOOR, LEFT & RIGHT|10-2|3.10|10-5|3.18|
+|G|AFT OVERWING EXIT, LEFT & RIGHT|10-2|3.10|10-5|3.18|
+|H|MID EXIT DOOR, LEFT & RIGHT|8-9|2.67|9-5|2.87|
+|J|WINGLET BLADE, LOWER|9-2|2.79|10-4|3.15|
+|K|WINGLET BLADE, UPPER|18-9|5.72|19-11|6.07|
+|L|AFT CARGO DOOR|4-4|1.32|5-4|1.63|
+|M|AFT PASSENGER DOOR, LEFT & RIGHT|8-3|2.51|9-3|2.82|
+|N|HORIZONTAL STABILIZER|15-9|4.80|17-6|5.33|
+|P|VERTICAL STABILIZER|39-0|11.89|40-8|12.40|
+NOTE: 
+*[1] CLEARANCES SHOWN ARE NOMINAL. ADD PLUS OR MINUS 3 INCHES TO ACCOUNT 
+FOR VARIATIONS IN LOADING, OLEO AND TIRE PRESSURES, CENTER OF GRAVITY, 
+ETC. DURING ROUTINE SERVICING, THE AIRPLANE REMAINS RELATIVELY STABLE, 
+PITCH AND ELEVATION CHANGES OCCURRING SLOWLY.
+2-15
+
+2.3.4 Ground Clearances: Model 737-10
+|Col1|DESCRIPTION|737 10*[1] -|Col4|Col5|Col6|
+|---|---|---|---|---|---|
+||**DESCRIPTION**|**MINIMUM**|**MINIMUM**|**MAXIMUM**|**MAXIMUM**|
+||**DESCRIPTION**|**FT - IN**|**M **|**FT - IN**|**M **|
+|A|FUSELAGE - TOP|16-8|5.08|18-2|5.54|
+|B|FORWARD DOOR, LEFT & RIGHT|9-1|2.77|10-1|3.07|
+|C|FUSELAGE - BOTTOM|4-2|1.27|5-1|1.55|
+|D|FORWARD CARGO DOOR|4-8|1.42|5-6|1.68|
+|E|ENGINE|1-5|0.43|1-10|0.56|
+|F|FORWARD OVERWING EXIT DOOR, LEFT & RIGHT|10-2|3.10|10-6|3.20|
+|G|AFT OVERWING EXIT, LEFT & RIGHT|10-2|3.10|10-6|3.20|
+|H|MID EXIT DOOR, LEFT & RIGHT|8-9|2.67|9-5|2.87|
+|J|WINGLET BLADE, LOWER|9-2|2.79|10-4|3.15|
+|K|WINGLET BLADE, UPPER|18-9|5.72|19-11|6.07|
+|L|AFT CARGO DOOR|4-5|1.35|5-5|1.65|
+|M|AFT PASSENGER DOOR, LEFT & RIGHT|8-4|2.54|9-5|2.87|
+|N|HORIZONTAL STABILIZER|15-10|4.83|17-8|5.38|
+|P|VERTICAL STABILIZER|39-1|11.91|40-10|12.45|
+NOTE: 
+*[1] CLEARANCES SHOWN ARE NOMINAL. ADD PLUS OR MINUS 3 INCHES TO ACCOUNT 
+FOR VARIATIONS IN LOADING, OLEO AND TIRE PRESSURES, CENTER OF GRAVITY, 
+ETC. DURING ROUTINE SERVICING, THE AIRPLANE REMAINS RELATIVELY STABLE, 
+PITCH AND ELEVATION CHANGES OCCURRING SLOWLY.
+2-16
+
+2.4 INTERIOR ARRANGEMENTS
+2.4.1 Interior Arrangements: Model 737-7
+2-17
+
+2.4.2 Interior Arrangements: Model 737-8
+2-18
+
+2.4.3 Interior Arrangements: Model 737-8-200
+2-19
+
+2.4.4 Interior Arrangements: Model 737-9
+2-20
+
+2.4.5 Interior Arrangements: Model 737-10
+2-21
+
+2.5 CABIN CROSS SECTIONS
+2.5.1 Cabin Cross-Sections: All Models
+2-22
+
+2.6 LOWER CARGO COMPARTMENTS
+2.6.1 Lower Cargo Compartments: All Models
+|LOWERLOBECARGO/BAGGAGECOMPARTMENTSIZES*[1]|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|
+|---|---|---|---|---|---|---|---|---|
+|**AIRPLANE MODEL**|**AIRPLANE MODEL**|**AIRPLANE MODEL**|**FORWARD COMPARTMENT (B)**|**FORWARD COMPARTMENT (B)**|**FORWARD COMPARTMENT (B)**|**AFT COMPARTMENT (C) *[2]**|**AFT COMPARTMENT (C) *[2]**|**AFT COMPARTMENT (C) *[2]**|
+|737-7|737-7|737-7|17 FT - 4 IN(5.28 M)|17 FT - 4 IN(5.28 M)|17 FT - 4 IN(5.28 M)|30 FT - 3 IN(9.22 M)|30 FT - 3 IN(9.22 M)|30 FT - 3 IN(9.22 M)|
+|737-8/-8-200/ BBJ MAX 8|737-8/-8-200/ BBJ MAX 8|737-8/-8-200/ BBJ MAX 8|24 FT - 8 IN (7.52 M)|24 FT - 8 IN (7.52 M)|24 FT - 8 IN (7.52 M)|35 FT - 9 IN (10.90 M)|35 FT - 9 IN (10.90 M)|35 FT - 9 IN (10.90 M)|
+|737-9 / BBJ MAX 9|737-9 / BBJ MAX 9|737-9 / BBJ MAX 9|29 FT - 10 IN (9.09 M)|29 FT - 10 IN (9.09 M)|29 FT - 10 IN (9.09 M)|39 FT - 3 IN (11.96 M)|39 FT - 3 IN (11.96 M)|39 FT - 3 IN (11.96 M)|
+|737-10|737-10|737-10|32 FT - 4 IN (9.86 M)|32 FT - 4 IN (9.86 M)|32 FT - 4 IN (9.86 M)|41 FT - 4 IN (12.60 M)|41 FT - 4 IN (12.60 M)|41 FT - 4 IN (12.60 M)|
+||||||||||
+|**SECT** **A-A**|**FORWARD CARGO** **COMPARTMENT**|**FORWARD CARGO** **COMPARTMENT**|**FORWARD CARGO** **COMPARTMENT**|**AFT CARGO** **COMPARTMENT** **FORWARD BULKHEAD**|**AFT CARGO** **COMPARTMENT** **FORWARD BULKHEAD**|**AFT CARGO** **COMPARTMENT** **FORWARD BULKHEAD**|**AFT CARGO** **COMPARTMENT** **AFT BULKHEAD**|**AFT CARGO** **COMPARTMENT** **AFT BULKHEAD**|
+|D|10 FT - 0 IN(3.05 M)|10 FT - 0 IN(3.05 M)|10 FT - 0 IN(3.05 M)|9 FT - 7 IN(2.92 M)|9 FT - 7 IN(2.92 M)|9 FT - 7 IN(2.92 M)|6 FT - 10 IN(2.08 M)|6 FT - 10 IN(2.08 M)|
+|E|3 FT - 8 IN (1.12 M)|3 FT - 8 IN (1.12 M)|3 FT - 8 IN (1.12 M)|3 FT - 11 IN (1.19 M)|3 FT - 11 IN (1.19 M)|3 FT - 11 IN (1.19 M)|1 FT - 11 IN (0.59 M)|1 FT - 11 IN (0.59 M)|
+|F|4 FT - 0 IN (1.22 M)|4 FT - 0 IN (1.22 M)|4 FT - 0 IN (1.22 M)|4 FT - 0 IN (1.22 M)|4 FT - 0 IN (1.22 M)|4 FT - 0 IN (1.22 M)|4 FT - 0 IN (1.22 M)|4 FT - 0 IN (1.22 M)|
+||||||||||
+|**MAXIMUM LOWER LOBE CARGO/BAGGAGE COMPARTMENT VOLUMES *[1]**|**MAXIMUM LOWER LOBE CARGO/BAGGAGE COMPARTMENT VOLUMES *[1]**|**MAXIMUM LOWER LOBE CARGO/BAGGAGE COMPARTMENT VOLUMES *[1]**|**MAXIMUM LOWER LOBE CARGO/BAGGAGE COMPARTMENT VOLUMES *[1]**|**MAXIMUM LOWER LOBE CARGO/BAGGAGE COMPARTMENT VOLUMES *[1]**|**MAXIMUM LOWER LOBE CARGO/BAGGAGE COMPARTMENT VOLUMES *[1]**|**MAXIMUM LOWER LOBE CARGO/BAGGAGE COMPARTMENT VOLUMES *[1]**|**MAXIMUM LOWER LOBE CARGO/BAGGAGE COMPARTMENT VOLUMES *[1]**|**MAXIMUM LOWER LOBE CARGO/BAGGAGE COMPARTMENT VOLUMES *[1]**|
+|**AIRPLANE** **MODEL**|**AIRPLANE** **MODEL**|**FORWARD** **COMPARTMENT** **BULK CARGO**|**FORWARD** **COMPARTMENT** **BULK CARGO**|**FORWARD** **COMPARTMENT** **BULK CARGO**|**AFT COMPARTMENT** **BULK CARGO *[2]**|**AFT COMPARTMENT** **BULK CARGO *[2]**|**AFT COMPARTMENT** **BULK CARGO *[2]**|**TOTAL BULK CARGO**|
+|737-7|737-7|432 CU FT(12.2 CU M)|432 CU FT(12.2 CU M)|432 CU FT(12.2 CU M)|714 CU FT(20.2 CU M)|714 CU FT(20.2 CU M)|714 CU FT(20.2 CU M)|1,146 CU FT(32.4 CU M)|
+|737-8/-8-200/ BBJ MAX 8|737-8/-8-200/ BBJ MAX 8|662 CU FT (18.7 CU M)|662 CU FT (18.7 CU M)|662 CU FT (18.7 CU M)|883 CU FT (25.0 CU M)|883 CU FT (25.0 CU M)|883 CU FT (25.0 CU M)|1,545 CU FT (43.7 CU M)|
+|737-9 / BBJ MAX 9|737-9 / BBJ MAX 9|820 CU FT (23.2 CU M)|820 CU FT (23.2 CU M)|820 CU FT (23.2 CU M)|996 CU FT (28.2 CU M)|996 CU FT (28.2 CU M)|996 CU FT (28.2 CU M)|1,816 CU FT (51.4 CU M)|
+|737-10|737-10|911 CU FT (25.8 CU M)|911 CU FT (25.8 CU M)|911 CU FT (25.8 CU M)|1,050 CU FT (29.7 CU M)|1,050 CU FT (29.7 CU M)|1,050 CU FT (29.7 CU M)|1,961 CU FT (55.5 CU M)|
+NOTES: 
+*[1] DOES NOT ACCOUNT FOR BBJ MAX CONFIGURATIONS WITH AUXILIARY TANKS 
+*[2] OPTIONAL EXTENDED E6 RACK REDUCES CARGO VOLUME BY 14 CU FT (STANDARD ON BBJ MAX)
+2-23
+
+2.6.2 Lower Cargo Compartments: Model BBJ MAX 8
+|MAXIMUMLOWERLOBECARGO/BAGGAGECOMPARTMENTVOLUMES|Col2|Col3|Col4|Col5|
+|---|---|---|---|---|
+|**FORWARD** **AUXILIARY** **TANKS**|**FORWARD** **COMPARTMENT** **BULK CARGO**|**AFT** **AUXILIARY** **TANKS**|**AFT COMPARTMENT** **BULK CARGO**|**TOTAL BULK** **CARGO**|
+|0|657 CU FT (18.6 CU M)|0|869 CU FT (24.6 CU M)|1,526 CU FT (43.2 CU M)|
+|0|657 CU FT (18.6 CU M)|1|615 CU FT (17.4 CU M)|1,272 CU FT (36.0 CU M)|
+|0|657 CU FT (18.6 CU M)|2|615 CU FT (17.4 CU M)|1,272 CU FT (36.0 CU M)|
+|0|657 CU FT (18.6 CU M)|3|519 CU FT (14.7 CU M)|1,176 CU FT (33.3 CU M)|
+|0|657 CU FT (18.6 CU M)|4|409 CU FT (11.6 CU M)|1,066 CU FT (30.2 CU M)|
+|1|449 CU FT (12.7 CU M)|3|519 CU FT (14.7 CU M)|968 CU FT (27.4CU M)|
+|1|449 CU FT (12.7 CU M)|4|409 CU FT (11.6 CU M)|858 CU FT (24.3 CU M)|
+|2|336 CU FT (9.5 CU M)|3|519 CU FT (14.7 CU M)|855 CU FT (24.2 CU M)|
+|1|449 CU FT (12.7 CU M)|5|297 CU FT (8.4 CU M)|746 CU FT (21.1 CU M)|
+|2|336 CU FT (9.5 CU M)|4|409 CU FT (11.6 CU M)|745 CU FT (21.1 CU M)|
+|2|336 CU FT (9.5 CU M)|5|297 CU FT (8.4 CU M)|633 CU FT (17.9 CU M)|
+2-24
+
+2.6.3 Lower Cargo Compartments: Model BBJ MAX 9
+|MAXIMUMLOWERLOBECARGO/BAGGAGECOMPARTMENTVOLUMES|Col2|Col3|Col4|Col5|
+|---|---|---|---|---|
+|**FORWARD** **AUXILIARY** **TANKS**|**FORWARD** **COMPARTMENT** **BULK CARGO**|**AFT** **AUXILIARY** **TANKS**|**AFT COMPARTMENT** **BULK CARGO**|**TOTAL BULK** **CARGO**|
+|0|815 CU FT (23.1 CU M)|0|982 CU FT (27.8 CU M)|1,797 CU FT (50.9 CU M)|
+|0|815 CU FT (23.1 CU M)|1|728 CU FT (20.6 CU M)|1,543 CU FT (43.7 CU M)|
+|0|815 CU FT (23.1 CU M)|2|728 CU FT (20.6 CU M)|1,543 CU FT (43.7 CU M)|
+|0|815 CU FT (23.1 CU M)|3|632 CU FT (17.9 CU M)|1,447 CU FT (41.0 CU M)|
+|0|815 CU FT (23.1 CU M)|4|522 CU FT (14.8 CU M)|1,337 CU FT (37.9 CU M)|
+|1|607 CU FT (17.2 CU M)|3|632 CU FT (17.9 CU M)|1,239 CU FT (35.1 CU M)|
+|1|607 CU FT (17.2 CU M)|4|522 CU FT (14.8 CU M)|1,129 CU FT (32.0 CU M)|
+|2|494 CU FT (14.0 CU M)|3|632 CU FT (17.9 CU M)|1,126 CU FT (31.9 CU M)|
+|1|607 CU FT (17.2 CU M)|5|409 CU FT (11.6 CU M)|1,016 CU FT (28.8 CU M)|
+|2|494 CU FT (14.0 CU M)|4|522 CU FT (14.8 CU M)|1,016 CU FT (28.8 CU M)|
+|2|494 CU FT (14.0 CU M)|5|409 CU FT (11.6 CU M)|903 CU FT (25.6 CU M)|
+|3|381 CU FT (10.8 CU M)|4|522 CU FT (14.8 CU M)|903 CU FT (25.6 CU M)|
+|3|381 CU FT (10.8 CU M)|5|409 CU FT (11.6 CU M)|790 CU FT (22.4 CU M)|
+2-25
+
+2.7 DOOR CLEARANCES
+2.7.1 Passenger and Cargo Door Locations: All Models
+|Col1|Col2|SEENOTE*[3]|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+||**DOOR NAME**|**DOOR NAME**|**DOOR** **LOCATION**|**DOOR** **LOCATION**|**737-7** **FT-IN (M)**|**737-8/** **BBJ MAX 8** **FT-IN(M)**|**737-8-200** **FT-IN (M)**|**737-9/** **BBJ MAX 9** **FT-IN(M)**|**737-10** **FT-IN (M)**|
+|A|FWD SERVICE DOOR NO. 1|FWD SERVICE DOOR NO. 1|RIGHT|RIGHT|15-4 (4.67)|15-4 (4.67)|15-4 (4.67)|15-4 (4.67)|15-4 (4.67)|
+|B|FWD MAIN ENTRY DOOR NO. 1|FWD MAIN ENTRY DOOR NO. 1|LEFT|LEFT|16-6 (5.03)|16-6 (5.03)|16-6 (5.03)|16-6 (5.03)|16-6 (5.03)|
+|C|FORWARD CARGO DOOR|FORWARD CARGO DOOR|RIGHT|RIGHT|28-0 (8.53)|28-0 (8.53)|28-0 (8.53)|28-0 (8.53)|28-0 (8.53)|
+|D|EMERGENCY EXIT DOOR|EMERGENCY EXIT DOOR|LEFT AND RIGHT|LEFT AND RIGHT|47-6 (14.48)|54-10 (16.71)|54-10 (16.71)|60-0 (18.29)|63-4 (19.30)|
+|E|EMERGENCY EXIT DOOR|EMERGENCY EXIT DOOR|LEFT AND RIGHT|LEFT AND RIGHT|50-8 (15.44)|58-0 (17.68)|58-0 (17.68)|63-2 (19.25)|66-6 (20.27)|
+|F|MID EXIT DOOR *[1]|MID EXIT DOOR *[1]|LEFT AND RIGHT|LEFT AND RIGHT|N/A|N/A|82-8 (25.20)|87-7 (26.70)|92-1 (28.06)|
+|G|AFT CARGO DOOR|AFT CARGO DOOR|RIGHT|RIGHT|78-11 (24.05)|91-9 (27.97)|91-9 (27.97)|100-5 (30.61)|105-11 (32.28)|
+|H|AFT ENTRY/ SERVICE DOOR NO. 2 *[2]|AFT ENTRY/ SERVICE DOOR NO. 2 *[2]|LEFT AND RIGHT|LEFT AND RIGHT|91-9 (27.97)|104-7 (31.88)|104-7 (31.88)|113-3 (34.52)|118-9 (36.20)|
+NOTES: 
+ *[1] MID EXIT DOOR NOT ON 737-7 / -8 / BBJ MAX 8 
+ *[2] ENTRY DOORS LEFTSIDE, SERVICE DOORS RIGHTSIDE 
+ *[3] SEE SECTION 2.3 FOR DOOR SILL HEIGHTS
+2-26
+
+2.7.2 Door Clearances - Forward Main Entry Door: All Models
+NOTE: SEE SEC 2.7.1 FOR DOOR LOCATION
+2-27
+
+2.7.3 Door Clearances - Optional Forward Airstairs, Forward Main Entry 
+Door: All Models
+2-28
+
+2.7.4 Door Clearances: Sensor and Probe Locations - Forward Cabin 
+Doors: All Models
+|PROBE/SENSOR(SIDE)|DISTANCEAFTOFNOSE|DISTANCEABOVE(+)ORBELOW ( )DOORSILLREFERENCELINE -|
+|---|---|---|
+|PRIMARY PITOT (LEFT/RIGHT)|5 FT 2 IN (1.57 M)|+ 15 IN (0.38 M)|
+|ALTERNATE PITOT (RIGHT)|5 FT 2 IN (1.57 M)|+ 3 IN (0.08 M)|
+|ANGLE OF ATTACK (LEFT/RIGHT)|5 FT 2 IN (1.57 M)|- 6 IN (0.15 M)|
+|TOTAL AIR TEMPERATURE(LEFT)|11 FT 6 IN (3.51 M)|- 18 IN (0.46 M)|
+2-29
+
+2.7.5 Door Clearances – Forward Service Door: All Models
+NOTE: SEE SEC 2.7.1 FOR DOOR LOCATION
+2-30
+
+2.7.6 Door Clearances - Aft Entry/Service Door: All Models
+NOTE: SEE SEC 2.7.1 FOR DOOR LOCATION
+2-31
+
+2.7.7 Door Clearances - Lower Deck Cargo Compartments: All Models
+|Col1|DOORSIZE|CLEAROPENING (AxB)|
+|---|---|---|
+|**FORWARD** **CARGO DOOR**|51 x 48 IN (1.30 x 1.22 M)|35 x 48 IN (0.89 x 1.22 M)|
+|**AFT CARGO** **DOOR**|48 x 48 IN (1.22 x 1.22 M)|33 x 48 IN (0.84 x 1.22 M)|
+NOTE: SEE SEC 2.7.1 FOR DOOR LOCATIONS
+2-32
+
+3.0 AIRPLANE PERFORMANCE
+3.1 GENERAL INFORMATION
+The graphs in Section 3.2 provide information on payload-range capability of the 737 
+MAX airplane. To use these graphs, if the trip range and zero fuel weight (OEW + payload) 
+are known, the approximate takeoff weight can be found, limited by maximum zero fuel 
+weight, maximum design takeoff weight, or fuel capacity.
+The graphs in Section 3.3 provide information on FAA/EASA takeoff runway length 
+requirements with typical engines at different pressure altitudes. Maximum takeoff weights 
+shown on the graphs are the heaviest for the particular airplane models with the 
+corresponding engines. Standard day temperatures for pressure altitudes shown on the 
+FAA/EASA takeoff graphs are given below:
+|FAA/EASA takeoff graphs are given below:|Col2|Col3|Col4|
+|---|---|---|---|
+|**PRESSURE ALTITUDE**|**PRESSURE ALTITUDE**|**STANDARD DAY TEMP**|**STANDARD DAY TEMP**|
+|**FEET**|**METERS**|**°F**|**°C**|
+|0|0|59.0|15.0|
+|2,000|610|51.9|11.0|
+|4,000|1,219|44.7|7.1|
+|6,000|1,829|37.6|3.1|
+|8,000|2,438|30.5|-0.8|
+|10,000|3,048|23.3|-4.8|
+|12,000|3,658|16.2|-8.8|
+|14,000|4,267|9.1|-12.7|
+|15,500|4,724|3.7|-15.7|
+The graphs in Section 3.4 provide information on landing runway length requirements for 
+different airplane weights and airport altitudes. The maximum landing weights shown are 
+the heaviest for the particular airplane model.
+3-1
+
+3.2 PAYLOAD/RANGE FOR LONG RANGE CRUISE
+3.2.1 Payload/Range for Long Range Cruise: Model 737-7
+3-2
+
+3.2.2 Payload/Range for Long Range Cruise: Model BBJ MAX 7
+3-3
+
+3.2.3 Payload/Range for Long Range Cruise: Model 737-8 / -8-200
+3-4
+
+3.2.4 Payload/Range for Long Range Cruise: Model BBJ MAX 8
+3-5
+
+3.2.5 Payload/Range for Long Range Cruise: Model 737-9
+3-6
+
+3.2.6 Payload/Range for Long Range Cruise: Model BBJ MAX 9
+3-7
+
+3.2.7 Payload/Range for Long Range Cruise: Model 737-10
+3-8
+
+3.3 FAA/EASA TAKEOFF RUNWAY LENGTH REQUIREMENTS
+3.3.1 FAA/EASA Takeoff Runway Length Requirements - Standard Day, 
+Dry Runway: Model 737-7 (LEAP-1B25 Engine)
+3-9
+
+3.3.2 FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 27°F (STD + 15°C), Dry Runway: Model 737-7 (LEAP-1B25 Engine)
+3-10
+
+3.3.3 FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 45°F (STD + 25°C), Dry Runway: Model 737-7 (LEAP-1B25 Engine)
+3-11
+
+3.3.4 FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 63°F (STD + 35 °C), Dry Runway: Model 737-7 (LEAP-1B25 Engine)
+3-12
+
+3.3.5 FAA/EASA Takeoff Runway Length Requirements - Standard Day, 
+Dry Runway: Model 737-7 (LEAP-1B28B2C Engine)
+3-13
+
+3.3.6 FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 27°F (STD + 15°C), Dry Runway: Model 737-7 (LEAP-1B28B2C 
+Engine)
+3-14
+
+3.3.7 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 
+45°F (STD + 25°C), Dry Runway: Model 737-7 (LEAP-1B28B2C 
+Engine)
+3-15
+
+3.3.8 FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 63°F (STD + 35 °C), Dry Runway: Model 737-7 (LEAP-1B28B2C 
+Engine)
+3-16
+
+3.3.9 FAA/EASA Takeoff Runway Length Requirements - Standard Day, 
+Dry Runway: Model 737-8 / -8-200 (LEAP-1B25 Engine)
+3-17
+
+3.3.10 FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 27°F (STD + 15°C), Dry Runway: Model 737-8 / -8-200 (LEAP-1B25 
+Engine)
+3-18
+
+3.3.11 FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 45°F (STD + 25°C), Dry Runway: Model 737-8 / -8-200 (LEAP-1B25 
+Engine)
+3-19
+
+3.3.12 FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 63°F (STD + 35 °C), Dry Runway: Model 737-8 / -8-200 (LEAP-1B25 
+Engine)
+3-20
+
+3.3.13 FAA/EASA Takeoff Runway Length Requirements - Standard Day, 
+Dry Runway: Model 737-8 / -8-200 / BBJ MAX 8 (LEAP-1B28B1 / 
+LEAP-1B28BBJ1 Engines)
+3-21
+
+3.3.14 FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 27°F (STD + 15°C), Dry Runway: Model 737-8 / -8-200 / BBJ MAX 8 
+(LEAP-1B28B1 / LEAP-1B28BBJ1 Engines)
+3-22
+
+3.3.15 FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 45°F (STD + 25°C), Dry Runway: Model 737-8 / -8-200 / BBJ MAX 8 
+(LEAP-1B28B1 / LEAP-1B28BBJ1 Engines)
+3-23
+
+3.3.16 FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 63°F (STD + 35 °C), Dry Runway: Model 737-8 / -8-200 / BBJ MAX 8 
+(LEAP-1B28B1 / LEAP-1B28BBJ1 Engines)
+3-24
+
+3.3.17 FAA/EASA Takeoff Runway Length Requirements - Standard Day, 
+Dry Runway: Model 737-9 (LEAP-1B27 Engine)
+3-25
+
+3.3.18 FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 27°F (STD + 15°C), Dry Runway: Model 737-9 (LEAP-1B27 Engine)
+3-26
+
+3.3.19 FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 45°F (STD + 25°C), Dry Runway: Model 737-9 (LEAP-1B27 Engine)
+3-27
+
+3.3.20 FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 63°F (STD + 35 °C), Dry Runway: Model 737-9 (LEAP-1B27 Engine)
+3-28
+
+3.3.21 FAA/EASA Takeoff Runway Length Requirements – Standard Day, 
+Dry Runway: Model 737-9 / BBJ MAX 9 (LEAP-1B28 / LEAP1B28BBJ1 Engines)
+3-29
+
+3.3.22 FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 27°F (STD + 15°C), Dry Runway: Model 737-9 / BBJ MAX 9 (LEAP1B28 / LEAP-1B28BBJ1 Engines)
+3-30
+
+3.3.23 FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 45°F (STD + 25°C), Dry Runway: Model 737-9 / BBJ MAX 9 (LEAP1B28 / LEAP-1B28BBJ1 Engines)
+3-31
+
+3.3.24 FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 63°F (STD + 35 °C), Dry Runway: Model 737-9 / BBJ MAX 9 (LEAP1B28 / LEAP-1B28BBJ1 Engines)
+3-32
+
+3.3.25 FAA/EASA Takeoff Runway Length Requirements – Standard Day, 
+Dry Runway: Model 737-10 (LEAP-1B27)
+3-33
+
+3.3.26 FAA/EASA Takeoff Runway Length Requirements – Standard Day + 
+27°F (STD + 15°C, Dry Runway: Model 737-10 (LEAP-1B27)
+3-34
+
+3.3.27 FAA/EASA Takeoff Runway Length Requirements – Standard Day + 
+45°F (STD + 25°C), Dry Runway: Model 737-10 (LEAP-1B27)
+3-35
+
+3.3.28 FAA/EASA Takeoff Runway Length Requirements – Standard Day + 
+63°F (STD + 35 °C), Dry Runway: Model 737-10 (LEAP-1B27)
+3-36
+
+3.3.29 FAA/EASA Takeoff Runway Length Requirements – Standard Day, 
+Dry Runway: Model 737-10 (LEAP-1B28B1)
+3-37
+
+3.3.30 FAA/EASA Takeoff Runway Length Requirements – Standard Day + 
+27°F (STD + 15°C, Dry Runway: Model 737-10 (LEAP-1B28B1)
+3-38
+
+3.3.31 FAA/EASA Takeoff Runway Length Requirements – Standard Day + 
+45°F (STD + 25°C), Dry Runway: Model 737-10 (LEAP-1B28B1)
+3-39
+
+3.3.32 FAA/EASA Takeoff Runway Length Requirements – Standard Day + 
+63°F (STD + 35 °C), Dry Runway: Model 737-10 (LEAP-1B28B1)
+3-40
+
+3.3.33 ICAO Aerodrome Reference Code – All Models
+The airplane is certified to operate up to its maximum takeoff weight (MTOW). The 
+airplane flight manual provides field length requirements up to MTOW. The airplane 
+reference code can vary for some models based on the airplane takeoff weight up to 
+MTOW. 
+The following table shows the ICAO Aerodrome Reference Code classification for all 
+models
+|AIRPLANE MODEL|TAKEOFFWEIGHT LB(KG)|AERODROME REFERENCECODE|
+|---|---|---|
+|737-7|166,800(75,659)|3C|
+|737-7|177,000(80,285)|4C|
+|737-8|171,000(77,564)|3C|
+|737-8|182,200(82,644)|4C|
+|737-9|166,300(75,433)|3C|
+|737-9|194,700(88,314)|4C|
+3-41
+
+3.4 FAA/EASA LANDING RUNWAY LENGTH REQUIREMENTS
+3.4.1 FAA/EASA Landing Runway Length Requirements - Flaps 15: Model 
+737-7 / BBJ MAX 7
+3-42
+
+3.4.2 FAA/EASA Landing Runway Length Requirements - Flaps 30: Model 
+737-7 / BBJ MAX 7
+3-43
+
+3.4.3 FAA/EASA Landing Runway Length Requirements - Flaps 40: Model 
+737-7 / BBJ MAX 7
+3-44
+
+3.4.4 FAA/EASA Landing Runway Length Requirements - Flaps 15: Model 
+737-8 / -8-200 / BBJ MAX 8
+3-45
+
+3.4.5 FAA/EASA Landing Runway Length Requirements - Flaps 30: Model 
+737-8 / -8-200 / BBJ MAX 8
+3-46
+
+3.4.6 FAA/EASA Landing Runway Length Requirements - Flaps 40: Model 
+737-8 / -8-200 / BBJ MAX 8
+3-47
+
+3.4.7 FAA/EASA Landing Runway Length Requirements - Flaps 15: Model 
+737-9 / BBJ MAX 9
+3-48
+
+3.4.8 FAA/EASA Landing Runway Length Requirements - Flaps 30: Model 
+737-9 / BBJ MAX 9
+3-49
+
+3.4.9 FAA/EASA Landing Runway Length Requirements - Flaps 40: Model 
+737-9 / BBJ MAX 9
+3-50
+
+3.4.10 FAA/EASA Landing Runway Length Requirements - Flaps 15: Model 
+737-10
+3-51
+
+3.4.11 FAA/EASA Landing Runway Length Requirements - Flaps 30: Model 
+737-10
+3-52
+
+3.4.12 FAA/EASA Landing Runway Length Requirements - Flaps 40: Model 
+737-10
+3-53

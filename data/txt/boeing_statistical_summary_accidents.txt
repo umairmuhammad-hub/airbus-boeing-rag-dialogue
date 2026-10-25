@@ -1,0 +1,1623 @@
+Document: Statistical Summary of Commercial Jet Airplane Accidents
+Manufacturer: Boeing
+Source id: boeing_statistical_summary_accidents
+
+Statistical Summary 
+of Commercial Jet 
+Airplane Accidents
+Worldwide Operations | 1959‐2025
+April 2026
+
+Table of Contents
+|LeadershipMessage 2025StatisticalSummary 2025AirplaneAccidents AccidentRateandDepartureTrendsbyDecade AccidentSummarybyInjuryandDamage Departures Flight-Hours and Jet Airplanes in Service , AccidentSummarybyTypeofOperation AccidentRatesandOnboardFatalitiesbyYear AccidentRatesbyAirplaneType CAST/ICAOCommonTaxonomyTeamAviationOccurrenceCategories FatalitiesbyCICTTAviationOccurrenceCategories FatalAccidentsandFatalitiesbyPhaseofFlight|Col2|3 4 5 7 8 9 10 11 12 13 14 15|RegionalStatistics AsiaandPacific(APAC) EasternandSouthernAfrica(ESAF) EuropeandNorthAtlantic(EUR/NAT) MiddleEast(MID) NorthAmerica CentralAmericaandCaribbean(NACC) , SouthAmerica(SAM) WesternandCentralAfrica(WACAF) AboutThisDocument Definitions BoeingTerms ReferencedICAOandNTSBDefinitions|Col5|16 17 18 19 20 21 22 23 25 26 30 31|
+|---|---|---|---|---|---|
+For any inquiries, contact STATSUM@boeing.com.
+
+2025 was marked by difficult reminders of how our global aviation system must continue to strengthen safety.
+I want to acknowledge the deep pain accidents have caused for families and communities, whose anguish is 
+immeasurable, and does not diminish when the calendar turns a page.
+The events you’ll read about in this 57th edition of the Statistical Summary of Commercial Jet Airplane Accidents 
+are more than numbers on a chart. Each is a catalyst for progress, and it’s our collective responsibility to honor those 
+lessons in our work to ensure every flight, no matter the manufacturer, operator or region, carries passengers, crews 
+and goods to their destination without incident.
+Our industry continues to strive to make aviation safer, as demonstrated by the steps we’ve taken that have resulted in 
+a meaningful long-term reduction in accidents.
+Over the past two decades, this report documents a 35% decline in the total accident rate and a 60% decline in the 
+fatal accident rate – all while departures have increased by more than 20%.
+At Boeing, our dedicated safety professionals assist investigative and regulatory bodies around the world in 
+identifying risks and mitigating them through collaboration and a shared commitment to problem-solving.
+Airlines and operators are crucial partners, helping us better understand how our products and services are 
+performing in real-world conditions, providing valuable intelligence that we use to get ahead of air safety issues.
+We are also investing more resources to examine safe or expected outcomes of our aviation system to better 
+understand what’s working and why.
+Elisabeth Martin
+We thank the stakeholders whose expertise and experience have contributed to this report and honor the lives 
+affected by continuing to learn, act and improve.
+Vice President, Enterprise Safety and Mission Assurance
+Safety, Security & Airworthiness
+
+This is the 57th edition of the Boeing Statistical 
+Summary of Commercial Jet Airplane Accidents, 
+which has been published by the company every 
+year since 1969. The annual report provides data 
+and statistical analysis to yield key insights into the 
+safety of commercial air travel worldwide.
+The information contained in this report can be 
+used by the aviation industry to identify global 
+trends and opportunities to advance safety. 
+The findings underscore the importance of the 
+industry’s continuous pursuit of new levels of safety 
+in order to prevent accidents, injury or loss of life.
+
+Worldwide Commercial Jet Fleet
+|Event date|Airline|Model (agein year s)|Typeof operat ion|Accident location|Phase offlight|Eventdescription|Damage category|Hull loss|Injury category|Onboardfatalities/ occupants (externalfatalit ies)|Major acciden t|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|1/5/25|Air Dolomiti|ERJ 195 (12)|Sched Pax|Munich, Germany|Parked|A ground vehicle collided with the airplane, and the airplane was substantially damaged. There were no injuries reported.|Substantial|||||
+|1/9/25|UPS|767-300 (26)|Charter Cargo|San Bernardino, United States|Landing|The airplane sustained a tail strike during landing and received substantial damage. There were no injuries reported.|Substantial|||||
+|1/24/25|United Airlines|787-8 (12)|Sched Pax|Abidjan, Côte d’Ivoire|Cruise|The airplane experienced altitude excursions after autopilot disconnection. There was one serious injury reported.|None||Serious|||
+|1/28/25|Max Air Limited|737-400 (27)|Sched Pax|Kano, Nigeria|Landing|The airplane’s nose landing gear collapsed during landing and resulted in substantial damage. There were no injuries reported.|Substantial|||||
+|1/28/25|Air Busan|A321 (17)|Sched Pax|Busan, South Korea|Parked|The airplane was destroyed by a cabin fre while parked. There were serious injuries reported.|Destroyed|X|Serious||X|
+|1/29/25|PSA Airlines|CRJ 700 (20)|Sched Pax|Arlington, United States|Approach|The airplane collided with a U.S. Army helicopter while on approach. The airplane was destroyed, and there were 67 fatalities reported in total between the two aircraft.|Destroyed|X|Fatal|64/64 (3)|X|
+|2/5/25|TUI Airways|737-8 (3)|Sched Pax|London, United Kingdom|Cruise|The airplane impacted swans during climb and was substantially damaged. There were no injuries reported.|Substantial|||||
+|2/5/25|Delta Airlines|737-800 (24)|Sched Pax|Seattle, United States|Parked|The airplane was involved in a ground collision with another airplane and was substantially damaged. There were no injuries reported.|Substantial|||||
+|2/17/25|Endeavor Air|CRJ 900 (16)|Sched Pax|Toronto, Canada|Landing|The airplane overturned on landing and slid down the runway inverted. The airplane was destroyed, and there were two serious injuries reported.|Destroyed|X|Serious||X|
+|3/8/25|IndiGo|A321NEO (2)|Sched Pax|Chennai, India|Landing|The airplane sustained a tail strike during landing and received substantial damage. There were no injuries reported.|Substantial|||||
+|3/13/25|American Airlines|737-800 (13)|Sched Pax|Denver, United States|Parked|The airplane experienced an engine fre while parked and resulted in substantial damage. Minor injuries were reported.|Substantial|||||
+|4/15/25|Frontier Airlines|A321NEO (2)|Sched Pax|San Juan, Puerto Rico|Landing|The airplane experienced a hard landing and was substantially damaged. There were no injuries reported.|Substantial|||||
+|5/11/25|Turkish Airlines|A321NEO (5)|Sched Pax|Prague, Czech Republic|Landing|The airplane sustained a tail strike during landing and received substantial damage. There were no injuries reported.|Substantial|||||
+|6/8/25|United Airlines|737-8 (4)|Sched Pax|Phoenix, United States|Taxi|The airplane came to an abrupt stop during taxi. There was one serious injury reported.|None||Serious|||
+|6/18/25|Norwegian Air Sweden|737-800 (14)|Sched Pax|Nyköping, Sweden|Cruise|The airplane responded to a TCAS resolution advisory while at cruise, resulting in one reported serious injury.|None||Serious|||
+|7/2/25|United Airlines|737-900ER (11)|Sched Pax|Las Vegas, United States|Landing|The airplane sustained a tail strike during landing and received substantial damage. There were no injuries reported.|Substantial|||||
+|7/7/25|Fly Play Europe Limited|A321NEO (7)|Sched Pax|Rzeszów, Poland|Cruise|The airplane encountered hail while in cruise and was substantially damaged. There were no injuries reported.|Substantial|||||
+|7/12/25|Frontier Airlines|A320NEO (4)|Sched Pax|Denver, United States|Landing|The airplane sustained a tail strike during landing and received substantial damage. There were no injuries reported.|Substantial|||||
+
+Worldwide Commercial Jet Fleet
+|Event date|Airline|Model (agein year s)|Typeof operat ion|Accident location|Phase offlight|Eventdescription|Damage category|Hull loss|Injury category|Onboardfatalities/ occupants (externalfatalit ies)|Major acciden t|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|7/14/25|Republic Airways|ERJ 175 (17)|Sched Pax|Boston, United States|Landing|The airplane sustained a tail strike during landing and received substantial damage. There were no injuries reported.|Substantial|||||
+|7/18/25|Breeze Airways|A220 (1)|Sched Pax|North Charleston, United States|Parked|The airplane was involved in a ground collision with another aircraft while parked and was substantially damaged. Minor injuries were reported.|Substantial|||||
+|7/18/25|United Airlines|A319 (26)|Sched Pax|Santa Barbara, United States|Parked|Jet blast from the airplane seriously injured one person on the ground.|None||Serious|||
+|7/26/25|American Airlines|737-8 (4)|Sched Pax|Denver, United States|Takeof|The aircraft was substantially damaged during a rejected takeof. There were no injuries reported.|Substantial|||||
+|8/16/25|IndiGo|A321NEO (1)|Sched Pax|Mumbai, India|Landing|The airplane sustained a tail strike during landing and received substantial damage. There were no injuries reported.|Substantial|||||
+|8/28/25|Delta Airlines|A320 (24)|Sched Pax|Chase City, United States|Cruise|The airplane responded to a TCAS resolution advisory while at cruise, resulting in one reported serious injury.|None||Serious|||
+|9/7/25|WestJet|737-800 (17)|Sched Pax|St. Maarten, Netherlands Antilles|Landing|The airplane’s right main landing gear collapsed during landing and resulted in substantial damage. Minor injuries were reported.|Substantial|||||
+|9/11/25|Wizz Air UK Limited|A321NEO (1)|Sched Pax|Prague, Czech Republic|Landing|The airplane sustained a tail strike during landing and received substantial damage. There were no injuries reported.|Substantial|||||
+|10/12/25|European Air Transport|A300-600 (34)|Charter Cargo|London, United Kingdom|Landing|The airplane sustained a tail strike during landing and received substantial damage. There were no injuries reported.|Substantial|||||
+|10/16/25|United Airlines|737-8 (2)|Sched Pax|Moab, United States|Cruise|The airplane was involved in a midair collision with an object at cruise and was substantially damaged. Minor injuries were reported.|Substantial|||||
+|10/20/25|ACT Airlines|747-400 (32)|Charter Cargo|Hong Kong, China|Landing|The airplane veered of the runway and struck a ground vehicle shortly after landing and was destroyed. There were two fatalities.|Destroyed|X|Fatal|0/4 (2)|X|
+|10/25/25|Challenge Airlines|767-300 (28)|Charter Cargo|Liège, Belgium|Parked|The airplane’s rudder was observed to be substantially damaged during a “before taxi” checklist. There were no injuries reported.|Substantial|||||
+|11/1/25|Skymark Airlines|737-800 (16)|Sched Pax|Sapporo, Japan|Approach|The airplane was struck by lightning and was substantially damaged. There were no injuries reported.|Substantial|||||
+|11/4/25|UPS|MD-11 (34)|Charter Cargo|Louisville, United States|Takeof|The airplane’s left engine separated from the wing shortly after airplane rotation, and the airplane impacted the ground. The airplane was destroyed, and there were 14 reported fatalities.|Destroyed|X|Fatal|3/3 (11)|X|
+|11/26/25|Cathay Pacifc Airways|A350 (5)|Sched Pax|Hong Kong, China|Landing|The airplane sustained a tail strike during landing and received substantial damage. There were no injuries reported.|Substantial|||||
+|11/29/25|Envoy Air|ERJ 175 (2)|Sched Pax|Chicago, United States|Taxi|The airplane was involved in a ground collision with another airplane and was substantially damaged. There were no injuries reported.|Substantial|||||
+|12/8/25|Jet2|737-800 (9)|Sched Pax|Leeds, United Kingdom|Parked|The airplane was involved in a ground handling accident and was substantially damaged. There were no injuries reported.|Substantial||Serious|||
+|12/12/25|Aerosucre S.A.|727-200 (46)|Charter Cargo|Barranquilla, Colombia|Landing|The airplane was forced to land after the left-hand main landing gear failed after takeof. The airplane was substantially damaged. There were no injuries reported.|Substantial|X||||
+|**36**|**Total** **accidents**|||||||**6**||**67 Onboard** **(16 external)**|**5**|
+Note: At the time this report was published, Air India Flight 171 was 
+categorized as “UNK — unknown or undetermined” by the ICAO 
+Occurrence Validation Study Group (OVSG), and therefore it did not 
+meet the criteria for inclusion. See page 26: “Definitions and Terms.”
+
+Accident Rate 
+and Departure 
+Trends by 
+Decade
+Worldwide Commercial Jet Fleet 
+1976‐2025
+Accident Rates per One Million Departures and Total Departures, Decade View
+Departures
+All accident rate
+Hull loss rate
+Fatal accident rate
+Departures by decade (millions)
+Rate per million departures
+Over the past five decades, statistics show 
+that accident rates continue to decline 
+even though air travel continues to grow 
+worldwide. Between the last two decades, 
+data shows the following trends:
+• 
+Accident rate: 35% decline
+1976-1985
+1986-1995
+1996-2005
+2006-2015
+2016-2025
+• 
+Hull loss rate: 58% decline
+• 
+Fatal accident rate: 60% decline
+• 
+Departures: 22% increase
+Total accident numbers are also declining, 
+in addition to accident rates. For example, 
+between the last two decades, total 
+accidents dropped by about 20%; hull 
+losses dropped by nearly 50%; and fatal 
+accidents dropped by about 50%.
+
+Accident 
+Summary by 
+Injury and 
+Damage
+Worldwide Commercial Jet Fleet 
+1959‐2025
+1959‐2025
+1,574 Nonfatal accidents
+71%
+with hull loss
+with substantial damage
+2,219
+total
+accidents
+without substantial damage
+Fatal accidents
+29%
+with hull loss
+with substantial damage
+without substantial damage
+2016‐2025
+Nonfatal accidents
+with hull loss
+90%
+total
+accidents
+with substantial damage
+without substantial damage
+10%
+Fatal accidents
+with hull loss
+with substantial damage
+without substantial damage
+Note: “Hull loss” and the terms here refer to the severity of damage 
+an airplane incurs from an accident.
+
+Departures, 
+Flight-Hours 
+and Jet Airplanes 
+in Service*
+Worldwide Commercial Jet Fleet 
+2006‐2025
+Departure and Flight-Hours (Millions)
+Flight-hours
+Departures
+78.3 million flight-hours
+1,969 million flight-hours 
+logged since 1959. 63% of 
+total hours logged were on 
+Boeing flights. (1,249 million 
+on Boeing airplanes)
+33.1 million departures 
+998 million departures 
+since 1959. 62% of those 
+departures were on Boeing 
+airplanes. (622 million on 
+Boeing airplanes)
+Over the past 20 years, the statistics show a 
+growing trend in the gap between total number 
+of departures and total flight-hours. The 
+worldwide airplane fleet and commercial air 
+traffic are expected to continue to grow over 
+the next two decades.
+Commercial Airplanes in Service (Thousands)
+Worldwide fleet
+Boeing fleet
+30,660
+total airplanes
+14,031
+Boeing airplanes
+Sources: 2005‐2019, Jet Information Services Inc. 
+2020-2025, Cirium.
+*Certified jet airplanes greater than 60,000 pounds (27,216 kilograms) maximum 
+gross weight, including those in temporary nonflying status and those in use by 
+non-airline operators. Excluded are commercial airplanes operated in military 
+service and CIS/USSR/PRC-manufactured airplanes.
+
+Accident 
+Summary by 
+Type of 
+Operation
+Worldwide Commercial Jet Fleet
+1959‐2025
+|Typeofoperation|Allaccidents|Col3|Fatalaccidents|Col5|Onboardfatalities (externalfatalities)*|Col7|Hulllossaccidents|Col9|
+|---|---|---|---|---|---|---|---|---|
+||1959‐2025|2016‐2025|1959‐2025|2016‐2025|1959‐2025|2016‐2025|1959‐2025|2016‐2025|
+|Passenger|1,774|251|517|25|29,955 (818)|1,099 (18)|768|55|
+|– Scheduled|1,648|246|470|24|25,758 (814)|1,028 (18)|695|52|
+|– Charter|126|5|47|1|4,197 (4)|71 (0)|73|3|
+|Cargo|323|54|86|6|289 (398)|16 (48)|205|25|
+|Maintenance test, ferry, positioning, training and demonstration|122|1|42|0|190 (66)|0 (0)|74|1|
+|**Totals**|**2,219**|**306**|**645**|**31**|**30,434** **(1, 282)**|**1,115** **(66)**|**1,047**|**81**|
+*External fatalities include on-ground fatalities as well as fatalities on other aircraft involved.
+
+Accident Rates 
+and Onboard 
+by Year
+Worldwide Commercial Jet Fleet 
+1959‐2025
+Accident Rates and Onboard Fatalities per One Million Departures
+1,500
+Onboard fatalities
+All accident rate
+Hull loss accident rate
+Fatal accident rate
+1,200
+Annual accident rate (per million departures)
+Annual onboard fatalities
+The first decade of the Jet Age saw 
+dramatic improvements in fatal accident 
+rates. Since then, safety advancements 
+across the industry have helped continue 
+the downward trend over the decades, 
+despite year-to-year fluctuations.
+
+Accident Rates by Airplane Type
+Hull Loss Accidents | Worldwide Commercial Jet Fleet | 1959‐2025
+Hull loss 
+with fatalities
+Hull loss
+Sorted by year 
+of introduction
+3.04 / 5.65
+*No longer in service
+0.72 / 1.25
+0.77 / 1.45
+DC-9
+0.87 / 1.76
+737-100/-200
+2.31 / 4.62
+F-28
+1.28 / 2.98
+DC-10/MD-10
+0.63 / 2.69
+A300
+0.32 / 0.78
+MD-80/-90
+0.13 / 0.55
+0.21 / 0.28
+0.66 / 1.49
+BAe 146, RJ-70/-85/-100
+1.89 / 2.52
+A310
+0.27 / 0.88
+737-300/-400/-500
+0.52 / 0.91
+A300-600
+0.07 / 0.17
+A320/321/319/318
+0.42 / 1.19
+F-100/F-70
+0.64 / 1.17
+747-400
+1.86 / 3.41
+MD-11
+0.0 / 0.56
+A340
+0.12 / 0.36
+A330
+0.12 / 0.36
+Hull loss with fatalities accident rate
+0.08 / 0.16
+737-600/-700/-800/-900
+0.00 / 0.00
+Hull loss accident rate — Total bar
+0.04 / 0.09
+CRJ-700/-900/-1000
+0.03 / 0.17
+EMB-170/-175/-190
+0.00 / 0.00
+A380
+*The 707/720, Caravelle, Comet, CV-880-990, Concorde, Mercure, 
+Trident, VC10, DC-8, BAC1-11, L-1011, and 747-100/-200/-300/SP 
+have not operated commercially in the last five years.
+0.00 / 0.00
+0.00 / 0.00
+**747-8
+0.46 / 0.46
+A350
+**These types have accumulated fewer than one million departures.
+0.00 / 0.00
+C-Series/A220
+0.04 / 0.04
+A320/321/319 NEO
+0.27 / 0.27
+737 MAX
+0.00 / 0.00
+A330 NEO
+0.52 / 1.05
+1,047
+Total
+Hull loss accident rate (per million departures)
+
+CAST/ICAO Common Taxonomy Team Aviation 
+The International Civil Aviation Organization (ICAO) and the Commercial 
+Aviation Safety Team (CAST), which includes government officials and 
+aviation industry leaders, have jointly chartered the CAST/ICAO Common 
+Taxonomy Team (CICTT). CICTT includes experts from several air 
+carriers; aircraft manufacturers; engine manufacturers; pilot associations; 
+regulatory authorities; and various ICAO member states. CICTT is 
+co-chaired by one representative each from ICAO and CAST.
+The CICTT Aviation Occurrence Taxonomy is designed to permit an 
+assignment of multiple categories as necessary to describe the accident 
+or incident. Since 2001, the Occurrence Validation Study Group (OVSG), 
+formerly Safety Indicator Steering Group (SISG), has met annually to 
+assign CICTT occurrence categories to the prior year’s accidents.
+In a separate activity, the CAST assigned each fatal accident to a single 
+principal category. Those accident assignments and a brief description of 
+the categories are reported in the following chart.
+The team is charged with developing common taxonomies and 
+definitions for aviation accident and incident reporting systems. 
+Common taxonomies and definitions establish a standard industry 
+language, thereby improving the quality of information and 
+communication. With this common language, the aviation community’s 
+capacity to focus on common safety issues is greatly enhanced.
+The CAST’s use of principal categories has been instrumental in focusing 
+industry and government efforts and resources on accident prevention. 
+Charts using principal categories are used by the CAST to identify changes 
+to historical risk and to help to determine if the safety enhancements put in 
+place are effective.
+For a complete description of the categories, go to 
+www.intlaviationstandards.org.
+
+Fatalities by CICTT Aviation Occurrence Categories
+Fatal Accidents | Worldwide Commercial Jet Fleet | 2016‐2025
+1,000
+|ARC|Abnormal Runway Contact|
+|---|---|
+|BIRD|Bird|
+|CFIT CTOL|Controlled Flight Into or Toward Terrain Collision With Obstacle(s) During Takeoff and Landing|
+|F-NI|Fire/Smoke (Non-Impact)|
+|FUEL|Fuel Related|
+|ICE|Icing|
+|LOC-I|Loss of Control — Inflight|
+|MAC|Midair/Near Midair Collision|
+|OTHR|Other|
+|RAMP|Ground Handling|
+|RE|Runway Excursion (Takeoff or Landing)|
+|RI-VAP SCF-NP SCF-PP|Runway Incursion – Vehicle, Aircraft or Person System/Component Failure or Malfunction (Non-Power Plant) System/Component Failure or Malfunction (Power Plant)|
+|TURB|Turbulence Encounter|
+|USOS|Undershoot/Overshoot|
+External fatalities (Total 66)
+Onboard fatalities (Total 1,115)
+FUEL
+RE
+BIRD
+LOC-I
+F-NI
+CFIT
+SCF-NP
+ICE
+RI-VAP
+RAMP
+SCF-PP
+OTHR
+CTOL
+MAC
+TURB
+(RE, USOS, ARC)
+Number of fatal accidents (31 total)
+FUEL
+RE
+BIRD
+LOC-I
+F-NI
+C-FIT
+SCF-NP
+ICE
+RI-VAP
+RAMP
+SCF-PP
+OTHR
+TURB
+CTOL
+MAC
+(RE, USOS, ARC)
+Note: The EgyptAir Flight 804 accident, which occurred in 2016, was recently recategorized from “UNK” to “F-NI (Fire/Smoke — Non Impact)” by the ICAO Occurrence Validation Study Group (OVSG) and is now included in this report. 
+Note: Principal categories as assigned by CAST. See “Definitions and Terms” for included and excluded event details. For a complete description of CAST/ICAO Common Taxonomy Team (CICTT) Aviation Occurrence Categories, go to www.intlaviationstandards.org.
+
+Fatal Accidents 
+and Fatalities 
+by Phase of 
+Flight
+Worldwide Commercial Jet Fleet 
+2016‐2025
+Percentage of Fatal Accidents and Onboard Fatalities | 2016‐2025
+22%
+48%
+Taxi, load/
+unload,
+parked,
+Initial 
+climb
+Climb 
+(flaps up)
+Cruise
+Descent
+Initial 
+approach
+Final 
+approach
+Landing
+tow
+Takeoff
+Fatal accidents
+6%
+16%
+6%
+10%
+10%
+3%
+0%
+13%
+35%
+Onboard fatalities
+0%
+16%
+2%
+31%
+6%
+6%
+0%
+15%
+24%
+18%
+39%
+Exposure
+(percentage
+of flight time
+estimated for a
+1.5-hour flight)
+1%
+1%
+14%
+57%
+Initial 
+approach
+Final 
+approach
+fix 
+11%
+fix 
+12%
+3%
+1%
+Note: Percentages may not sum to 100% because of numerical rounding.
+While cruising at altitude makes up the 
+majority of time in the air, this phase of 
+flight accounts for 10% of all fatal accidents. 
+Conversely, the landing phase accounts 
+for only 1% of flight time, but 35% of 
+all fatal accidents. Most safety-related 
+improvements over the past few decades 
+have focused on the taxi, climb, approach 
+and landing phases.
+Distribution of Fatal Accidents and Onboard Fatalities | 2016‐2025
+Fatal accidents
+Onboard fatalities
+Onboard fatalities
+Fatal accidents
+Taxi
+load/unload,
+Takeoff
+Initial
+climb
+Climb
+(flaps up)
+Cruise
+Descent
+Initial
+approach
+Final
+approach
+Landing
+parked,
+tow
+
+North America, 
+Central America 
+and Caribbean
+(NACC)
+Europe and 
+North Atlantic
+(EUR/NAT)
+This section organizes accident data into 
+seven regions aligned with the ICAO’s annual 
+Safety Report. Each region is different in 
+terms of air travel growth rates, operational 
+profiles and other important factors, and the 
+data is reflected with those factors in mind. 
+However, all regions share one common 
+trend – the continued decline in fatal 
+accident rates across recent decades.
+Asia and Pacific
+(APAC)
+Middle East
+(MID)
+Western 
+and Central 
+Africa
+(WACAF)
+South 
+America
+(SAM)
+Accident statistics are aligned with 
+operators and their home state of operation. 
+This regional data perspective provides 
+additional safety data for ICAO members 
+as they develop and implement their global, 
+regional and national aviation safety plans.
+Eastern and 
+Southern Africa
+(ESAF)
+
+Asia and Pacific (APAC)
+Accident Rates per One Million Departures
+Regional accident counts
+APAC
+1959‐2025
+2016‐2025
+1996-2005
+All accidents
+2006-2015
+2016-2025
+Fatal accidents
+Onboard fatalities
+7,377
+External fatalities
+Hull loss accidents
+Fatal accidents
+CICTT category
+2016‐2025
+BIRD
+CFIT
+2.15
+1.23
+0.58
+0.19
+0.69
+0.08
+0.20
+1.53
+0.65
+CTOL
+Accident rate
+Hull loss accident rate
+Fatal accident rate
+F-NI
+FUEL
+Percentage of Fatal Accidents and Onboard Fatalities | 2016‐2025
+ICE
+12%
+62%
+Taxi, load/
+LOC-I
+unload,
+parked,
+Initial 
+climb
+Climb 
+(flaps up)
+Cruise
+Descent
+Initial 
+approach
+Final 
+approach
+Landing
+tow
+Takeoff
+MAC
+Fatal accidents
+0%
+12%
+0%
+12%
+12%
+0%
+0%
+12%
+50%
+OTHR
+Onboard fatalities
+0%
+11%
+0%
+34%
+0%
+0%
+0%
+17%
+36%
+RAMP
+RE (RE, USOS, ARC)
+11%
+53%
+RI-VAP
+Exposure
+(percentage
+of flight time
+estimated for a
+1.5-hour flight)
+1%
+1%
+14%
+57%
+SCF-NP
+Initial 
+approach
+Final 
+approach
+fix 
+11%
+fix 
+12%
+3%
+1%
+SCF-PP
+TURB
+Note: Percentages may not sum to 100% because of numerical rounding.
+
+Eastern and Southern Africa (ESAF)
+Accident Rates per One Million Departures
+Regional accident counts
+ESAF
+1959‐2025
+2016‐2025
+1996-2005
+All accidents
+2006-2015
+2016-2025
+Fatal accidents
+Onboard fatalities
+1,064
+External fatalities
+Hull loss accidents
+Fatal accidents
+CICTT category
+2016‐2025
+11.38
+BIRD
+8.54
+CFIT
+5.08
+3.70
+2.54
+1.48
+1.14
+0.37
+1.45
+CTOL
+Accident rate
+Hull loss accident rate
+Fatal accident rate
+F-NI
+FUEL
+Percentage of Fatal Accidents and Onboard Fatalities | 2016‐2025
+ICE
+0%
+0%
+Taxi, load/
+LOC-I
+unload,
+parked,
+Initial 
+climb
+Climb 
+(flaps up)
+Cruise
+Descent
+Initial 
+approach
+Final 
+approach
+Landing
+tow
+Takeoff
+MAC
+Fatal accidents
+0%
+0%
+0%
+100%
+0%
+0%
+0%
+ 0%
+0%
+OTHR
+Onboard fatalities
+0%
+0%
+0%
+100%
+0%
+0%
+0%
+ 0%
+0%
+RAMP
+RE (RE, USOS, ARC)
+0%
+0%
+RI-VAP
+Exposure
+(percentage
+of flight time
+estimated for a
+1.5-hour flight)
+1%
+1%
+14%
+57%
+SCF-NP
+Initial 
+approach
+Final 
+approach
+fix 
+11%
+fix 
+12%
+3%
+1%
+SCF-PP
+TURB
+Note: Percentages may not sum to 100% because of numerical rounding.
+
+Europe and North Atlantic (EUR/NAT)
+Accident Rates per One Million Departures
+Regional accident counts
+EUR/NAT
+1959‐2025
+2016‐2025
+1996-2005
+All accidents
+2006-2015
+2016-2025
+Fatal accidents
+Onboard fatalities
+8,071
+External fatalities
+Hull loss accidents
+Fatal accidents
+CICTT category
+2016‐2025
+BIRD
+CFIT
+1.84
+0.70
+0.56
+0.26
+0.41
+0.11
+0.22
+1.57
+1.22
+CTOL
+Accident rate
+Hull loss accident rate
+Fatal accident rate
+F-NI
+FUEL
+Percentage of Fatal Accidents and Onboard Fatalities | 2016‐2025
+ICE
+12%
+62%
+Taxi, load/
+LOC-I
+unload,
+parked,
+Initial 
+climb
+Climb 
+(flaps up)
+Cruise
+Descent
+Initial 
+approach
+Final 
+approach
+Landing
+tow
+Takeoff
+MAC
+Fatal accidents
+12%
+0%
+12%
+0%
+12%
+0%
+0%
+12%
+50%
+OTHR
+Onboard fatalities
+0%
+0%
+57%
+0%
+4%
+0%
+0%
+4%
+33%
+RAMP
+RE (RE, USOS, ARC)
+57%
+37%
+RI-VAP
+Exposure
+(percentage
+of flight time
+estimated for a
+1.5-hour flight)
+1%
+1%
+14%
+57%
+SCF-NP
+Initial 
+approach
+Final 
+approach
+fix 
+11%
+fix 
+12%
+3%
+1%
+SCF-PP
+TURB
+Note: Percentages may not sum to 100% because of numerical rounding.
+
+Middle East (MID)
+Accident Rates per One Million Departures
+Regional accident counts
+MID
+1959‐2025
+2016‐2025
+1996-2005
+All accidents
+2006-2015
+2016-2025
+Fatal accidents
+Onboard fatalities
+2,419
+External fatalities
+Hull loss accidents
+Fatal accidents
+CICTT category
+2016‐2025
+BIRD
+9.78
+CFIT
+5.83
+4.19
+1.73
+0.38
+2.10
+0.23
+0.61
+1.21 
+CTOL
+Accident rate
+Hull loss accident rate
+Fatal accident rate
+F-NI
+FUEL
+Percentage of Fatal Accidents and Onboard Fatalities | 2016‐2025
+ICE
+0%
+66%
+Taxi, load/
+LOC-I
+unload,
+parked,
+Initial 
+climb
+Climb 
+(flaps up)
+Cruise
+Descent
+Initial 
+approach
+Final 
+approach
+Landing
+tow
+Takeoff
+MAC
+Fatal accidents
+0%
+0%
+0%
+0%
+33%
+0%
+0%
+0%
+66%
+OTHR
+Onboard fatalities
+0%
+0%
+0%
+0%
+51%
+0%
+0%
+0%
+48%
+RAMP
+RE (RE, USOS, ARC)
+0%
+48%
+RI-VAP
+Exposure
+(percentage
+of flight time
+estimated for a
+1.5-hour flight)
+1%
+1%
+14%
+57%
+SCF-NP
+Initial 
+approach
+Final 
+approach
+fix 
+11%
+fix 
+12%
+3%
+1%
+SCF-PP
+TURB
+Note: Percentages may not sum to 100% because of numerical rounding.
+
+North America, Central America and Caribbean (NACC)
+Accident Rates per One Million Departures
+Regional accident counts
+NACC
+1959‐2025
+2016‐2025
+1996-2005
+All accidents
+2006-2015
+2016-2025
+Fatal accidents
+Onboard fatalities
+7,296
+External fatalities
+Hull loss accidents
+Fatal accidents
+CICTT category
+2016‐2025
+BIRD
+CFIT
+1.29
+0.54
+0.41
+0.19
+0.30
+0.09
+0.17
+1.10
+1.11
+CTOL
+Accident rate
+Hull loss accident rate
+Fatal accident rate
+F-NI
+FUEL
+Percentage of Fatal Accidents and Onboard Fatalities | 2016‐2025
+ICE
+37%
+37%
+Taxi, load/
+LOC-I
+unload,
+parked,
+Initial 
+climb
+Climb 
+(flaps up)
+Cruise
+Descent
+Initial 
+approach
+Final 
+approach
+Landing
+tow
+Takeoff
+MAC
+Fatal accidents
+12%
+37%
+0%
+12%
+0%
+0%
+0%
+25%
+12%
+OTHR
+Onboard fatalities
+0%
+62%
+0%
+0%
+0%
+0%
+0%
+36%
+0%
+RAMP
+RE (RE, USOS, ARC)
+62%
+36%
+RI-VAP
+Exposure
+(percentage
+of flight time
+estimated for a
+1.5-hour flight)
+1%
+1%
+14%
+57%
+SCF-NP
+Initial 
+approach
+Final 
+approach
+fix 
+11%
+fix 
+12%
+3%
+1%
+SCF-PP
+TURB
+Note: Percentages may not sum to 100% because of numerical rounding.
+
+South America (SAM)
+Accident Rates per One Million Departures
+Regional accident counts
+SAM
+1959‐2025
+2016‐2025
+1996-2005
+All accidents
+2006-2015
+2016-2025
+Fatal accidents
+Onboard fatalities
+3,250
+External fatalities
+Hull loss accidents
+Fatal accidents
+CICTT category
+2016‐2025
+BIRD
+CFIT
+4.87
+3.17
+1.14
+0.83
+1.80
+0.21
+0.36
+1.85
+1.46
+CTOL
+Accident rate
+Hull loss accident rate
+Fatal accident rate
+F-NI
+FUEL
+Percentage of Fatal Accidents and Onboard Fatalities | 2016‐2025
+ICE
+66%
+0%
+Taxi, load/
+LOC-I
+unload,
+parked,
+Initial 
+climb
+Climb 
+(flaps up)
+Cruise
+Descent
+Initial 
+approach
+Final 
+approach
+Landing
+tow
+Takeoff
+MAC
+Fatal accidents
+0%
+33%
+33%
+0%
+0%
+33%
+0%
+0%
+0%
+OTHR
+Onboard fatalities
+0%
+0%
+6%
+0%
+0%
+93%
+0%
+0%
+0%
+RAMP
+RE (RE, USOS, ARC)
+6%
+0%
+RI-VAP
+Exposure
+(percentage
+of flight time
+estimated for a
+1.5-hour flight)
+1%
+1%
+14%
+57%
+SCF-NP
+Initial 
+approach
+Final 
+approach
+fix 
+11%
+fix 
+12%
+3%
+1%
+SCF-PP
+TURB
+Note: Percentages may not sum to 100% because of numerical rounding.
+
+Western and Central Africa (WACAF)
+Accident Rates per One Million Departures
+Regional accident counts
+WACAF
+1959‐2025
+2016‐2025
+57.18
+1996-2005
+All accidents
+2006-2015
+2016-2025
+Fatal accidents
+48.38
+Onboard fatalities
+External fatalities
+33.61
+Hull loss accidents
+25.20
+23.26
+Fatal accidents
+CICTT category
+2016‐2025
+14.70
+11.63
+13.20
+BIRD
+CFIT
+CTOL
+Accident rate
+Hull loss accident rate
+Fatal accident rate
+F-NI
+FUEL
+Percentage of Fatal Accidents and Onboard Fatalities | 2016‐2025
+ICE
+0%
+0%
+Taxi, load/
+LOC-I
+unload,
+parked,
+Initial 
+climb
+Climb 
+(flaps up)
+Cruise
+Descent
+Initial 
+approach
+Final 
+approach
+Landing
+tow
+Takeoff
+MAC
+Fatal accidents
+0%
+0%
+0%
+0%
+0%
+0%
+0%
+0%
+0%
+OTHR
+Onboard fatalities
+0%
+0%
+0%
+0%
+0%
+0%
+0%
+0%
+0%
+RAMP
+RE (RE, USOS, ARC)
+0%
+0%
+RI-VAP
+Exposure
+(percentage
+of flight time
+estimated for a
+1.5-hour flight)
+1%
+1%
+14%
+57%
+SCF-NP
+Initial 
+approach
+Final 
+approach
+fix 
+11%
+fix 
+12%
+3%
+1%
+SCF-PP
+TURB
+Note: Percentages may not sum to 100% because of numerical rounding.
+
+2. 
+Commercial airplanes operated in military service. (However, if a 
+military-owned commercial jet transport is used for civilian 
+commercial service, that data will be included in this summary.)
+The accident statistics presented in this summary are confined to 
+worldwide commercial jet airplanes that are heavier than 60,000 
+pounds (27,216 kilograms) maximum gross weight. Within that set of 
+airplanes, there are two groups excluded:
+1. 
+Airplanes manufactured in the Commonwealth of Independent States 
+(CIS), the Union of Soviet Socialist Republics (USSR), or the People’s 
+Republic of China (PRC) due to lack of operational data.
+The following airplanes are included in the statistics:
+|Boeing|Col2|Airbus|BAESYSTEMS(Avro)|BAESYSTEMS(HS)|Embraer|Lockheed|
+|---|---|---|---|---|---|---|
+|707/720|DC-8|A300|Avro RJ70/85/100|BAe 146|E170/175|L-1011|
+|727|DC-9|A300-600||Comet 4|E190/195||
+|737|DC-10/MD-10|A310|**BAE SYSTEMS (BAC)**|Trident||**Dassault Aviation**|
+|747|MD-11|A320/321/319/318|Concorde||**Fokker**|Mercure|
+|757|MD-80/-90|A330|One-Eleven|**Bombardier**|F28||
+|767||A340|VC10|CRJ700/900/1000|F70|**General Dynamics**|
+|777||A350|||F100|**(Convair)**|
+|787||A380||**Aérospatiale**||CV-880/-990|
+|717||A220/C Series||Caravelle|||
+Flight operations data for Boeing airplanes is developed internally from 
+airline operator reports. Flight operations data for non-Boeing airplanes is 
+compiled by Cirium. The source of jet airplane inventory data is Cirium.
+Readers may note that cumulative accident totals from year to year may 
+not exactly correlate with the expected change from the previous year’s 
+accidents. This is a result of periodic audits of the entire accident history 
+for updates to the data.
+Accident data is obtained, when available, from government accident 
+reports. Otherwise, information is from operators, manufacturers, various 
+government and private information services, and press accounts.
+Definitions related to the development of statistics in this summary are 
+primarily based on corresponding ICAO, U.S. National Transportation 
+Safety Board (NTSB) and Flight Safety Foundation (FSF) terms, as 
+explained in the next section.
+
+Definitions
+Airplane Accident
+Excluded Events
+An occurrence associated with the operation of an airplane that takes 
+place between the time any person boards the airplane with the intention 
+of flight and such time as all such persons have disembarked, in which:
+• 
+Fatal and nonfatal injuries from natural causes.
+• 
+Fatal and nonfatal self-inflicted injuries or injuries inflicted by 
+other persons.
+• 
+The airplane sustains substantial damage.
+• 
+Fatal and nonfatal injuries of stowaways hiding outside the areas 
+normally available to the passengers and crew.
+• 
+Death or serious injury results from:
+• 
+Nonfatal injuries resulting from atmospheric turbulence, normal 
+maneuvering, loose objects, boarding, disembarking, evacuation, and 
+maintenance and servicing.
+-
+Being in the airplane.
+-
+Direct contact with the airplane or anything attached thereto.
+-
+Direct exposure to jet blast.
+• 
+Nonfatal injuries to persons not aboard the airplane.
+• 
+Occurrences classified as missing, unknown or undetermined 
+(CICTT occurrence category UNK) are not included in this 
+publication until otherwise determined by the official ICAO 
+Annex 13 investigation.
+Excluded Airplanes
+Airplanes manufactured in the CIS, USSR or the PRC are excluded 
+because of the lack of operational data. Commercial airplanes operated 
+in military service are generally excluded. (If a military-owned commercial 
+jet transport is used for civilian commercial service, that data is included in 
+this summary.)
+Note: The exclusion of the UNK occurrence category is in alignment 
+with industry efforts to identify, prioritize and reduce global high-risk 
+categories of occurrences such as those identified in ICAO’s Global 
+Aviation Safety Plan (GASP).
+(See the “CAST/ICAO Common Taxonomy Team Aviation Occurrence 
+Categories” section.)
+
+Definitions
+Excluded Events (continued)
+Destroyed
+The following occurrences are not considered airplane accidents:
+The estimated or likely cost of repairs would have exceeded 50% of the 
+new value of the airplane had it still been in production at the time 
+of the accident.
+• 
+Those that are the result of experimental flight tests. (However, 
+maintenance flight tests, ferry, positioning, training and demonstration 
+flights are not excluded.)
+Note: This definition is consistent with the FSF definition. NTSB defines 
+“destroyed” as damaged due to impact, fire or in-flight failures to an extent 
+not economically repairable.
+• 
+Those that are the result of a hostile action, including sabotage, 
+hijacking, terrorism and military action.
+Note: This is generally consistent with the ICAO and the NTSB definition 
+of an accident. (See the “Referenced ICAO and NTSB Definition” section.)
+Fatal Injury
+The differences are:
+Any injury that results in death within 30 days of the accident.
+1. 
+The ICAO and NTSB references to “aircraft” were changed to 
+“airplane” and references to propellers and rotors were eliminated.
+Note 1: This is consistent with both the ICAO and the NTSB definitions.
+Note 2: External fatalities include on-ground fatalities as well as fatalities 
+on other aircraft involved.
+2. 
+This publication excludes events that result in nonfatal injuries from 
+atmospheric turbulence, normal maneuvering, etc.; nonfatal injuries 
+to persons not aboard the airplane; and any events that result from 
+an experimental flight test or from hostile action, such as sabotage, 
+hijacking, terrorism and military action.
+Note: Within this publication, the term “accident” is used interchangeably 
+with “airplane accident.”
+
+Definitions
+Major Accident
+Serious Injury
+An accident in which any of three conditions is met:
+An injury that is sustained by a person in an accident and that:
+• 
+The airplane was destroyed.
+• 
+Requires hospitalization for more than 48 hours, commencing 
+within seven days from the date the injury was received.
+• 
+There were multiple fatalities.
+• 
+Results in a fracture of any bone (except simple fractures of 
+fingers, toes or nose).
+• 
+There was one fatality and the airplane was substantially damaged.
+• 
+Causes severe hemorrhage, nerve, muscle or tendon damage.
+Note: This definition is consistent with the NTSB definition. It also is 
+generally consistent with FSF, except that the FSF definition specifies that 
+fatalities include only occupants of the airplane. ICAO does not normally 
+define the term “major accident.”
+• 
+Involves injury to any internal organ.
+• 
+Involves second- or third-degree burns or any burns affecting 
+more than 5% of the body surface.
+• 
+Involves verified exposure to infectious substances or 
+injurious radiation.
+Note: This is generally consistent with the ICAO definition. It is also 
+consistent with the NTSB definition except for the last bullet, which is 
+not included in the NTSB definition.
+
+Definitions
+Substantial Damage
+Note 1: This definition is generally consistent with the NTSB definition of 
+substantial damage except it (1) deletes the reference to “small puncture 
+holes in the fabric” and “ground damage to rotor or propeller blades,” and 
+(2) deletes “damage to landing gear” from the list of items not considered 
+to be substantial damage.
+Damage or failure that adversely affects the structural strength, 
+performance, or flight characteristics of the airplane, and that would 
+normally require major repair or replacement of the affected component.
+Substantial damage is not considered to be:
+Note 2: ICAO does not define the term “substantial damage.” Still, the 
+definition is generally consistent with the ICAO definition of damage or 
+structural failure contained within Part (B) of the ICAO accident definition.
+• 
+Engine failure or damage limited to an engine, 
+if only one engine fails or is damaged.
+Note 3: Boeing does not consider damage to be substantial if repairs 
+to an event airplane enable it to be flown to a repair base within 48 hours 
+of the event.
+• 
+Bent fairings or cowlings.
+• 
+Dents in the skin.
+• 
+Small puncture holes in the skin.
+• 
+Damage to wheels.
+• 
+Damage to tires.
+• 
+Damage to flaps.
+• 
+Damage to engine accessories.
+• 
+Damage to brakes.
+• 
+Damage to wingtips.
+
+Boeing Terms*
+Accident Rates
+Hull Loss
+In general, this expression is a measure of accidents per million departures. 
+Departures (or flight cycles) are used as the basis for calculating rates 
+because there is a stronger statistical correlation between accidents 
+and departures than there is between accidents and flight-hours, or 
+between accidents and the number of airplanes in service, or between 
+accidents and passenger miles or freight miles. Airplane departures data 
+is continually updated and revised as new information and estimating 
+processes become available. These form the baseline for the measure of 
+accident rates, and, as a consequence, rates may vary between editions 
+of this publication.
+Airplane totally destroyed or damaged and not repaired. Hull loss also 
+includes, but is not limited to, events in which:
+• 
+The airplane is missing. An aircraft is considered to be missing 
+when the official search has been terminated and the wreckage 
+has not been located.
+• 
+The airplane is completely inaccessible.
+State of Operation
+Regional data is reported based on the ICAO member state that serves as 
+the headquarters location of the operator involved in the accident.
+Airplane Collisions
+Events involving two or more airplanes are counted as separate events, 
+one for each airplane. For example, destruction of two airplanes in a 
+collision is considered to be two separate accidents.
+Fatal Accident
+An accident that results in fatal injury.
+*The terms on this page were created by Boeing for this publication and do not have corresponding equivalents in ICAO or NTSB.
+
+Referenced ICAO and NTSB Definitions
+Accident
+B. The aircraft sustains damage or structural failure which:
+ICAO defines an “accident” as follows:
+• 
+Adversely affects the structural strength, performance or flight 
+characteristics of the aircraft.
+Accident. An occurrence associated with the operation of an aircraft that, 
+in the case of a manned aircraft, takes place between the time any person 
+boards the aircraft with the intention of flight until such time as all such 
+persons have disembarked, or in the case of an unmanned aircraft, takes 
+place between the time the aircraft is ready to move with the purpose of 
+flight until such time as it comes to rest at the end of the flight and the 
+primary propulsion system is shut down, in which:
+• 
+Would normally require major repair or replacement of the 
+affected component, except for engine failure or damage, when 
+the damage is limited to a single engine (including its cowlings 
+or accessories), to propellers, wingtips, antennas, probes, 
+vanes, tires, brakes, wheels, fairings, panels, landing gear doors, 
+windscreens, the aircraft skin (such as small dents or puncture 
+holes), or for minor damages to main rotor blades, tail rotor 
+blades, landing gear, and those resulting from hail or bird strike 
+(including holes in the radome).
+A. A person is fatally or seriously injured as a result of:
+• 
+Being in the aircraft.
+C. The aircraft is missing or is completely inaccessible.
+• 
+Direct contact with any part of the aircraft, including parts which 
+have become detached from the aircraft.
+NTSB defines an “aircraft accident” as follows:
+• 
+Direct exposure to jet blast, except when the injuries are from 
+natural causes, self-inflicted or inflicted by other persons, or when 
+the injuries are to stowaways hiding outside the areas normally 
+available to the passengers and crew.
+Aircraft accident means an occurrence associated with the operation 
+of an aircraft that takes place between the time any person boards the 
+aircraft with the intention of flight and all such persons have disembarked, 
+and in which any person suffers death or serious injury, or in which the 
+aircraft receives substantial damage. For purposes of this part, the 
+definition of “aircraft accident” includes “unmanned aircraft accident,” 
+as defined in 49 CFR 830.2.
+
+Referenced ICAO and NTSB Definitions
+NTSB defines “serious injury” as any injury that:
+Safety Management System (SMS)
+ICAO defines an “SMS” as follows:
+A. Requires hospitalization for more than 48 hours, commencing within
+seven days from the date the injury was received.
+An SMS is a systematic approach to managing safety, including 
+the necessary organizational structures, accountabilities, policies 
+and procedures. Visit www.icao.int/safety/SafetyManagement for 
+more information.
+B. Results in a fracture of any bone (except simple fractures of fingers,
+toes or nose).
+C. Causes severe hemorrhages, nerve, muscle or tendon damage.
+D. Involves any internal organ.
+Serious Injury
+E. 
+Involves second- or third-degree burns, or any burns affecting more 
+than 5% of the body surface.
+ICAO defines “serious injury” as follows:
+An injury that is sustained by a person in an accident and which:
+Substantial Damage
+A. Requires hospitalization for more than 48 hours, commencing
+NTSB defines “substantial damage” as follows:
+within seven days from the date the injury was received.
+B. Results in a fracture of any bone (except simple fractures of
+Substantial damage means damage or failure that adversely affects the 
+structural strength, performance, or flight characteristics of the aircraft, 
+and which would normally require major repair or replacement of the 
+affected component. Engine failure or damage limited to an engine if 
+only one engine fails or is damaged, bent fairings or cowling, dented 
+skin, small puncture holes in the skin or fabric, ground damage to rotor or 
+propeller blades, and damage to landing gear, wheels, tires, flaps, engine 
+accessories, brakes, or wingtips are not considered “substantial damage” 
+for the purpose of this part.
+fingers, toes or nose).
+C. Involves lacerations that cause severe hemorrhage, nerve,
+muscle or tendon damage.
+D. Involves injury to any internal organ.
+E. 
+Involves second- or third-degree burns, or any burns affecting 
+more than 5% of the body surface.
+F. 
+Involves verified exposure to infectious substances or
+injurious radiation.
+ICAO does not define the term “substantial damage.”
+
+Statistical 
+Summary
+Copyright © 2026 Boeing. All rights reserved. 329259 4/25

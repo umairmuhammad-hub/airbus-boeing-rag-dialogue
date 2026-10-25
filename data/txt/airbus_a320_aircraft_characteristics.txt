@@ -1,0 +1,4317 @@
+Document: A320 Aircraft Characteristics - Airport and Maintenance Planning (Rev. Jun 2024)
+Manufacturer: Airbus
+Source id: airbus_a320_aircraft_characteristics
+
+SCOPE
+1-1-0
+Introduction
+Purpose
+1.
+General
+The A320 AIRCRAFT CHARACTERISTICS – AIRPORT AND MAINTENANCE PLANNING (AC)
+manual is issued for the A320-200 series aircraft that have the wing-tip fences or sharklets, to
+give necessary data to the airport operators, airlines and Maintenance/Repair Organizations
+(MRO) for airport and maintenance facilities planning.
+The A320 Family is the world’s best-selling single-aisle aircraft. An A320 takes off or lands in the
+world each 1.5 seconds for each day, the family recorded more than 117 million cycles since the
+entry-into-service and records the best-in-class dispatch reliability of 99.7%.
+To make sure this true market leadership, Airbus continues to invest in improvements in the
+A320 Family: enhancements to the aerodynamics for example the sharklet wingtip devices,
+upgrades to the widest passenger cabin in its class, the A320 Family neo. The latter mixes topof-class engine efficiency offered with two new engine options: the PW1100G PurePower from
+Pratt&Whitney and the LEAP-1A from CFM International offered the new sharklet devices with
+superior aerodynamics.
+The A320neo family offers a minimum of 15% fuel savings and an additional flight range of
+about 500 nm (926 km) and up to 20% fuel savings got through the cabin innovations and
+efficiency improvements. For the environment, the A320neo family is also more eco-friendly,
+with 5 000 t (11 023 113 lb) less CO2 emissions each year for each aircraft and almost 50%
+reduction in noise footprint compared to before generation aircraft.
+When you fly the ACJ family member, we pride ourselves on four key intertwined DNA strands
+that are behind everything. We give the ultimate comfort, intercontinental freedom, pioneering
+technology and reliability. An ACJ is not only a plane but a home where you can experience
+space like no other jet, crafted ambience and artisanal quality materials you can connect with.
+We have selected the space and technology to let you do fine dining, pampering, movie night,
+working from the sky to make strategic business decisions or simply relaxing with your loved
+ones and guests, uncompromisingly.
+1-1-0
+
+1-2-0
+Glossary
+Glossary
+1.
+List of Abbreviations
+A/C
+Aircraft
+ACF
+Aircraft Cabin Flex
+ACN
+Aircraft Classification Number
+ACR
+Aircraft Classification Rating
+AMM
+Aircraft Maintenance Manual
+APU
+Auxiliary Power Unit
+B/C
+Business Class
+CBR
+California Bearing Ratio
+CC
+Cargo Compartment
+CG
+Center of Gravity
+CKPT
+Cockpit
+E
+Young’s Modulus
+ELEC
+Electric, Electrical, Electricity
+ESWL
+Equivalent Single Wheel Load
+FAA
+Federal Aviation Administration
+F/C
+First Class
+FDL
+Fuselage Datum Line
+FR
+Frame
+FSTE
+Full Size Trolley Equivalent
+FWD
+Forward
+GPU
+Ground Power Unit
+GSE
+Ground Support Equipment
+HYD
+Hydraulic
+ICAO
+International Civil Aviation Organisation
+IDG
+Integrated Drive Generator
+ISA
+International Standard Atmosphere
+L
+Left
+L
+Radius of relative stiffness
+LCN
+Load Classification Number
+LD
+Lower Deck
+L/G
+Landing Gear
+LH
+Left Hand
+LPS
+Last Pax Seating
+1-2-0
+
+MAC
+Mean Aerodynamic Chord
+MAX
+Maximum
+MIN
+Minimum
+MLG
+Main Landing Gear
+NLG
+Nose Landing Gear
+OAT
+Outside Air Temperature
+PAX
+Passenger
+PBB
+Passenger Boarding Bridge
+PCA
+Portland Cement Association
+PCN
+Pavement Classification Number
+PCR
+Pavement Classification Rating
+PRM
+Passenger with Reduced Mobility
+R
+Right
+RH
+Right Hand
+ULD
+Unit Load Device
+US
+United States
+WV
+Weight Variant
+Y/C
+Tourist Class
+2.
+Design Weight Terminology
+- Maximum Design Ramp Weight (MRW):
+Maximum weight for ground maneuver (including weight of taxi and run-up fuel) as limited
+by aircraft strength and airworthiness requirements. It is also called Maximum Design Taxi
+Weight (MTW).
+- Maximum Design Landing Weight (MLW):
+Maximum weight for landing as limited by aircraft strength and airworthiness requirements.
+- Maximum Design Takeoff Weight (MTOW):
+Maximum weight for takeoff as limited by aircraft strength and airworthiness requirements.
+(This is the maximum weight at start of the take-off run).
+- Maximum Design Zero Fuel Weight (MZFW):
+Maximum permissible weight of the aircraft without usable fuel.
+- Maximum Seating Capacity:
+Maximum number of passengers specifically certified or anticipated for certification.
+- Usable Volume:
+Usable volume available for cargo, pressurized fuselage, passenger compartment and
+cockpit.
+- Water Volume:
+Maximum volume of cargo compartment.
+- Usable Fuel:
+Fuel available for aircraft propulsion.
+1-2-0
+
+AIRCRAFT DESCRIPTION
+2-1-1
+General Aircraft Characteristics Data
+General Aircraft Characteristics Data
+**ON A/C A320-200
+1.
+The following table gives characteristics of A320-200 models, these data are specific to each
+weight variant:
+|Aircraft Characteristics|Col2|Col3|Col4|Col5|
+|---|---|---|---|---|
+||WV000|WV001|WV002|WV003|
+|Maximum Ramp Weight (MRW) Maximum Taxi Weight(MTW)|73 900 kg (162 922 lb)|68 400 kg (150 796 lb)|70 400 kg (155 205 lb)|75 900 kg (167 331 lb)|
+|Maximum Take-Off Weight (MTOW)|73 500 kg (162 040 lb)|68 000 kg (149 914 lb)|70 000 kg (154 324 lb)|75 500 kg (166 449 lb)|
+|Maximum Landing Weight (MLW)|64 500 kg (142 198 lb)|64 500 kg (142 198 lb)|64 500 kg (142 198 lb)|64 500 kg (142 198 lb)|
+|Maximum Zero Fuel Weight (MZFW)|60 500 kg (133 380 lb)|60 500 kg (133 380 lb)|60 500 kg (133 380 lb)|60 500 kg (133 380 lb)|
+|Aircraft Characteristics|Col2|Col3|Col4|Col5|
+|---|---|---|---|---|
+||WV004|WV005|WV006|WV007|
+|Maximum Ramp Weight (MRW) Maximum Taxi Weight(MTW)|71 900 kg (158 512 lb)|67 400 kg (148 592 lb)|66 400 kg (146 387 lb)|77 400 kg (170 638 lb)|
+|Maximum Take-Off Weight (MTOW)|71 500 kg (157 630 lb)|67 000 kg (147 710 lb)|66 000 kg (145 505 lb)|77 000 kg (169 756 lb)|
+|Maximum Landing Weight (MLW)|64 500 kg (142 198 lb)|64 500 kg (142 198 lb)|64 500 kg (142 198 lb)|64 500 kg (142 198 lb)|
+|Maximum Zero Fuel Weight (MZFW)|60 500 kg (133 380 lb)|60 500 kg (133 380 lb)|60 500 kg (133 380 lb)|60 500 kg (133 380 lb)|
+|Aircraft Characteristics|Col2|Col3|Col4|
+|---|---|---|---|
+||WV008|WV009|WV010|
+|Maximum Ramp Weight (MRW)|73 900 kg|75 900 kg|77 400 kg|
+2-1-1
+
+|Aircraft Characteristics|Col2|Col3|Col4|
+|---|---|---|---|
+||WV008|WV009|WV010|
+|Maximum Taxi Weight(MTW)|(162 922 lb)|(167 331 lb)|(170 638 lb)|
+|Maximum Take-Off Weight (MTOW)|73 500 kg (162 040 lb)|75 500 kg (166 449 lb)|77 000 kg (169 756 lb)|
+|Maximum Landing Weight (MLW)|64 500 kg (142 198 lb)|64 500 kg (142 198 lb)|64 500 kg (142 198 lb)|
+|Maximum Zero Fuel Weight (MZFW)|61 000 kg (134 482 lb)|61 000 kg (134 482 lb)|61 000 kg (134 482 lb)|
+|Aircraft Characteristics|Col2|Col3|Col4|
+|---|---|---|---|
+||WV011|WV012|WV013|
+|Maximum Ramp Weight (MRW) Maximum Taxi Weight(MTW)|75 900 kg (167 331 lb)|77 400 kg (170 638 lb)|71 900 kg (158 512 lb)|
+|Maximum Take-Off Weight (MTOW)|75 500 kg (166 449 lb)|77 000 kg (169 756 lb)|71 500 kg (157 630 lb)|
+|Maximum Landing Weight (MLW)|66 000 kg (145 505 lb)|66 000 kg (145 505 lb)|71 500 kg (157 630 lb)|
+|Maximum Zero Fuel Weight (MZFW)|62 500 kg (137 789 lb)|62 500 kg (137 789 lb)|61 000 kg (134 482 lb)|
+|Aircraft Characteristics|Col2|Col3|Col4|Col5|
+|---|---|---|---|---|
+||WV014|WV015|WV016|WV017|
+|Maximum Ramp Weight (MRW) Maximum Taxi Weight(MTW)|73 900 kg (162 922 lb)|78 400 kg (172 842 lb)|73 900 kg (162 922 lb)|78 400 kg (172 482 lb)|
+|Maximum Take-Off Weight (MTOW)|73 500 kg (162 040 lb)|78 000 kg (171 961 lb)|73 500 kg (162 040 lb)|78 000 kg (171 961 lb)|
+|Maximum Landing Weight (MLW)|64 500 kg (142 198 lb)|64 500 kg (142 198 lb)|66 000 kg (145 505 lb)|66 000 kg (145 505 lb)|
+|Maximum Zero Fuel Weight (MZFW)|61 500 kg (135 584 lb)|61 000 kg (134 482 lb)|62 500 kg (137 789 lb)|62 500 kg (137 789 lb)|
+|Aircraft Characteristics|Col2|Col3|
+|---|---|---|
+||WV018|WV019|
+|Maximum Ramp Weight (MRW) Maximum Taxi Weight(MTW)|71 900 kg (158 512 lb)|70 400 kg (155 205 lb)|
+|Maximum Take-Off Weight (MTOW)|71 500 kg (157 630 lb)|70 000 kg (154 324 lb)|
+|Maximum Landing Weight (MLW)|66 000 kg (145 505 lb)|64 500 kg (142 198 lb)|
+2-1-1
+
+|Aircraft Characteristics|Col2|Col3|
+|---|---|---|
+||WV018|WV019|
+|Maximum Zero Fuel Weight (MZFW)|62 500 kg (137 789 lb)|61 000 kg (134 482 lb)|
+**ON A/C A320neo
+2.
+The following table gives characteristics of A320neo and ACJA320neo Models, these data are
+specific to each Weight Variant:
+|Aircraft Characteristics|Col2|Col3|Col4|
+|---|---|---|---|
+||WV050|WV051|WV052|
+|Maximum Ramp Weight (MRW) Maximum Taxi Weight(MTW)|73 900 kg (162 921 lb)|73 900 kg (162 921 lb)|77 400 kg (170 638 lb)|
+|Maximum Take-Off Weight (MTOW)|73 500 kg (162 040 lb)|73 500 kg (162 040 lb)|77 000 kg (169 756 lb)|
+|Maximum Landing Weight (MLW)|66 300 kg (146 166 lb)|67 400 kg (148 591 lb)|66 300 kg (146 166 lb)|
+|Maximum Zero Fuel Weight (MZFW)|62 800 kg (138 450 lb)|64 300 kg (141 757 lb)|62 800 kg (138 450 lb)|
+|Aircraft Characteristics|Col2|Col3|Col4|Col5|
+|---|---|---|---|---|
+||WV053|WV054|WV055|WV055 ACJ|
+|Maximum Ramp Weight (MRW) Maximum Taxi Weight(MTW)|77 400 kg (170 638 lb)|79 400 kg (175 047 lb)|79 400 kg (175 047 lb)|79 400 kg (175 047 lb)|
+|Maximum Take-Off Weight (MTOW)|77 000 kg (169 756 lb)|79 000 kg (174 165 lb)|79 000 kg (174 165 lb)|79 000 kg (174 165 lb)|
+|Maximum Landing Weight (MLW)|67 400 kg (148 591 lb)|66 300 kg (146 166 lb)|67 400 kg (148 591 lb)|67 400 kg (148 591 lb)|
+|Maximum Zero Fuel Weight (MZFW)|64 300 kg (141 757 lb)|62 800 kg (138 450 lb)|64 300 kg (141 757 lb)|64 300 kg (141 757 lb)|
+|Aircraft Characteristics|Col2|Col3|Col4|
+|---|---|---|---|
+||WV056|WV057|WV068|
+|Maximum Ramp Weight (MRW) Maximum Taxi Weight(MTW)|70 400 kg (155 205 lb)|70 400 kg (155 205 lb)|75 900 kg (167 331 lb)|
+|Maximum Take-Off Weight (MTOW)|70 000 kg (154 324 lb)|70 000 kg (154 324 lb)|75 500 kg (166 449 lb)|
+|Maximum Landing Weight (MLW)|66 300 kg|66 300 kg|66 300 kg|
+2-1-1
+
+|Col1|Aircraft Characteristics|Col3|Col4|Col5|Col6|
+|---|---|---|---|---|---|
+|||WV056 WV057|WV056 WV057||WV068|
+|||(146 166 lb) (146 166 lb)|(146 166 lb) (146 166 lb)|(146 166 lb) (146 166 lb)|(146 166 lb)|
+|Maximum Zero Fuel Weight (MZFW)||62 800 kg (138 450 lb) 62 800 kg (138 450 lb)|62 800 kg (138 450 lb) 62 800 kg (138 450 lb)|62 800 kg (138 450 lb) 62 800 kg (138 450 lb)|62 800 kg (138 450 lb)|
+|||||||
+||Aircraft Characteristics|Aircraft Characteristics|Aircraft Characteristics|||
+||||WV069||WV071|
+|Maximum Ramp Weight (MRW) Maximum Taxi Weight(MTW)|||75 900 kg (167 331 lb)||75 400 kg (166 228 lb)|
+|Maximum Take-Off Weight (MTOW)|||75 500 kg (166 449 lb)||75 000 kg (165 347 lb)|
+|Maximum Landing Weight (MLW)|||67 400 kg (148 591 lb)||67 400 kg (148 592 lb)|
+|Maximum Zero Fuel Weight (MZFW)|||64 300 kg (141 757 lb)||64 300 kg (141 757 lb)|
+|Aircraft Characteristics|Col2|Col3|Col4|
+|---|---|---|---|
+||WV075|WV078|WV082|
+|Maximum Ramp Weight (MRW) Maximum Taxi Weight(MTW)|74 400 kg (164 024 lb)|72 900 kg (160 717 lb)|71 900 kg (158 512 lb)|
+|Maximum Take-Off Weight (MTOW)|74 000 kg (163 142 lb)|72 500 kg (159 835 lb)|71 500 kg (157 630 lb)|
+|Maximum Landing Weight (MLW)|67 400 kg (148 592 lb)|66 300 kg (146 166 lb)|66 300 kg (146 166 lb)|
+|Maximum Zero Fuel Weight (MZFW)|64 300 kg (141 757 lb)|62 800 kg (138 450 lb)|62 800 kg (138 450 lb)|
+|Aircraft Characteristics|Col2|Col3|Col4|Col5|Col6|Col7|
+|---|---|---|---|---|---|---|
+||WV083|WV85|WV103|WV110 ACJ|WV111 ACJ|WV112 ACJ|
+|Maximum Ramp Weight (MRW) Maximum Taxi Weight(MTW)|71 900 kg (158 512 lb)|71 400 kg (157 410 lb)|79 400 kg (175 047 lb)|79 400 kg (175 047 lb)|78 400 kg (172 842 lb)|77 400 kg (170 638 lb)|
+|Maximum Take-Off Weight(MTOW)|71 500 kg (157 630 lb)|71 000 kg (156 528 lb)|79 000 kg (174 165 lb)|79 000 kg (174 165 lb)|78 000 kg (171 961 lb)|77 000 kg (169 756 lb)|
+|Maximum Landing Weight(MLW)|67 400 kg (148 592 lb)|67 400 kg (148 592 lb)|68 400 kg (150 796 lb)|67 400 kg (148 592 lb)|67 400 kg (148 592 lb)|67 400 kg (148 592 lb)|
+2-1-1
+
+|Aircraft Characteristics|Col2|Col3|Col4|Col5|Col6|Col7|
+|---|---|---|---|---|---|---|
+||WV083|WV85|WV103|WV110 ACJ|WV111 ACJ|WV112 ACJ|
+|Maximum Zero Fuel Weight(MZFW)|64 300 kg (141 757 lb)|64 300 kg (141 757 lb)|65 300 kg (143 962 lb)|55 300 kg (121 916 lb)|55 300 kg (121 916 lb)|55 300 kg (121 916 lb)|
+3.
+The following table gives characteristics of A320-200 and A320neo models, these data are
+common to each weight variant:
+|Aircraft Characteristics|Col2|Col3|Col4|Col5|Col6|Col7|
+|---|---|---|---|---|---|---|
+|Standard Seating Capacity|180(Single-Class)|180(Single-Class)|180(Single-Class)|180(Single-Class)|180(Single-Class)|180(Single-Class)|
+|Usable Fuel Capacity (density = 0.785 kg/l)||A320CEO CFM Engine|A320CEO IAE Engine|ACJ3 20CEO|A320NEO|ACJA 320neo|
+|Usable Fuel Capacity (density = 0.785 kg/l)|Total Wing Fuel|15 959 l (4 216 USgal)|15 609 l (4 123 USgal)|15 490 l (4 092 USgal)|15 490 l (4 092 USgal)|15 490 l (4 092 USgal)|
+|Usable Fuel Capacity (density = 0.785 kg/l)|Center Tank Fuel|8 250 l (2 179 USgal)|8 250 l (2 179 USgal)|8 250 l (2 179 USgal)|8 250 l (2 179 USgal)|8 250 l (2 179 USgal)|
+|Usable Fuel Capacity (density = 0.785 kg/l)|ACT 1|X|X|3 121 l (824 USgal)|X|3 121 l (824 USgal)|
+|Usable Fuel Capacity (density = 0.785 kg/l)|ACT 2|X|X|3 121 l (824 USgal)|X|3 121 l (824 USgal)|
+|Usable Fuel Capacity (density = 0.785 kg/l)|ACT 4 / 4.1 / FWD|X|X|2 186 l (577 USgal)|X|2 186 l (577 USgal)|
+|Usable Fuel Capacity (density = 0.785 kg/l)|Maximum Total Aircraft-Fuel|24 209 l (6 395 USgal)|23 859 l (6 303 USgal)|32 168 l (8 498 USgal)|23 740 l (6 271 USgal)|32 168 l (8 498 USgal)|
+|Pressurized Fuselage Volume (A/C non equipped)|330 m3 (11 654 ft3)|330 m3 (11 654 ft3)|330 m3 (11 654 ft3)|330 m3 (11 654 ft3)|330 m3 (11 654 ft3)|330 m3 (11 654 ft3)|
+|Passenger Compartment Volume|139 m3 (4 909 ft3)|139 m3 (4 909 ft3)|139 m3 (4 909 ft3)|139 m3 (4 909 ft3)|139 m3 (4 909 ft3)|139 m3 (4 909 ft3)|
+|Cockpit Volume|9 m3 (318 ft3)|9 m3 (318 ft3)|9 m3 (318 ft3)|9 m3 (318 ft3)|9 m3 (318 ft3)|9 m3 (318 ft3)|
+|Usable Volume, FWD CC|13.28 m3|13.28 m3|13.28 m3|13.28 m3|13.28 m3|13.28 m3|
+2-1-1
+
+|Aircraft Characteristics|Col2|
+|---|---|
+||(469 ft3)|
+|Usable Volume, AFT CC|18.26 m3 (645 ft3)|
+|Usable Volume, Bulk CC|5.88 m3 (208 ft3)|
+|Water Volume, FWD CC|15.56 m3 (549 ft3)|
+|Water Volume, AFT CC|20.77 m3 (733 ft3)|
+|Water Volume, Bulk CC|7.76 m3 (274 ft3)|
+2-1-1
+
+2-2-0
+General Aircraft Dimensions
+General Aircraft Dimensions
+1.
+This section provides general aircraft dimensions.
+2-2-0
+
+**ON A/C A320-200
+5.87 m
+(19.26 ft)
+4.14 m
+(13.58 ft)
+12.64 m
+(41.47 ft)
+5.07 m
+(16.63 ft)
+34.10 m
+(111.88 ft)
+12.45 m
+(40.85 ft)
+0.50 m
+(1.64 ft)
+0.93 m
+(3.05 ft)
+7.59 m
+(24.90 ft)
+8.95 m
+(29.36 ft)
+RELATED TO AIRCRAFT ATTITUDE AND WEIGHT.
+NOTE:
+N_AC_020200_1_0040101_01_04
+General Aircraft Dimensions
+Wing Tip Fence (Sheet 1 of 4)
+FIGURE-2-2-0-991-004-A01
+2-2-0
+
+**ON A/C A320-200
+37.57 m
+(123.27 ft)
+6.07 m
+(19.91 ft)
+5.75 m
+(18.86 ft)
+1.24 m
+(4.07 ft)
+3.95 m
+(12.96 ft)
+3.31 m
+(10.86 ft)
+8.30 m
+(27.23 ft)
+11.91 m
+(39.07 ft)
+11.19 m
+(36.71 ft)
+4.87 m
+(15.98 ft)
+CFM56
+V2500
+11.12 m
+(36.48 ft)
+1.50 m
+(4.92 ft)
+0.76 m
+(2.49 ft)
+1.82 m
+(5.97 ft)
+22.40 m
+(73.49 ft)
+RELATED TO AIRCRAFT ATTITUDE AND WEIGHT.
+NOTE:
+N_AC_020200_1_0040104_01_02
+General Aircraft Dimensions
+Wing Tip Fence (Sheet 2 of 4)
+FIGURE-2-2-0-991-004-A01
+2-2-0
+
+**ON A/C A320-200
+5.87 m
+(19.26 ft)
+4.14 m
+(13.58 ft)
+12.64 m
+(41.47 ft)
+5.07 m
+(16.63 ft)
+35.80 m
+(117.45 ft)
+12.45 m
+(40.85 ft)
+2.43 m
+(7.97 ft)
+3.79 m
+(12.43 ft)
+0.50 m
+(1.64 ft)
+0.93 m
+(3.05 ft)
+7.59 m
+(24.90 ft)
+8.95 m
+(29.36 ft)
+RELATED TO AIRCRAFT ATTITUDE AND WEIGHT.
+NOTE:
+N_AC_020200_1_0040103_01_02
+General Aircraft Dimensions
+Sharklet (Sheet 3 of 4)
+FIGURE-2-2-0-991-004-A01
+2-2-0
+
+**ON A/C A320-200
+37.57 m
+(123.27 ft)
+6.07 m
+(19.91 ft)
+5.75 m
+(18.86 ft)
+1.24 m
+(4.07 ft)
+3.95 m
+(12.96 ft)
+3.31 m
+(10.86 ft)
+8.30 m
+(27.23 ft)
+11.91 m
+(39.07 ft)
+16.29 m
+(53.44 ft)
+11.19 m
+(36.71 ft)
+CFM56
+4.87 m
+(15.98 ft)
+11.12 m
+(36.48 ft)
+V2500
+1.64 m
+(5.38 ft)
+1.61 m
+(5.28 ft)
+3.22 m
+(10.56 ft)
+23.45 m
+(76.94 ft)
+RELATED TO AIRCRAFT ATTITUDE AND WEIGHT.
+NOTE:
+N_AC_020200_1_0040105_01_02
+General Aircraft Dimensions
+Sharklet (Sheet 4 of 4)
+FIGURE-2-2-0-991-004-A01
+2-2-0
+
+**ON A/C A320neo
+5.87 m
+(19.26 ft)
+4.14 m
+(13.58 ft)
+12.64 m
+(41.47 ft)
+5.07 m
+(16.63 ft)
+35.80 m
+(117.45 ft)
+12.45 m
+(40.85 ft)
+2.43 m
+(7.97 ft)
+3.79 m
+(12.43 ft)
+0.50 m
+(1.64 ft)
+0.93 m
+(3.05 ft)
+7.59 m
+(24.90 ft)
+8.95 m
+(29.36 ft)
+RELATED TO AIRCRAFT ATTITUDE AND WEIGHT.
+NOTE:
+N_AC_020200_1_0090101_01_01
+General Aircraft Dimensions
+(Sheet 1 of 2)
+FIGURE-2-2-0-991-009-A01
+2-2-0
+
+**ON A/C A320neo
+37.57 m
+(123.27 ft)
+6.07 m
+(19.91 ft)
+5.75 m
+(18.86 ft)
+1.24 m
+(4.07 ft)
+3.95 m
+(12.96 ft)
+3.31 m
+(10.86 ft)
+8.30 m
+(27.23 ft)
+11.91 m
+(39.07 ft)
+16.29 m
+(53.44 ft)
+11.14 m
+(36.55 ft)
+CFM LEAP-1A/
+4.87 m
+(15.98 ft)
+PW 1100G
+1.64 m
+(5.38 ft)
+1.61 m
+(5.28 ft)
+3.22 m
+(10.56 ft)
+23.45 m
+(76.94 ft)
+RELATED TO AIRCRAFT ATTITUDE AND WEIGHT.
+NOTE:
+N_AC_020200_1_0090102_01_01
+General Aircraft Dimensions
+(Sheet 2 of 2)
+FIGURE-2-2-0-991-009-A01
+2-2-0
+
+2-3-0
+Ground Clearances
+Ground Clearances
+1.
+This section provides the height of various points of the aircraft, above the ground, for different
+aircraft configurations.
+Dimensions in the tables are approximate and will vary with tire type, weight and balance and
+other special conditions.
+The dimensions are given for:
+- A light weight, for an A/C in maintenance configuration with a mid CG,
+- An aircraft at Maximum Ramp Weight with a FWD CG and an AFT CG,
+- Aircraft on jacks, FDL at 4.60 m (15.09 ft).
+NOTE :
+Passenger and cargo door ground clearances are measured from the center of the
+door sill and from floor level.
+2-3-0
+
+**ON A/C A320-200
+CP1
+D1
+D3
+W2
+W1
+D4
+AP
+T3
+D2
+T4
+N1
+T2
+VT
+HT
+BF1
+F1 C1
+C3
+C2 F2
+F4
+F3
+N_AC_020300_1_0040101_01_09
+Ground Clearances
+Wing Tip Fence (Sheet 1 of 2)
+FIGURE-2-3-0-991-004-A01
+2-3-0
+
+**ON A/C A320-200
+|A/CJACKED = FDL 4 m .60 . (1509ft)|Col2|ft|. 13556|. 14878|. 14878|. 13556|. 8307|. 8307|. 9019|. 16269|. 7985|. 7985|. 21571|. 21571|. 7401|. 10656|. 12063|. 13139|. 17562|. 14379|. 19455|. 17070|. 40830|. 4064|. 4064|. 4645|NOTE: PASSENGERANDCARGODOORGROUNDCLEARANCESAREMEASUREDFROMTHECENTEROFTHE . DOORSILLANDFROMFLOORLEVEL|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|A/C JACKED FDL = 4.60 m (15.09 ft)|A/C JACKED FDL = 4.60 m (15.09 ft)|m|4.132|4.535|4.535|4.132|2.532|2.532|2.749|4.959|2.434|2.434|6.575|6.575|2.256|3.248|3.677|4.005|5.353|4.383|5.930|5.203|12.445|1.239|1.239|1.416|1.416|
+|OEW 41 244 kg (90 927 lb)|CG (26.5%) |ft|11.423|13.021|13.044|12.142|6.266|6.689|7.506|14.028|5.987|6.384|19.586|19.983|5.656|8.917|10.342|11.451|15.938|12.749|18.225|15.889|39.625|2.204|2.204|2.801|2.801|
+|OEW 41 244 kg (90 927 lb)|CG (26.5%) |m|3.482|3.969|3.976|3.701|1.910|2.039|2.288|4.276|1.825|1.946|5.970|6.091|1.724|2.718|3.152|3.491|4.858|3.886|5.555|4.843|12.078|0.672|0.672|0.854|0.854|
+|MRW (WV15) 78 400 kg (172 842 lb)|AFT CG (36.8%)|ft|11.318|12.709|12.713|11.492|6.092|6.194|6.932|14.005|5.780|5.879|19.370|19.468|5.259|8.513|9.927|11.010|15.449|12.263|17.437|15.065|38.818|1.893|1.893|2.480|2.480|
+|MRW (WV15) 78 400 kg (172 842 lb)|AFT CG (36.8%)|m|3.450|3.874|3.875|3.503|1.857|1.888|2.113|4.269|1.762|1.792|5.904|5.934|1.603|2.595|3.026|3.356|4.709|3.738|5.315|4.592|11.832|0.577|0.577|0.756|0.756|
+|MRW (WV15) 78 400 kg (172 842 lb)|FWD CG (17%)|ft|11.072|12.677|12.703|11.811|5.918|6.354|7.175|13.677|5.639|6.046|19.242|19.648|5.318|8.579|10.003|11.115|15.600|12.411|17.900|15.561|39.301|1.863|1.863|2.460|2.460|
+|MRW (WV15) 78 400 kg (172 842 lb)|FWD CG (17%)|m|3.375|3.864|3.872|3.600|1.804|1.937|2.187|4.169|1.719|1.843|5.865|5.989|1.621|2.615|3.049|3.388|4.755|3.783|5.456|4.743|11.979|0.568|0.568|0.750|0.750|
+|MRW (WV0) 73 900 kg (162 922 lb)|AFT CG (40%)|ft|11.423|12.755|12.755|11.450|6.177|6.194|6.909|14.133|5.859|5.872|19.445|19.458|5.282|8.536|9.947|11.023|15.449|12.267|17.355|14.970|38.730|1.942|1.942|2.522|2.522|
+|MRW (WV0) 73 900 kg (162 922 lb)|AFT CG (40%)|m|3.482|3.888|3.888|3.490|1.883|1.888|2.106|4.308|1.786|1.790|5.927|5.931|1.610|2.602|3.032|3.360|4.709|3.739|5.290|4.563|11.805|0.592|0.592|0.769|0.769|
+|MRW (WV0) 73 900 kg (162 922 lb)|FWD CG (17%)|ft|11.092|12.709|12.736|11.860|5.941|6.394|7.217|13.690|5.666|6.089|19.265|19.688|5.351|8.615|10.039|11.151|15.639|12.450|17.956|15.620|39.356|1.893|1.893|2.490|2.490|
+|MRW (WV0) 73 900 kg (162 922 lb)|FWD CG (17%)|m|3.381|3.874|3.882|3.615|1.811|1.949|2.200|4.173|1.727|1.856|5.872|6.001|1.631|2.626|3.060|3.399|4.767|3.795|5.473|4.761|11.996|0.577|0.577|0.759|0.759|
+|A/C CONFIGURATION|A/C CONFIGURATION|A/C CONFIGURATION|D1|D2|D3|D4|C1|C2|C3|CP1|F1|F2|F3|F4|BF1|T2|T3|T4|W1|W2|HT|AP|VT|N1|N1|N1|N1|
+|A/C CONFIGURATION|A/C CONFIGURATION|A/C CONFIGURATION|DOOR 1|EMERGENCY HATCH 1|EMERGENCY HATCH 2|DOOR 2|FWD CARGO DOOR|AFT CARGO DOOR|BULK CARGO DOOR|PILOT VIEW|BOTTOM FWD|BOTTOM AFT|TOP FWD|TOP AFT|BELLY FAIRING|FLAP TRACK 2|FLAP TRACK 3|FLAP TRACK 4|WING TIP FENCE TOP|WING TIP FENCE BOTTOM|HORIZONTAL TAIL PLANE|APU EXHAUST|VERTICAL TAIL PLANE|CFM 5A NACELLE LOW POINT|CFM 5B NACELLE LOW POINT|V2500 NACELLE LOW POINT|V2500 NACELLE LOW POINT|
+|A/C CONFIGURATION|A/C CONFIGURATION|A/C CONFIGURATION|PASSENGER DOORS|PASSENGER DOORS|PASSENGER DOORS|PASSENGER DOORS|CARGO DOORS|CARGO DOORS|CARGO DOORS|REFERENCE POINT|FUSELAGE|FUSELAGE|FUSELAGE|FUSELAGE|FUSELAGE|WING|WING|WING|WING|WING|TAILPLANE|TAILPLANE|TAILPLANE|ENGINE/ NACELLE|ENGINE/ NACELLE|ENGINE/ NACELLE|ENGINE/ NACELLE|
+|N_AC_020300_1_0040103_01_01|N_AC_020300_1_0040103_01_01|N_AC_020300_1_0040103_01_01|N_AC_020300_1_0040103_01_01|N_AC_020300_1_0040103_01_01|N_AC_020300_1_0040103_01_01|N_AC_020300_1_0040103_01_01|N_AC_020300_1_0040103_01_01|N_AC_020300_1_0040103_01_01|N_AC_020300_1_0040103_01_01|N_AC_020300_1_0040103_01_01|N_AC_020300_1_0040103_01_01|N_AC_020300_1_0040103_01_01|N_AC_020300_1_0040103_01_01|N_AC_020300_1_0040103_01_01|N_AC_020300_1_0040103_01_01|N_AC_020300_1_0040103_01_01|N_AC_020300_1_0040103_01_01|N_AC_020300_1_0040103_01_01|N_AC_020300_1_0040103_01_01|N_AC_020300_1_0040103_01_01|N_AC_020300_1_0040103_01_01|N_AC_020300_1_0040103_01_01|NAC020300100401030101|NAC020300100401030101|NAC020300100401030101|NAC020300100401030101|NAC020300100401030101|
+Ground Clearances
+Wing Tip Fence (Sheet 2 of 2)
+FIGURE-2-3-0-991-004-A01
+2-3-0
+
+**ON A/C A320-200
+D3
+D4
+AP
+D2
+W2 W1
+CP1
+D1
+T3
+N1
+T4
+T2
+VT
+HT
+BF1
+F1 C1
+C3
+C2 F2
+F4
+F3
+N_AC_020300_1_0290101_01_04
+Ground Clearances
+Sharklet (Sheet 1 of 2)
+FIGURE-2-3-0-991-029-A01
+2-3-0
+
+**ON A/C A320-200
+|A/CJACKED = FDL 4 m .60 . (1509ft)|Col2|ft|. 13556|. 14878|. 14878|. 13556|. 8307|. 8307|. 9019|. 16269|. 7985|. 7985|. 21571|. 21571|. 7401|. 10656|. 12063|. 13139|. 23927|. 15266|. 19455|. 17070|. 40830|. 4064|. 4064|. 4645|NOTE: PASSENGERANDCARGODOORGROUNDCLEARANCESAREMEASUREDFROMTHECENTEROFTHE . DOORSILLANDFROMFLOORLEVEL|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|A/C JACKED FDL = 4.60 m (15.09 ft)|A/C JACKED FDL = 4.60 m (15.09 ft)|m|4.132|4.535|4.535|4.132|2.532|2.532|2.749|4.959|2.434|2.434|6.575|6.575|2.256|3.248|3.677|4.005|7.293|4.653|5.930|5.203|12.445|1.239|1.239|1.416|1.416|
+|OEW 41 244 kg (90 927 lb)|CG (26.5%) |ft|11.423|13.021|13.044|12.142|6.266|6.689|7.506|14.028|5.987|6.384|19.586|19.983|5.656|8.917|10.342|11.451|22.303|13.641|18.225|15.889|39.625|2.204|2.204|2.801|2.801|
+|OEW 41 244 kg (90 927 lb)|CG (26.5%) |m|3.482|3.969|3.976|3.701|1.910|2.039|2.288|4.276|1.825|1.946|5.970|6.091|1.724|2.718|3.152|3.491|6.798|4.158|5.555|4.843|12.078|0.672|0.672|0.854|0.854|
+|MRW (WV15) 78 400 kg (172 842 lb)|AFT CG (36.8%)|ft|11.318|12.709|12.713|11.492|6.092|6.194|6.932|14.005|5.780|5.879|19.370|19.468|5.259|8.513|9.927|11.010|21.814|13.152|17.437|15.065|38.818|1.893|1.893|2.480|2.480|
+|MRW (WV15) 78 400 kg (172 842 lb)|AFT CG (36.8%)|m|3.450|3.874|3.875|3.503|1.857|1.888|2.113|4.269|1.762|1.792|5.904|5.934|1.603|2.595|3.026|3.356|6.649|4.009|5.315|4.592|11.832|0.577|0.577|0.756|0.756|
+|MRW (WV15) 78 400 kg (172 842 lb)|FWD CG (17%)|ft|11.072|12.677|12.703|11.811|5.918|6.354|7.175|13.677|5.639|6.046|19.242|19.648|5.318|8.579|10.003|11.115|21.965|13.303|17.900|15.561|39.301|1.863|1.863|2.460|2.460|
+|MRW (WV15) 78 400 kg (172 842 lb)|FWD CG (17%)|m|3.375|3.864|3.872|3.600|1.804|1.937|2.187|4.169|1.719|1.843|5.865|5.989|1.621|2.615|3.049|3.388|6.695|4.055|5.456|4.743|11.979|0.568|0.568|0.750|0.750|
+|MRW (WV0) 73 900 kg (162 922 lb)|AFT CG (40%)|ft|11.423|12.755|12.755|11.450|6.177|6.194|6.909|14.133|5.859|5.872|19.445|19.458|5.282|8.536|9.947|11.023|21.814|13.152|17.355|14.970|38.730|1.942|1.942|2.522|2.522|
+|MRW (WV0) 73 900 kg (162 922 lb)|AFT CG (40%)|m|3.482|3.888|3.888|3.490|1.883|1.888|2.106|4.308|1.786|1.790|5.927|5.931|1.610|2.602|3.032|3.360|6.649|4.009|5.290|4.563|11.805|0.592|0.592|0.769|0.769|
+|MRW (WV0) 73 900 kg (162 922 lb)|FWD CG (17%)|ft|11.092|12.709|12.736|11.860|5.941|6.394|7.217|13.690|5.666|6.089|19.265|19.688|5.351|8.615|10.039|11.151|22.004|13.343|17.956|15.620|39.356|1.893|1.893|2.490|2.490|
+|MRW (WV0) 73 900 kg (162 922 lb)|FWD CG (17%)|m|3.381|3.874|3.882|3.615|1.811|1.949|2.200|4.173|1.727|1.856|5.872|6.001|1.631|2.626|3.060|3.399|6.707|4.067|5.473|4.761|11.996|0.577|0.577|0.759|0.759|
+|A/C CONFIGURATION|A/C CONFIGURATION|A/C CONFIGURATION|D1|D2|D3|D4|C1|C2|C3|CP1|F1|F2|F3|F4|BF1|T2|T3|T4|W1|W2|HT|AP|VT|N1|N1|N1|N1|
+|A/C CONFIGURATION|A/C CONFIGURATION|A/C CONFIGURATION|DOOR 1|EMERGENCY HATCH 1|EMERGENCY HATCH 2|DOOR 2|FWD CARGO DOOR|AFT CARGO DOOR|BULK CARGO DOOR|PILOT VIEW|BOTTOM FWD|BOTTOM AFT|TOP FWD|TOP AFT|BELLY FAIRING|FLAP TRACK 2|FLAP TRACK 3|FLAP TRACK 4|SHARKLET TOP|SHARKLET BOTTOM|HORIZONTAL TAIL PLANE|APU EXHAUST|VERTICAL TAIL PLANE|CFM 5A NACELLE LOW POINT|CFM 5B NACELLE LOW POINT|V2500 NACELLE LOW POINT|V2500 NACELLE LOW POINT|
+|A/C CONFIGURATION|A/C CONFIGURATION|A/C CONFIGURATION|PASSENGER DOORS|PASSENGER DOORS|PASSENGER DOORS|PASSENGER DOORS|CARGO DOORS|CARGO DOORS|CARGO DOORS|REFERENCE POINT|FUSELAGE|FUSELAGE|FUSELAGE|FUSELAGE|FUSELAGE|WING|WING|WING|WING|WING|TAILPLANE|TAILPLANE|TAILPLANE|ENGINE/ NACELLE|ENGINE/ NACELLE|ENGINE/ NACELLE|ENGINE/ NACELLE|
+|N_AC_020300_1_0290103_01_01|N_AC_020300_1_0290103_01_01|N_AC_020300_1_0290103_01_01|N_AC_020300_1_0290103_01_01|N_AC_020300_1_0290103_01_01|N_AC_020300_1_0290103_01_01|N_AC_020300_1_0290103_01_01|N_AC_020300_1_0290103_01_01|N_AC_020300_1_0290103_01_01|N_AC_020300_1_0290103_01_01|N_AC_020300_1_0290103_01_01|N_AC_020300_1_0290103_01_01|N_AC_020300_1_0290103_01_01|N_AC_020300_1_0290103_01_01|N_AC_020300_1_0290103_01_01|N_AC_020300_1_0290103_01_01|N_AC_020300_1_0290103_01_01|N_AC_020300_1_0290103_01_01|N_AC_020300_1_0290103_01_01|N_AC_020300_1_0290103_01_01|N_AC_020300_1_0290103_01_01|N_AC_020300_1_0290103_01_01|N_AC_020300_1_0290103_01_01|NAC020300102901030101|NAC020300102901030101|NAC020300102901030101|NAC020300102901030101|NAC020300102901030101|
+Ground Clearances
+Sharklet (Sheet 2 of 2)
+FIGURE-2-3-0-991-029-A01
+2-3-0
+
+**ON A/C A320neo
+W2
+W1
+CP1
+D1
+D2
+D4
+AP
+N1
+VT
+HT
+BF1
+F1 C1
+C3
+C2 F2
+F4
+F3
+41 000 kg
+(90 389 lb)
+MRW
+A/C JACKED
+FDL = 4.60 m (15.09 ft)
+A/C CONFIGURATION
+CG (26.5%)
+FWD CG (17%)
+AFT CG (36.8%)
+m
+ft
+m
+ft
+m
+ft
+ft
+11.09
+12.70
+m
+D1
+D2
+3.45
+3.48
+3.98
+11.42
+13.06
+4.13
+4.54
+13.55
+14.89
+3.38
+3.87
+11.32
+12.73
+3.88
+11.81
+3.50
+11.48
+3.70
+12.14
+4.13
+13.55
+D4
+3.60
+DOORS
+6.50
+2.04
+6.69
+2.09
+6.86
+2.71
+8.89
+6.96
+2.07
+6.79
+2.22
+7.28
+2.71
+8.89
+C1
+1.98
+C2
+2.12
+7.19
+2.11
+6.92
+2.29
+7.51
+2.75
+9.02
+C3
+2.19
+5.64
+6.04
+19.23
+19.65
+5.77
+5.87
+19.36
+19.46
+1.82
+1.95
+5.97
+6.09
+5.97
+2.43
+2.43
+7.97
+7.97
+21.59
+21.59
+1.76
+1.79
+5.90
+1.72
+F1
+F2
+F3
+F4
+6.40
+1.84
+19.59
+19.98
+6.58
+6.58
+5.86
+5.99
+FUSELAGE
+5.93
+5.31
+1.60
+5.25
+1.72
+5.64
+2.26
+7.41
+BF1
+1.62
+13.68
+21.98
+4.27
+6.65
+14.01
+21.82
+4.28
+6.80
+14.04
+22.31
+4.96
+7.25
+16.27
+23.79
+4.17
+6.70
+CP1
+W1
+WINGS
+13.29
+17.91
+15.55
+39.30
+4.01
+5.32
+4.59
+11.83
+13.16
+17.45
+15.06
+38.81
+4.16
+5.56
+4.84
+12.08
+13.65
+18.24
+15.88
+39.63
+4.65
+5.93
+5.20
+15.26
+19.46
+17.06
+40.85
+4.05
+5.46
+4.74
+11.98
+W2
+HT
+AP
+VT
+TAILPLANE
+12.45
+N1 (CFM
+LEAP-1A)
+1.51
+0.47
+1.54
+0.56
+1.84
+3.71
+1.13
+0.46
+ENGINE/
+NACELLE
+N1 (PW 1100G)
+1.51
+0.47
+1.54
+0.56
+1.84
+1.13
+3.71
+0.46
+NOTE:
+PASSENGER AND CARGO DOOR GROUND CLEARANCES ARE MEASURED FROM THE CENTER
+OF THE DOOR SILL AND FROM FLOOR LEVEL.
+N_AC_020300_1_0320101_01_02
+Ground Clearances
+FIGURE-2-3-0-991-032-A01
+2-3-0
+
+**ON A/C A320-200
+A
+B
+D
+C
+|FLAPSEXTENDED CFM5 6ENGINE|Col2|Col3|Col4|Col5|Col6|Col7|Col8|
+|---|---|---|---|---|---|---|---|
+|DESCRIPTION|DESCRIPTION|A/C IN MAINTENANCE CONFIGURATION MID CG|A/C IN MAINTENANCE CONFIGURATION MID CG|MAXIMUM RAMP WEIGHT FWD CG|MAXIMUM RAMP WEIGHT FWD CG|MAXIMUM RAMP WEIGHT AFT CG|MAXIMUM RAMP WEIGHT AFT CG|
+|DESCRIPTION|DESCRIPTION|m|ft|m|ft|m|ft|
+|FLAP 1 INBD|A|2.09|6.86|1.99|6.53|1.96|6.43|
+|FLAP 1 OUTBD|B|2.82|9.25|2.71|8.89|2.69|8.83|
+|FLAP 2 INBD|C|2.86|9.38|2.75|9.02|2.72|8.92|
+|FLAP 2 OUTBD|D|3.68|12.07|3.56|11.68|3.52|11.55|
+N_AC_020300_1_0160101_01_01
+Ground Clearances
+Trailing Edge Flaps - Extended
+FIGURE-2-3-0-991-016-A01
+2-3-0
+
+**ON A/C A320-200
+A
+B
+C
+|FLAPTRACKSEXTENDED C FM56E NGINE|Col2|Col3|Col4|Col5|Col6|Col7|Col8|
+|---|---|---|---|---|---|---|---|
+|DESCRIPTION|DESCRIPTION|A/C IN MAINTENANCE CONFIGURATION MID CG|A/C IN MAINTENANCE CONFIGURATION MID CG|MAXIMUM RAMP WEIGHT FWD CG|MAXIMUM RAMP WEIGHT FWD CG|MAXIMUM RAMP WEIGHT AFT CG|MAXIMUM RAMP WEIGHT AFT CG|
+|DESCRIPTION|DESCRIPTION|m|ft|m|ft|m|ft|
+|FLAP TRACK 2|A|2.18|7.15|2.08|6.82|2.05|6.73|
+|FLAP TRACK 3|B|2.66|8.73|2.55|8.37|2.52|8.27|
+|FLAP TRACK 4|C|3.10|10.17|2.99|9.81|2.95|9.68|
+N_AC_020300_1_0410101_01_00
+Ground Clearances
+Flap Tracks - Extended
+FIGURE-2-3-0-991-041-A01
+2-3-0
+
+A
+B
+D
+C
+|FLAPSEXTENDED IAEV2500 PW1100GA NDCFMLEAP1AENGINES , -|Col2|Col3|Col4|Col5|Col6|Col7|Col8|
+|---|---|---|---|---|---|---|---|
+|DESCRIPTION|DESCRIPTION|A/C IN MAINTENANCE CONFIGURATION MID CG|A/C IN MAINTENANCE CONFIGURATION MID CG|MAXIMUM RAMP WEIGHT FWD CG|MAXIMUM RAMP WEIGHT FWD CG|MAXIMUM RAMP WEIGHT AFT CG|MAXIMUM RAMP WEIGHT AFT CG|
+|DESCRIPTION|DESCRIPTION|m|ft|m|ft|m|ft|
+|FLAP 1 INBD|A|2.05|6.73|1.94|6.37|1.92|6.30|
+|FLAP 1 OUTBD|B|2.77|9.09|2.66|8.73|2.64|8.66|
+|FLAP 2 INBD|C|2.81|9.22|2.70|8.86|2.68|8.78|
+|FLAP 2 OUTBD|D|3.64|11.94|3.53|11.58|3.49|11.45|
+N_AC_020300_1_0170101_01_02
+Ground Clearances
+Trailing Edge Flaps - Extended
+FIGURE-2-3-0-991-017-A01
+2-3-0
+
+A
+B
+C
+|FLAPTRACKSEXTENDED IAEV2500 PW110 0GAND CFMLEAP1AENGINES , -|Col2|Col3|Col4|Col5|Col6|Col7|Col8|
+|---|---|---|---|---|---|---|---|
+|DESCRIPTION|DESCRIPTION|A/C IN MAINTENANCE CONFIGURATION MID CG|A/C IN MAINTENANCE CONFIGURATION MID CG|MAXIMUM RAMP WEIGHT FWD CG|MAXIMUM RAMP WEIGHT FWD CG|MAXIMUM RAMP WEIGHT AFT CG|MAXIMUM RAMP WEIGHT AFT CG|
+|DESCRIPTION|DESCRIPTION|m|ft|m|ft|m|ft|
+|FLAP TRACK 2|A|2.09|6.86|1.98|6.49|1.95|6.40|
+|FLAP TRACK 3|B|2.59|8.50|2.48|8.14|2.44|8.01|
+|FLAP TRACK 4|C|3.03|9.94|2.92|9.58|2.88|9.45|
+N_AC_020300_1_0420101_01_00
+Ground Clearances
+Flap Tracks - Extended
+FIGURE-2-3-0-991-042-A01
+2-3-0
+
+B
+A
+C
+|FLAPTRACKSRETRACTED|Col2|Col3|Col4|Col5|Col6|Col7|Col8|
+|---|---|---|---|---|---|---|---|
+|DESCRIPTION|DESCRIPTION|A/C IN MAINTENANCE CONFIGURATION MID CG|A/C IN MAINTENANCE CONFIGURATION MID CG|MAXIMUM RAMP WEIGHT FWD CG |MAXIMUM RAMP WEIGHT FWD CG |MAXIMUM RAMP WEIGHT AFT CG|MAXIMUM RAMP WEIGHT AFT CG|
+|DESCRIPTION|DESCRIPTION|m|ft|m|ft|m|ft|
+|FLAP TRACK 2|A|2.70|8.86|2.60|8.53|2.58|8.46|
+|FLAP TRACK 3|B|3.10|10.17|3.00|9.84|2.97|9.74|
+|FLAP TRACK 4|C|3.50|11.48|3.39|11.12|3.36|11.02|
+N_AC_020300_1_0180101_01_01
+Ground Clearances
+Flap Tracks - Retracted
+FIGURE-2-3-0-991-018-A01
+2-3-0
+
+A
+B
+C
+|FLAPTRACKS1+F|Col2|Col3|Col4|Col5|Col6|Col7|
+|---|---|---|---|---|---|---|
+|DESCRIPTION|A/C IN MAINTENANCE CONFIGURATION MID CG|A/C IN MAINTENANCE CONFIGURATION MID CG|MAXIMUM RAMP WEIGHT FWD CG |MAXIMUM RAMP WEIGHT FWD CG |MAXIMUM RAMP WEIGHT AFT CG|MAXIMUM RAMP WEIGHT AFT CG|
+|DESCRIPTION|m|ft|m|ft|m|ft|
+|A FLAP TRACK 2|1.95|6.40|1.85|6.07|1.83|6.00|
+|B FLAP TRACK 3|2.31|7.58|2.21|7.25|2.18|7.15|
+|FLAP TRACK 4 C|2.89|9.48|2.78|9.12|2.75|9.02|
+N_AC_020300_1_0430101_01_00
+Ground Clearances
+Flap Tracks - 1 + F
+FIGURE-2-3-0-991-043-A01
+2-3-0
+
+B
+A
+|AILERONDOWN|Col2|Col3|Col4|Col5|Col6|Col7|Col8|
+|---|---|---|---|---|---|---|---|
+|DESCRIPTION|DESCRIPTION|A/C IN MAINTENANCE CONFIGURATION MID CG|A/C IN MAINTENANCE CONFIGURATION MID CG|MAXIMUM RAMP WEIGHT FWD CG|MAXIMUM RAMP WEIGHT FWD CG|MAXIMUM RAMP WEIGHT AFT CG|MAXIMUM RAMP WEIGHT AFT CG|
+|DESCRIPTION|DESCRIPTION|m|ft|m|ft|m|ft|
+|AILERON INBD|A|3.83|12.57|3.72|12.21|3.68|12.07|
+|AILERON OUTBD|B|4.17|13.68|4.06|13.32|4.01|13.16|
+N_AC_020300_1_0190101_01_01
+Ground Clearances
+Aileron Down
+FIGURE-2-3-0-991-019-A01
+2-3-0
+
+B
+A
+|AILERONUP|Col2|Col3|Col4|Col5|Col6|Col7|Col8|
+|---|---|---|---|---|---|---|---|
+|DESCRIPTION|DESCRIPTION|A/C IN MAINTENANCE CONFIGURATION MID CG|A/C IN MAINTENANCE CONFIGURATION MID CG|MAXIMUM RAMP WEIGHT FWD CG|MAXIMUM RAMP WEIGHT FWD CG|MAXIMUM RAMP WEIGHT AFT CG|MAXIMUM RAMP WEIGHT AFT CG|
+|DESCRIPTION|DESCRIPTION|m|ft|m|ft|m|ft|
+|AILERON INBD|A|4.35|14.27|4.24|13.91|4.20|13.78|
+|AILERON OUTBD|B|4.55|14.93|4.44|14.57|4.39|14.40|
+N_AC_020300_1_0440101_01_00
+Ground Clearances
+Aileron Up
+FIGURE-2-3-0-991-044-A01
+2-3-0
+
+G
+F
+E
+D
+C
+B
+A
+|SPOILERSEXTENDED|Col2|Col3|Col4|Col5|Col6|Col7|Col8|
+|---|---|---|---|---|---|---|---|
+|DESCRIPTION|DESCRIPTION|A/C IN MAINTENANCE CONFIGURATION MID CG|A/C IN MAINTENANCE CONFIGURATION MID CG|MAXIMUM RAMP WEIGHT FWD CG|MAXIMUM RAMP WEIGHT FWD CG|MAXIMUM RAMP WEIGHT AFT CG|MAXIMUM RAMP WEIGHT AFT CG|
+|DESCRIPTION|DESCRIPTION|m|ft|m|ft|m|ft|
+|SPOILER 1 INBD|A|3.75|12.30|3.64|11.94|3.63|11.91|
+|SPOILER 1 OUTBD|B|4.01|13.16|3.90|12.80|3.88|12.73|
+|SPOILER 2 INBD|C|4.07|13.35|3.96|12.99|3.94|12.93|
+|SPOILER 2/3|D|4.21|13.81|4.11|13.48|4.08|13.39|
+|SPOILER 3/4|E|4.35|14.27|4.24|13.91|4.21|13.81|
+|SPOILER 4/5|F|4.47|14.67|4.36|14.31|4.33|14.21|
+|SPOILER 5 OUTBD|G|4.59|15.06|4.48|14.70|4.45|14.60|
+N_AC_020300_1_0200101_01_01
+Ground Clearances
+Spoilers - Extended
+FIGURE-2-3-0-991-020-A01
+2-3-0
+
+A
+B
+C
+D
+E
+F
+G
+|LEADINGEDGESLATSEXTENDED|Col2|Col3|Col4|Col5|Col6|Col7|
+|---|---|---|---|---|---|---|
+|DESCRIPTION|m ft A/C IN MAINTENANCE CONFIGURATION MID CG|m ft A/C IN MAINTENANCE CONFIGURATION MID CG|MAXIMUM RAMP WEIGHT FWD CG|MAXIMUM RAMP WEIGHT FWD CG|MAXIMUM RAMP WEIGHT AFT CG|MAXIMUM RAMP WEIGHT AFT CG|
+|DESCRIPTION|m ft A/C IN MAINTENANCE CONFIGURATION MID CG|ft|m|ft|m|ft|
+|SLAT 1 INBD|A 2.57|8.43|2.48|8.14|2.50|8.20|
+|SLAT 1 OUTBD|B 2.98|9.78|2.88|9.45|2.90|9.51|
+|SLAT 2 INBD|C 3.07|10.07|2.97|9.74|2.98|9.78|
+|SLAT 2/3|3.36 D|11.02|3.26|10.70|3.26|10.70|
+|SLAT 3/4|3.61 E|11.84|3.51|11.52|3.50|11.48|
+|SLAT 4/5|F 3.86|12.66|3.76|12.34|3.73|12.24|
+|SLAT 5 OUTBD|G 4.09|13.42|3.98|13.06|3.95|12.96|
+N_AC_020300_1_0210101_01_01
+Ground Clearances
+Leading Edge Slats - Extended
+FIGURE-2-3-0-991-021-A01
+2-3-0
+
+2-4-1
+Interior Arrangements - Plan View
+Interior Arrangements - Plan View
+1.
+This section provides the typical interior configuration.
+2-4-1
+
+ATTENDANT SEAT
+GALLEY
+AFT PASSENGER
+/CREW DOOR
+AFT PASSENGER
+/CREW DOOR
+LAVATORY
+LAVATORY
+PASSENGER SEATS (180 TOTAL)
+ECONOMY CLASS 180 SEATS
+(6 ABREAST - 28/29 in PITCH)
+ATTENDANT SEATS 5
+GALLEYS 2
+LAVATORIES 3
+ECONOMY
+CLASS SEATS
+EMERGENCY EXIT
+EMERGENCY EXIT
+EMERGENCY EXIT
+EMERGENCY EXIT
+ATTENDANT SEAT
+FWD PASSENGER
+/CREW DOOR
+FWD PASSENGER
+/CREW DOOR
+GALLEY
+LAVATORY
+N_AC_020401_1_0030101_01_03
+Interior Arrangements - Plan View
+Typical Configuration - Single-Class, High Density
+FIGURE-2-4-1-991-003-A01
+2-4-1
+
+ATTENDANT SEAT
+GALLEY
+AFT PASSENGER
+/CREW DOOR
+AFT PASSENGER
+/CREW DOOR
+LAVATORY
+LAVATORY
+PASSENGER SEATS (150 TOTAL)
+(4 ABREAST - 36 in PITCH)
+FIRST CLASS 12 SEATS
+ECONOMY CLASS 138 SEATS
+(6 ABREAST - 32 in PITCH)
+ATTENDANT SEATS 4
+GALLEYS 2
+LAVATORIES 3
+ECONOMY
+CLASS SEATS
+EMERGENCY EXIT
+EMERGENCY EXIT
+EMERGENCY EXIT
+EMERGENCY EXIT
+ATTENDANT SEAT
+FIRST
+CLASS SEATS
+FWD PASSENGER
+/CREW DOOR
+FWD PASSENGER
+/CREW DOOR
+GALLEY
+LAVATORY
+N_AC_020401_1_0090101_01_01
+Interior Arrangements - Plan View
+Typical Configuration - Two-Class
+FIGURE-2-4-1-991-009-A01
+2-4-1
+
+2-5-0
+Interior Arrangements - Cross Section
+Interior Arrangements - Cross Section
+1.
+This section provides the typical configuration.
+2-5-0
+
+6 ABREAST-WIDER AISLE
+0.43 m
+(17 in)
+1.50 m
+(59 in)
+0.64 m
+(25 in)
+3.63 m
+(143 in)
+N_AC_020500_1_0050101_01_01
+Interior Arrangements - Cross Section
+Economy Class, 6 Abreast - Wider Aisle (Sheet 1 of 2)
+FIGURE-2-5-0-991-005-A01
+2-5-0
+
+6 ABREAST-WIDER SEAT
+0.46 m
+(18 in)
+1.58 m
+(62 in)
+0.48 m
+(19 in)
+3.63 m
+(143 in)
+N_AC_020500_1_0050102_01_03
+Interior Arrangements - Cross Section
+Economy Class, 6 Abreast - Wider Seat (Sheet 2 of 2)
+FIGURE-2-5-0-991-005-A01
+2-5-0
+
+4 ABREAST-FIRST CLASS
+0.57 m
+(22.6 in)
+1.45 m
+(57 in)
+0.69 m
+(27 in)
+3.58 m
+(141 in)
+N_AC_020500_1_0060101_01_01
+Interior Arrangements - Cross Section
+First-Class
+FIGURE-2-5-0-991-006-A01
+2-5-0
+
+2-6-0
+Cargo Compartments
+Cargo Compartments
+1.
+This section provides the cargo compartments locations, dimensions and loading combinations.
+2-6-0
+
+COMPARTMENT
+BULK CARGO
+FR24A
+FR34
+FR47
+FR59
+FR65
+9.8 m
+(385.83 in)
+4.95 m
+(194.88 in)
+(4 CONTAINERS)
+COMPARTMENT
+0.86 m
+(33.85 in)
+AFT CARGO
+1.81 m
+(71.26 in)
+1.81 m
+(71.26 in)
+(3 CONTAINERS)
+COMPARTMENT
+FWD CARGO
+N_AC_020600_1_0030101_01_00
+Cargo Compartments
+Locations and Dimensions
+FIGURE-2-6-0-991-003-A01
+2-6-0
+
+STANDARD: 3 ULDs
+STANDARD: 4 ULDs
+N_AC_020600_1_0060101_01_00
+Cargo Compartments
+Loading Combinations
+FIGURE-2-6-0-991-006-A01
+2-6-0
+
+2-7-0
+Door Clearances and Location
+Door Clearances
+1.
+This section gives door identification and location.
+NOTE :
+Dimensions of the ground clearances are approximate and will change with tire type,
+weight and balance and other special conditions.
+2-7-0
+
+FORWARD
+OVERWING
+AFT
+OVERWING
+EXIT L
+DOOR 4L
+EXIT L
+DOOR 1L
+AFT
+OVERWING
+FORWARD
+OVERWING
+DOOR 4R
+EXIT R
+DOOR 1R
+EXIT R
+BULK CARGO
+COMPARTMENT
+AFT CARGO
+COMPARTMENT
+FWD CARGO
+COMPARTMENT
+DOOR
+DOOR
+DOOR
+N_AC_020700_1_0030101_01_01
+Door Identification and Location
+Door Identification (Sheet 1 of 2)
+FIGURE-2-7-0-991-003-A01
+2-7-0
+
+29.53 m
+(96.88 ft)
+15.28 m
+(50.13 ft)
+14.43 m
+(47.34 ft)
+5.04 m
+(16.54 ft)
+8.16 m
+(26.77 ft)
+22.69 m
+(74.44 ft)
+26.29 m
+(86.25 ft)
+N_AC_020700_1_0030102_01_00
+Door Identification and Location
+Door Location (Sheet 2 of 2)
+FIGURE-2-7-0-991-003-A01
+2-7-0
+
+1.80 m
+(5.91 ft)
+0.81 m
+(2.66 ft)
+0.48 m
+(1.57 ft)
+CL
+0.61 m
+(2.00 ft)
+2.54 m
+(8.33 ft)
+CRITICAL CLEARANCE
+LIMIT
+5.02 m
+(16.47 ft)
+2.38 m
+(7.81 ft)
+1.85 m
+(6.07 ft)
+CL
+CL
+SEE
+CHAPTER
+0.03 m
+(0.10 ft)
+2-3
+N_AC_020700_1_0220101_01_00
+Doors Clearances
+Forward Passenger/Crew Doors
+FIGURE-2-7-0-991-022-A01
+2-7-0
+
+FWD
+0.85 m
+(2.79 ft)
+(FROM NOSE) 14.43 m
+(47.34 ft)
+0.50 m
+(1.64 ft)
+B
+A
+0.47 m
+(1.54 ft)
+CL
+SEE
+SECTION
+0.20 m
+(0.66 ft)
+2-3
+B
+A
+1.23 m
+(4.04 ft)
+0.90 m
+(2.95 ft)
+0.12 m
+(0.39 ft)
+0.50 m
+(1.64 ft)
+(TOP OF FLOOR)
+B B
+A A
+(FRAME 47)
+NOTE:
+ESCAPE SLIDE COMPARTMENT DOOR OPENS ON WING UPPER SURFACE.
+N_AC_020700_1_0230101_01_00
+Doors Clearances
+Emergency Exits
+FIGURE-2-7-0-991-023-A01
+2-7-0
+
+1.79 m
+(5.87 ft)
+0.81 m
+(2.66 ft)
+FWD
+A
+CRITICAL
+CLEARANCE
+LIMIT
+0.58 m
+(1.90 ft)
+A
+2.44 m
+(8.01 ft)
+(FROM NOSE) 29.64 m
+(97.24 ft)
+1.85 m
+(6.07 ft)
+SEE
+0.03 m
+(0.10 ft)
+2-3
+CHAPTER
+0.60 m
+(1.97 ft)
+A A
+N_AC_020700_1_0240101_01_00
+Doors Clearances
+Aft Passenger/Crew Doors
+FIGURE-2-7-0-991-024-A01
+2-7-0
+
+**ON A/C A320-200
+A
+(FROM NOSE)
+8.16 m
+(26.77 ft)
+1.50 m
+(4.92 ft)
+1.24 m
+(4.07 ft)
+FWD
+SEE
+CHAPTER
+2-3
+A
+3.95 m
+(12.96 ft)
+1.82 m
+(5.97 ft)
+A A
+2.71 m
+(8.89 ft)
+CFM56 = 2.18 m (7.15 ft)
+IAE V2500 = 2.11 m (6.92 ft)
+N_AC_020700_1_0250101_01_00
+Door Clearances
+Forward Cargo Compartment Door
+FIGURE-2-7-0-991-025-A01
+2-7-0
+
+**ON A/C A320neo
+A
+(FROM NOSE)
+8.16 m
+(26.77 ft)
+1.50 m
+(4.92 ft)
+1.24 m
+(4.07 ft)
+FWD
+SEE
+CHAPTER
+2-3
+A
+3.95 m
+(12.96 ft)
+1.82 m
+(5.97 ft)
+A A
+CFM ENGINE = 2.47 m (8.10 ft)
+PW ENGINE = 2.43 m (7.97 ft)
+CFM/PW ENGINE = 2.05 m (6.73 ft)
+N_AC_020700_1_0260101_01_00
+Door Clearances
+Forward Cargo Compartment Door
+FIGURE-2-7-0-991-026-A01
+2-7-0
+
+A
+(FROM NOSE)
+22.69 m
+(74.44 ft)
+1.43 m
+(4.69 ft)
+1.23 m
+(4.04 ft)
+FWD
+SEE
+CHAPTER
+2-3
+A
+3.95 m
+(12.96 ft)
+1.82 m
+(5.97 ft)
+A A
+FWD
+2.03 m
+(6.66 ft)
+N_AC_020700_1_0270101_01_00
+Doors Clearances
+Aft Cargo Compartment Door
+FIGURE-2-7-0-991-027-A01
+2-7-0
+
+A
+0.89 m
+(2.92 ft)
+0.77 m
+(2.53 ft)
+A
+SEE
+CHAPTER
+A A
+0.95 m
+(3.12 ft)
+2-3
+FWD
+2.19 m
+(7.19 ft)
+6.10 m
+(20.01 ft)
+N_AC_020700_1_0280101_01_00
+Doors Clearances
+Bulk Cargo Compartment Door
+FIGURE-2-7-0-991-028-A01
+2-7-0
+
+A
+1.83 m
+(6.00 ft)
+16.36 m
+(53.67 ft)
+AIRCRAFT
+1.94 m
+(6.36 ft)
+0.49 m
+(1.61 ft)
+0.21 m
+(0.69 ft)
+1.76 m
+(5.77 ft)
+84°
+1.23 m
+(4.04 ft)
+GROUND LINE
+0.14 m
+(0.46 ft)
+A
+NOTE:
+VALUE OF CG: 25% RC.
+N_AC_020700_1_0290101_01_00
+Doors Clearances
+Main Landing Gear Doors
+FIGURE-2-7-0-991-029-A01
+2-7-0
+
+**ON A/C A320-200
+A
+16.23 m
+(53.25 ft)
+2.23 m
+(7.32 ft)
+AIRCRAFT
+1.94 m
+(6.36 ft)
+0.49 m
+(1.61 ft)
+1.76 m
+(5.77 ft)
+82.5°
+1.27 m
+(4.17 ft)
+GROUND LINE
+0.16 m
+(0.52 ft)
+A
+NOTE:
+VALUE OF CG: 25% RC.
+N_AC_020700_1_0300101_01_00
+Doors Clearances
+Main Landing Gear Doors (Bogie)
+FIGURE-2-7-0-991-030-A01
+2-7-0
+
+0.63 m
+(2.07 ft)
+FR1
+1.54 m
+(5.05 ft)
+65°
+N_AC_020700_1_0310101_01_00
+Doors Clearances
+Radome
+FIGURE-2-7-0-991-031-A01
+2-7-0
+
+FR80
+FR84
+3.86 m
+(12.66 ft)
+3.23 m
+(10.60 ft)
+1.50 m
+(4.92 ft)
+1.40 m
+(4.59 ft)
+NOTE:
+VALUE OF CG: 25% RC.
+N_AC_020700_1_0320101_01_00
+Doors Clearances
+APU and Nose Landing Gear Doors
+FIGURE-2-7-0-991-032-A01
+2-7-0
+
+A
+FWD PAX DOOR
+FR24
+Z813
+FR16
+FR20
+FR16
+FR20
+FR1
+TELESCOPIC
+HANDRAIL
+TELESCOPIC
+HANDRAIL
+UNLOCKING
+PUSHBUTTON
+B
+LIGHTS
+LIGHTS
+LIGHTS
+FR20
+HANDRAIL
+FR16
+LIGHTS
+STAIRS
+LIGHTS
+DOOR
+A
+B
+N_AC_020700_1_0560101_01_00
+Doors Clearances - Airstairs
+Location
+FIGURE-2-7-0-991-056-A01
+2-7-0
+
+FWD PAX DOOR
+A
+FR16
+FR24
+Z813
+FR20
+FR20
+FR16
+FR1
+3.25 m
+(10.66 ft)
+3.34 m
+(10.96 ft)
+A
+NOTE:
+THE VALUES GIVEN DEPEND ON THE POSITION OF CENTER
+OF GRAVITY (CG) AND THE AIRCRAFT WEIGHT.
+N_AC_020700_1_0570101_01_00
+Doors Clearances - Airstairs
+Dimensions
+FIGURE-2-7-0-991-057-A01
+2-7-0
+
+Z221
+A
+FWD PAX DOOR
+FR20
+FR16
+FR13
+B
+OPER.
+FR16
+A
+FR20
+RETR
+EXT.
+LT.
+B
+N_AC_020700_1_0580101_01_00
+Doors Clearances - Airstairs
+Location for Operating the Airstairs
+FIGURE-2-7-0-991-058-A01
+2-7-0
+
+OPER.
+SWITCH
+OPERATION
+RED LEDS 02
+RETR
+RETRACTION AND
+EXTENSION SWITCH
+EXT.
+YELLOW LED
+SWITCH
+LIGHTING
+LT.
+NOTE:
+OPER.: WHEN THE FLIGHT CREW PUSHES THIS SWITCH TO THE OPER. POSITION AND HOLDS
+IT AGAINST THE SPRING, THE STAIRS WILL EXTEND OR RETRACT IF THE FLIGHT CREW ALSO
+HOLDS THE RETRACTION AND EXTENSION SWITCH IN THE RETR. OR EXT. POSITION.
+OFF: OPERATION OF THE STAIRS IS PREVENTED.
+THE TWO RED LIGHTS ARE ON DURING THE EXTENSION AND RETRACTION.
+NEUTRAL: THIS IS THE STABLE, LOCKED POSITION. OPERATION OF THE STAIRS IS PREVENTED.
+TO MOVE IT FROM THIS POSITION, THE FLIGHT CREW MUST PULL THE SWITCH OUT.
+RETR.: WHEN THE FLIGHT CREW HOLDS THE SWITCH IN THIS POSITION AGAINST THE SPRING,
+THE STAIRS RETRACT IF:
+- THE OPERATION SWITCH IS HELD AT OPER.
+- THE TELESCOPIC HANDRAILS ARE FULLY STOWED.
+UP: THE STAIR LIGHTS COMES ON ALONG WITH THE YELLOW CONTROL LIGHT, IF:
+- THE STAIRS ARE FULLY EXTENDED, AND
+- THE POWER IS AVAILABLE FROM DC BUS 2.
+DOWN: THE STAIR LIGHTS AND THE YELLOW CONTROL LIGHT ARE OFF.
+N_AC_020700_1_0610101_01_00
+Operation of the Airstairs
+FIGURE-2-7-0-991-061-A01
+2-7-0
+
+2-8-0
+Escape Slides
+Escape Slides
+1.
+General
+This section provides location of slides/rafts facilities and related clearances.
+2.
+Location
+Slides/rafts facilities are provided at the following locations:
+- One single or dual lane slide at each door 1 & 4 (total four)
+- Dual lane overwing slides are installed above the wings in the left and right wing-to-fuselage
+fairings for off-the-wing evacuation (total 2).
+2-8-0
+
+AFT OVERWING EXIT
+DOOR 4 SINGLE or DUAL LANE SLIDE
+OVERWING DUAL LANE SLIDE
+FWD OVERWING EXIT
+COCKPIT ESCAPE
+ROPE
+DOOR 1 SINGLE or DUAL LANE SLIDE
+NOTE:
+LH SHOWN, RH SYMMETRICAL.
+N_AC_020800_1_0050101_01_04
+Escape Slides
+Location
+FIGURE-2-8-0-991-005-A01
+2-8-0
+
+EMERGENCY EVACUATION
+WINDOW OPENING WITH THE ESCAPE ROPE
+EMERGENCY DESCENT THROUGH THE
+GRID EQUALS 1 m (3.28 ft) IN REALITY
+- DIMENSIONS ARE APPROXIMATE.
+- LH SHOWN, RH SYMMETRICAL.
+-12
+-3
+-15
+-18
+-9
+-6
+NOTE:
+N_AC_020800_1_0060101_01_02
+Escape Slides
+Dimensions
+FIGURE-2-8-0-991-006-A01
+2-8-0
+
+2-9-0
+Landing Gear
+Landing Gear
+1.
+General
+The landing gear is of the conventional retractable tricycle type comprising:
+- Two main gears with twin-wheel or four-wheel bogie assembly,
+- A twin-wheel nose gear.
+The main landing gears are located under the wing and retract sideways towards the fuselage
+centerline.
+The nose landing gear retracts forward into a fuselage compartment located between FR9 and
+FR20.
+The landing gears and landing gear doors are operated and controlled electrically and
+hydraulically.
+In abnormal operation, the landing gear can be extended by gravity.
+For landing gear footprint and tire size, refer to 07-02-00.
+2.
+Main Landing Gear
+A. 
+Twin-Wheel
+Each of the two main landing gear assemblies consists of a conventional two-wheel direct
+type with an integral shock absorber supported in the fore and aft directions by a fixed drag
+strut and laterally by a folding strut mechanically locked when in the DOWN position.
+3.
+Nose Landing Gear
+The nose landing gear consists of a leg with a built-in shock absorber strut, carrying twin wheels
+with adequate shimmy damping and a folding strut mechanically locked when in the DOWN
+position.
+4.
+Nose Wheel Steering
+2-9-0
+
+Steering is controlled by two hand wheels in the cockpit. For steering angle controlled by the
+hand wheels, refer to AMM 32-51-00.
+For steering angle limitation, refer to AMM 09-10-00.
+A steering disconnection box is installed on the nose landing gear to allow steering deactivation
+for towing purposes.
+5.
+Landing Gear Servicing Points
+A. 
+General
+Filling of the landing-gear shock absorbers is done through MIL-PRF-6164 standard valves.
+Charging of the landing-gear shock absorbers is accomplished with nitrogen through MILPRF-6164 standard valves.
+B. 
+Charging Pressure
+For charging of the landing-gear shock absorbers, refer to AMM 12-14-32.
+6.
+Braking
+A. 
+General
+The four main wheels are equipped with carbon multidisc brakes.
+The braking system is electrically controlled and hydraulically operated.
+The braking system has four braking modes plus autobrake and anti-skid systems:
+- Normal braking with anti-skid capability,
+- Alternative braking with anti-skid capability,
+- Alternative braking without anti-skid capability,
+- Parking brake with full pressure application capability only.
+B. 
+In-Flight Wheel Braking
+The main gear wheels are braked automatically before the wheels enter the wheel bay.
+The nose gear wheels are stopped by the wheels contacting a rubbing strip (the brake
+band) when the gear is in the retracted position.
+2-9-0
+
+HINGED FAIRING
+(MECHANICALLY OPERATED)
+HINGED
+FAIRING
+FIXED
+FAIRING
+DOOR ACTUATING CYLINDER
+B
+A
+C
+ADJUSTABLE
+RAMP
+PROXIMITY SENSORS
+STEPS
+UPLOCK
+ROLLER
+ACTUATING CYLINDER
+MAIN DOOR
+(HYDRAULICALLY OPERATED)
+FIXED
+RAMPS
+DOWNLOCK
+E
+ACTUATOR
+LOCK STAY
+MAIN FITTING
+SIDE STAY
+SHOCK ABSORBER
+TORQUE
+LINK
+D
+A
+MAIN DOOR SHOWN OPEN IN GROUND MAINTENANCE POSITION.
+NOTE:
+N_AC_020900_1_0100101_01_00
+Landing Gear
+Main Landing Gear - Twin-Wheel (Sheet 1 of 2)
+FIGURE-2-9-0-991-010-A01
+2-9-0
+
+DOOR
+ACTUATING
+CYLINDER
+LOCKING
+LOCKSTAY
+ACTUATING
+GROUND LOCK SLEEVE
+PIN
+CYLINDER
+LOCKING
+PIN
+FLAG
+FLAG
+B
+C
+BOTTOM FILLING AND
+CHARGING CONNECTION
+TOP FILLING AND CHARGING
+CONNECTION
+E
+D
+EXAMPLE
+N_AC_020900_1_0100102_01_01
+Landing Gear
+Main Landing Gear - Twin-Wheel (Sheet 2 of 2)
+FIGURE-2-9-0-991-010-A01
+2-9-0
+
+2 265 mm
+(89.17 in)
+2 868.70 mm
+(112.94 in)
+3 795 mm
+Y=
+COMPRESSED
+(149.41 in)
+EXTENDED
+469.90 mm
+(18.50 in)
+58.40 % AMC
+3 453 mm
+(135.94 in)
+80°30
+RETRACTION
+X= 20 252.50 mm
+ANGLE
+(797.34 in)
+(36.50 in)
+927.10 mm
+N_AC_020900_1_0110101_01_00
+Landing Gear
+Main Landing Gear Dimensions - Twin-Wheel
+FIGURE-2-9-0-991-011-A01
+2-9-0
+
+DOOR UPLOCK
+BELL
+FR9
+ASSEMBLY
+GEAR UPLOCK
+CRANK
+ASSEMBLY
+DRAG STRUT
+ASSEMBLY
+DOOR
+ACTUATING
+FR20
+CYLINDER
+CONTROL ROD
+B
+C
+ROTATING ROD
+ASSEMBLY
+FITTING
+AFT DOORS
+FWD DOORS
+LEG DOOR
+A
+ACTUATING
+CYLINDER
+D
+DOWNLOCK
+PROXIMITY
+DETECTORS
+NOSE WHEEL
+STEERING
+SERVO CONTROL
+STEERING
+ACTUATING
+CYLINDER
+E
+SHOCK
+ABSORBER
+TORQUE
+LINK
+TOWING
+FITTING
+A
+N_AC_020900_1_0140101_01_00
+Landing Gear
+Nose Landing Gear (Sheet 1 of 2)
+FIGURE-2-9-0-991-014-A01
+2-9-0
+
+LOCKSTAY
+NLG DOOR
+DOWNLOCK
+NLG DOOR
+SAFETY PIN
+SAFETY PIN
+DOOR HINGE
+FLAG
+B
+C
+FLAG
+RH SHOWN
+CONNECTION
+FILLING AND CHARGING
+LH SYMMETRICAL
+TOWING LEVER
+F
+D
+(NOSE WHEEL STEERING
+NORMAL POSITION
+"RETRACT"
+SWITCH
+TOGGLE
+AIRSTAIR
+OPERATIONAL)
+STAIRS
+"EXTEND"
+TOWING POSITION
+(NOSE WHEEL STEERING DEACTIVATED)
+SWITCH
+TOGGLE
+LIGHT
+STAIRS
+SAFETY PIN
+LIGHT
+E
+(TOWING POSITION)
+ELECTRICAL BOX
+F
+ELECTRICAL BOX
+N_AC_020900_1_0140102_01_02
+Landing Gear
+Nose Landing Gear (Sheet 2 of 2)
+FIGURE-2-9-0-991-014-A01
+2-9-0
+
+"RETRACT"
+STAIRS
+"EXTEND"
+STAIRS
+LIGHT
+NOTE:
+STAIRS SW
+NEUTRAL: THIS STABLE AND LOCKED POSITION PREVENTS OPERATION OF THE AIRSTAIRS.
+THE FLIGHT CREW MUST PULL THE SWITCH OUT TO MOVE IT FROM THE
+NEUTRAL POSITION.
+RETRACT: WHEN GROUND CREW HOLDS THE SWITCH AGAINST THE SPRING IN THIS POSITION,
+THE AIRSTAIRS RETRACT IF THE TELESCOPIC HANDRAILS ARE FULLY STOWED.
+EXTEND: WHEN GROUND CREW HOLDS THE SWITCH AGAINST THE SPRING IN THIS POSITION,
+THE AIRSTAIRS EXTEND.
+STAIRS LIGHT
+UP: STAIR LIGHTS COME ON, AS DOES THE YELLOW CONTROL LIGHT IN THE CABIN, IF:
+- THE STAIRS ARE FULLY EXTENDED, AND
+- POWER IS AVAILABLE FROM DC BUS 2.
+DOWN: STAIR LIGHTS AND YELLOW CONTROL LIGHT ARE OFF.
+N_AC_020900_1_0300101_01_00
+Operation of Airstairs for ACJ
+FIGURE-2-9-0-991-030-A01
+2-9-0
+
+92°
+1 957.03 mm
+(77.05 in)
+2 338 mm
+(92.05 in)
+COMPRESSED
+EXTENDED
+430 mm
+(16.93 in)
+9°
+7 561 mm
+(297.68 in)
+X =
+500 mm
+(19.69 in)
+N_AC_020900_1_0150101_01_00
+Landing Gear
+Nose Landing Gear Dimensions
+FIGURE-2-9-0-991-015-A01
+2-9-0
+
+Landing Gear Maintenance Pits
+1.
+Description
+The minimum maintenance pit envelopes for the landing-gear shock absorber removal are
+shown in FIGURE 2-9-0-991-024-A and FIGURE 2-9-0-991-025-A.
+All dimensions shown are minimum dimensions with zero clearances.
+The dimensions for the pits have been determined as follows:
+- The length and width of the pits allow the gear to rotate as the weight is taken off the landing
+gear.
+- The depth of the pits allows the shock absorber to be removed when all the weight is taken
+off the landing gear.
+Dimensions for elevators and associated mechanisms must be added to those in FIGURE 2-9-0991-024-A and FIGURE 2-9-0-991-025-A.
+2-9-0
+
+7.59 m
+(24.90 ft)
+=
+=
+1.92 m
+(6.30 ft)
+MAIN JACKING POINT
+MAIN JACKING POINT
+MAIN JACKING POINT
+2.95 m
+(9.68 ft)
+3.76 m
+(12.34 ft)
+3.79 m
+(12.43 ft)
+6.49 m
+(21.29 ft)
+2.5 m
+(8.20 ft)
+20.25 m
+(66.44 ft)
+20.10 m
+(65.94 ft)
+1 m
+(3.28 ft)
+1.5 m
+(4.92 ft)
+=
+=
+7.61 m
+(24.97 ft)
+FWD JACKING POINT
+(17.32 ft)
+5.28 m
+FROM X0
+N_AC_020900_1_0240101_01_00
+Landing Gear Maintenance Pits
+Maintenance Pit Envelopes
+FIGURE-2-9-0-991-024-A01
+2-9-0
+
+A
+B
+STATIC GROUND LINE
+AND LANDING GEAR SHOCK ABSORBERS EXTENDED.
+REPRESENTS TOP OF MECHANICAL OR HYDRAULIC
+REPRESENTS TOP OF MECHANICAL OR HYDRAULIC
+ELEVATOR, WITH AIRCRAFT WEIGHT SUPPORTED
+LOWERED FOR SHOCK ABSORBER REMOVAL.
+ELEVATOR, SHOWN WITH ZERO CLEARANCE
+1.60 m
+(5.25 ft)
+0.40 m
+(1.31 ft)
+20.25 m
+(66.44 ft)
+0.52
+1.17
+3.84
+m
+ft
+A
+B
+1.71
+m
+ft
+WITH WHEELS REMOVED
+7.61 m
+(24.97 ft)
+AND 153 mm (6.02 in)
+NOTE: 1
+CLEARANCE AT
+DIM QUOTED IS
+JACKING DOME
+FROM X0
+N_AC_020900_1_0250101_01_00
+Landing Gear Maintenance Pits
+Maintenance Pit Envelopes
+FIGURE-2-9-0-991-025-A01
+2-9-0
+
+2-10-0
+Exterior Lighting
+Exterior Lighting
+1.
+General
+This section provides the location of the aircraft exterior lighting.
+|This section provides the location of the aircraft exterior lighting. EXTERIOR LIGHTING|Col2|
+|---|---|
+|EXTERIOR LIGHTING|EXTERIOR LIGHTING|
+|ITEM|DESCRIPTION|
+|1|RIGHT NAVIGATION LIGHT(GREEN)|
+|2|TAIL NAVIGATION LIGHT(WHITE)|
+|3|LEFT NAVIGATION LIGHT(RED)|
+|4|RETRACTABLE LANDING LIGHT|
+|5|RUNWAY TURN OFF LIGHT|
+|6|TAXI LIGHT|
+|7|TAKE-OFF LIGHT|
+|8|LOGO LIGHT|
+|9|UPPER ANTI-COLLISION LIGHT/BEACON(RED)|
+|10|LOWER ANTI-COLLISION LIGHT/BEACON(RED)|
+|11|WING STROBE LIGHT(HIGH INTENSITY, WHITE)|
+|12|TAIL STROBE LIGHT(HIGH INTENSITY, WHITE)|
+|13|WING/ENGINE SCAN LIGHT|
+|14|WHEEL WELL LIGHT(DOME)|
+|15|CARGO COMPARTMENT FLOOD LIGHT|
+|16|MULTIFUNCTIONAL RUNWAY LIGHT (MFRL) The MFRL is a set of LED lights that are installed on the aircraft which includes the retractable landing light and the complete set of NLG lights (two runway turn-off lights, one taxi light and one take-off light).|
+2-10-0
+
+RH
+LH
+RH
+LH
+N_AC_021000_1_0090101_01_00
+Exterior Lighting
+FIGURE-2-10-0-991-009-A01
+2-10-0
+
+**ON A/C A320neo
+RH
+LH
+N_AC_021000_1_0210101_01_00
+Exterior Lighting
+FIGURE-2-10-0-991-021-A01
+2-10-0
+
+N_AC_021000_1_0100101_01_00
+Exterior Lighting
+FIGURE-2-10-0-991-010-A01
+2-10-0
+
+N_AC_021000_1_0110101_01_00
+Exterior Lighting
+FIGURE-2-10-0-991-011-A01
+2-10-0
+
+EXAMPLE FOR LIGHT N° 15
+CEILING LIGHT
+SPOT LIGHT
+GROUND
+N_AC_021000_1_0190101_01_00
+Exterior Lighting
+FIGURE-2-10-0-991-019-A01
+2-10-0
+
+**ON A/C A320neo
+RUNWAY TURN OFF LIGHTS
+FUNCTIONALITY
+TAXI LIGHT
+FUNCTIONALITY
+TAKE-OFF LIGHT
+FUNCTIONALITY
+LANDING LIGHTS
+FUNCTIONALITY
+N_AC_021000_1_0230101_01_00
+Exterior Lighting
+FIGURE-2-10-0-991-023-A01
+2-10-0
+
+2-11-0
+Antennas and Probes Location
+Antennas and Probes Location
+1.
+This section gives the location of antennas and probes.
+2-11-0
+
+WEATHER RADAR
+EMERGENCY STATIC PROBE
+AOA SENSOR(3) STBY
+ATC(4)
+VHF(1)
+GPS(2)
+VHF(3)
+AOA SENSOR(1)
+HF
+GPS(1)
+ELT
+TCAS TOP
+LOC
+GLIDE
+RADIO ALTIMETER(2)
+DME(1)
+TAT PROBE
+MARKER
+RADIO ALTIMETER(1)
+PITOT PROBE(3)
+TCAS BOTTOM
+VHF(2)
+PITOT PROBE(1)
+DME(2)
+ATC(1)
+STATIC PROBE(1)
+STATIC PROBE(2)
+VOR
+EMERGENCY STATIC PROBE
+ATC(3)
+ADF(1)
+AOA SENSOR(2)
+TAT PROBE
+PITOT PROBE(2)
+ATC(2)
+STATIC PROBE(1)
+STATIC PROBE(2)
+N_AC_021100_1_0030101_01_00
+NOTE: DEPENDING ON AIRCRAFT CONFIGURATION
+Antennas and Probes
+Location
+FIGURE-2-11-0-991-003-A01
+2-11-0
+
+2-12-0
+Power Plant
+Auxiliary Power Unit
+1.
+General
+The APU is installed at the rear part of the fuselage in the tail cone. An air intake system with a
+flap-type door is installed in front of the APU compartment. The exhaust gases pass overboard
+at the end of the fuselage cone.
+2.
+Controls and Indication
+The primary APU controls and indications are installed on the overhead panel, on the center
+pedestal and on the center instrument panel. Additionally, an external APU panel is installed on
+the nose landing gear to initiate an APU emergency shutdown.
+2-12-0
+
+FR77
+FR87
+A B
+Z310
+FR70
+UPPER
+FIREWALL
+FR80
+FRONT
+FIREWALL
+FIREWALL RH
+LOUVER LH
+CUT OUT SEALED WITH
+LABYRINTH GASKET
+RH ACCESS DOOR
+316AR
+REAR
+FIREWALL
+FR84
+CUT OUT SEALED WITH
+LABYRINTH GASKET
+A
+AIR INTAKE FIXED
+ON ACCESS DOOR
+NOTE:
+LH ACCESS DOOR
+ NOT SHOWN FOR CLARITY.
+315AL
+N_AC_021200_1_0050101_01_01
+Auxiliary Power Unit
+Access Doors
+FIGURE-2-12-0-991-005-A01
+2-12-0
+
+FIRE OVERHEAT DETECTOR
+APU
+APU SUSPENSION
+(7 RODS)
+GENERATOR
+FIRE EXTINGUISHING BOTTLE
+FR87
+BLEED AIR LINE
+EXHAUST
+MUFFLER
+APU SUSPENSION
+(7 RODS)
+FR84
+OIL COOLER OUTLET
+AIR INTAKE DUCT
+APU-FUEL-LINE
+FR80
+FRONT FIRE
+WALL
+AIR INTAKE HOUSING
+FR78
+FR77
+DIVERTER
+B
+N_AC_021200_1_0060101_01_01
+Auxiliary Power Unit
+General Layout
+FIGURE-2-12-0-991-006-A01
+2-12-0
+
+Engine and Nacelle
+**ON A/C A320-200
+1.
+Engine and Nacelle - CFM56 Engine
+A. 
+Engine
+The aircraft has two CFM International CFM56 engines that supply power to the aircraft.
+The engines are turbofan engines that have:
+- A high bypass ratio,
+- A Full Authority Digital Engine Control (FADEC),
+- A fuel system,
+- An oil system,
+- An air system,
+- A thrust reverser system,
+- An ignition system and a start system.
+The engine has:
+Two compressor turbine assemblies:
+- The Low Pressure (LP) compressor turbine assembly,
+- The High Pressure (HP) compressor turbine assembly.
+Each turbine operates its associated compressor via a shaft.
+- One accessory gearbox,
+- One combustion chamber.
+The engine operates as follows:
+(1)
+The LP compressor, compresses the air.
+(2)
+Then, the air is divided into two flows:
+- Most of the air flows out of the core engine, and provides most of the engine
+thrust.
+- The remaining air enters the core engine.
+(3)
+The HP compressor compresses the air that enters the core engine.
+(4)
+The fuel is added to and mixed with the compressed air of the core engine. The
+mixture is ignited in the combustion chamber.
+(5)
+The gas that results from combustion drives the HP and the LP turbines.
+- The rotation speed of the fan provides the N1 engine parameter.
+- The rotation speed of the HP rotor provides the N2 engine parameter.
+- The N1 and N2 engine parameters appear on the Engine/Warning Display (E/
+WD).
+2-12-0
+
+- The N1 and N2 engine parameters are current rotation speeds displayed in
+percentage.
+The FADEC uses:
+- The N1 engine parameter to compute the applicable engine thrust,
+- The N1 and N2 engine parameters for engine control and monitoring.
+B. 
+Nacelle
+The cowls enclose the periphery of the engine so as to form the engine nacelle. Each
+engine is housed in a nacelle suspended from a pylon attached below the wing.
+The nacelle installation is designed to provide cooling and ventilation air for engine
+accessories mounted along the fan and core casing. The nacelle provides:
+- Protection for the engine and the accessories
+- Airflow around the engine during its operation
+- Lighting protection
+- HIRF and EMI attenuation.
+2.
+Engine and Nacelle - IAE V2500 Engine
+A. 
+Engine
+The aircraft has two International Aero Engines V2500 engines that supply power to the
+aircraft.
+The engines are turbofan engines that have:
+- A high bypass ratio,
+- A Full Authority Digital Engine Control (FADEC),
+- A fuel system,
+- An oil system,
+- An air system,
+- A thrust reverser system,
+- An ignition system and a start system.
+The engine has:
+Two compressor turbine assemblies:
+- The Low Pressure (LP) compressor turbine assembly,
+- The High Pressure (HP) compressor turbine assembly.
+Each turbine operates its associated compressor via a shaft.
+- One accessory gearbox,
+- One combustion chamber.
+The engine operates as follows:
+(1)
+The LP compressor, compresses the air.
+(2)
+Then, the air is divided into two flows:
+- Most of the air flows out of the core engine, and provides most of the engine
+thrust.
+2-12-0
+
+- The remaining air enters the core engine.
+(3)
+The HP compressor compresses the air that enters the core engine.
+(4)
+The fuel is added to and mixed with the compressed air of the core engine. The
+mixture is ignited in the combustion chamber.
+(5)
+The gas that results from combustion drives the HP and the LP turbines.
+- The rotation speed of the fan provides the N1 engine parameter.
+- The rotation speed of the HP rotor provides the N2 engine parameter.
+- The N1 and N2 engine parameters appear on the Engine/Warning Display (E/
+WD).
+- The N1 and N2 engine parameters are current rotation speeds displayed in
+percentage.
+The FADEC uses:
+- The N1 engine parameter to compute the applicable engine thrust,
+- The N1 and N2 engine parameters for engine control and monitoring.
+B. 
+Nacelle
+The cowls enclose the periphery of the engine so as to form the engine nacelle. Each
+engine is housed in a nacelle suspended from a pylon attached below the wing.
+The nacelle installation is designed to provide cooling and ventilation air for engine
+accessories mounted along the fan and core casing. The nacelle provides:
+- Protection for the engine and the accessories
+- Airflow around the engine during its operation
+- Lighting protection
+- HIRF and EMI attenuation.
+**ON A/C A320neo
+3.
+Engine and Nacelle - CFM LEAP-1A Engine
+A. 
+Engine
+The aircraft has two CFM International LEAP-1A engines that supply power to the aircraft.
+The engines are turbofan engines that have:
+- A high bypass ratio,
+- A Full Authority Digital Engine Control (FADEC),
+- A fuel system,
+- An oil system,
+- An air system,
+- A thrust reverser system,
+- An ignition system and a start system.
+The engine has:
+Two compressor turbine assemblies:
+- The Low Pressure (LP) compressor turbine assembly,
+2-12-0
+
+- The High Pressure (HP) compressor turbine assembly.
+Each turbine operates its associated compressor via a shaft.
+- One accessory gearbox,
+- One combustion chamber.
+The engine operates as follows:
+(1)
+The LP compressor, compresses the air.
+(2)
+Then, the air is divided into two flows:
+- Most of the air flows out of the core engine, and provides most of the engine
+thrust.
+- The remaining air enters the core engine.
+(3)
+The HP compressor compresses the air that enters the core engine.
+(4)
+The fuel is added to and mixed with the compressed air of the core engine. The
+mixture is ignited in the combustion chamber.
+(5)
+The gas that results from combustion drives the HP and the LP turbines.
+- The rotation speed of the fan provides the N1 engine parameter.
+- The rotation speed of the HP rotor provides the N2 engine parameter.
+- The N1 and N2 engine parameters appear on the Engine/Warning Display (E/
+WD).
+- The N1 and N2 engine parameters are current rotation speeds displayed in
+percentage.
+The FADEC uses:
+- The N1 engine parameter to compute the applicable engine thrust,
+- The N1 and N2 engine parameters for engine control and monitoring.
+B. 
+Nacelle
+The cowls enclose the periphery of the engine so as to form the engine nacelle. Each
+engine is housed in a nacelle suspended from a pylon attached below the wing.
+The nacelle installation is designed to provide cooling and ventilation air for engine
+accessories mounted along the fan and core casing. The nacelle provides:
+- Protection for the engine and the accessories
+- Airflow around the engine during its operation
+- Lighting protection
+- HIRF and EMI attenuation.
+4.
+Engine and Nacelle - PW1100G Engine
+A. 
+Engine
+The aircraft has two Pratt & Whitney's Pure Power PW1100G engines that supply power to
+the aircraft.
+The engines are turbofan engines that have:
+2-12-0
+
+- A high bypass ratio,
+- A Full Authority Digital Engine Control (FADEC),
+- A fuel system,
+- An oil system,
+- An air system,
+- A thrust reverser system,
+- An ignition system and a start system.
+The engine has:
+Two compressor turbine assemblies:
+- The Low Pressure (LP) compressor turbine assembly,
+- The High Pressure (HP) compressor turbine assembly.
+Each turbine operates its associated compressor via a shaft.
+- One accessory gearbox,
+- One combustion chamber.
+The engine operates as follows:
+(1)
+The LP compressor, compresses the air.
+(2)
+Then, the air is divided into two flows:
+- Most of the air flows out of the core engine, and provides most of the engine
+thrust.
+- The remaining air enters the core engine.
+(3)
+The HP compressor compresses the air that enters the core engine.
+(4)
+The fuel is added to and mixed with the compressed air of the core engine. The
+mixture is ignited in the combustion chamber.
+(5)
+The gas that results from combustion drives the HP and the LP turbines.
+- The rotation speed of the fan provides the N1 engine parameter.
+- The rotation speed of the HP rotor provides the N2 engine parameter.
+- The N1 and N2 engine parameters appear on the Engine/Warning Display (E/
+WD).
+- The N1 and N2 engine parameters are current rotation speeds displayed in
+percentage.
+The FADEC uses:
+- The N1 engine parameter to compute the applicable engine thrust,
+- The N1 and N2 engine parameters for engine control and monitoring.
+B. 
+Nacelle
+The cowls enclose the periphery of the engine so as to form the engine nacelle. Each
+engine is housed in a nacelle suspended from a pylon attached below the wing.
+The nacelle installation is designed to provide cooling and ventilation air for engine
+accessories mounted along the fan and core casing. The nacelle provides:
+- Protection for the engine and the accessories
+- Airflow around the engine during its operation
+2-12-0
+
+- Lighting protection
+- HIRF and EMI attenuation.
+2-12-0
+
+**ON A/C A320-200
+2 943 mm
+(115.87 in)
+2 600 mm
+(102.36 in)
+1 125 mm
+(44.28 in)
+A
+TURBINE
+FAN AND BOOSTER
+COMPRESSOR
+FRAME
+FWD HOISTING
+COMBUSTOR
+POINT
+FWD
+HANDLING
+POINT
+B
+HP
+LP
+1 820 mm
+(71.65 in)
+TURBINE
+TURBINE
+AFT HANDLING
+AND HANDLING
+DRIVE
+ACCESSORY
+AGB
+TGB
+POINT
+DIA 986 mm
+(38.82 in)
+A
+2 145 mm
+(84.45 in)
+FWD
+1 130 mm
+(44.49 in)
+989 mm
+(38.94 in)
+1 978 mm
+(77.87 in)
+B
+N_AC_021200_1_0270101_01_00
+Power Plant Handling
+Major Dimensions - CFM56 Series Engine
+FIGURE-2-12-0-991-027-A01
+2-12-0
+
+**ON A/C A320-200
+0.33 m
+(1.1 ft)
+DISTANCE FROM
+THE NOSE
+0.93 m
+11 m
+(36.1 ft)
+1.3 m
+(4.3 ft)
+1.2 m
+(3.9 ft)
+1.2 m
+(3.9 ft)
+(3.1 ft)
+D
+A
+B
+C
+PRIMARY
+NOZZLE
+6°
+2.3 m
+(7.5 ft)
+1.6 m
+(5.2 ft)
+CENTERBODY
+C
+2.1 m
+(6.9 ft)
+B
+A
+D
+ENGINE AIR
+INLET COWL
+0.57 m
+(1.9 ft)
+FAN COWL
+FAN
+REVERSER
+A A
+1.9 m
+(6.2 ft)
+2.07 m
+(6.8 ft)
+1.8 m
+(5.9 ft)
+1.2 m
+(3.9 ft)
+BLOCKER DOOR
+EXTENDED
+C C
+D D
+B B
+N_AC_021200_1_0280101_01_00
+Power Plant Handling
+Major Dimensions - CFM56 Series Engine
+FIGURE-2-12-0-991-028-A01
+2-12-0
+
+**ON A/C A320-200
+4.25 m
+(14 ft)
+3.73 m
+(12.3 ft)
+1.85 m
+(6.1 ft)
+1.51 m
+(4.98 ft)
+40°
+55°
+0.81 m
+(2.67 ft)
+1.2 m
+(3.96 ft)
+SEE
+CHAPTER
+2-3
+NOTE: APPROXIMATE DIMENSIONS.
+N_AC_021200_1_0290101_01_01
+Power Plant Handling
+Fan Cowls - CFM56 Series Engine
+FIGURE-2-12-0-991-029-A01
+2-12-0
+
+**ON A/C A320-200
+3.7 m
+(12.1 ft)
+3.3 m
+(10.8 ft)
+1 m
+(3.3 ft)
+(3 ft)
+0.9 m
+1 m
+(3.3 ft)
+SEE
+CHAPTER
+35°
+45°
+0.7 m
+(2.3 ft)
+2-3
+GROUND
+CAUTION
+DO NOT ACTUATE SLATS:
+- WITH THRUST REVERSER COWLS 45° OPEN POSITION
+- WITH BLOCKER DOORS OPEN AND THRUST REVERSER
+ COWLS AT 35° AND 45° OPEN POSITION.
+APPROXIMATE DIMENSIONS.
+NOTE:
+N_AC_021200_1_0300101_01_01
+Power Plant Handling
+Thrust Reverser Cowls - CFM56 Series Engine
+FIGURE-2-12-0-991-030-A01
+2-12-0
+
+**ON A/C A320-200
+A
+3 101 mm
+(122.1 in)
+TURBINE
+FRAME
+LP
+TURBINE
+COMBUSTOR
+FAN AND BOOSTER
+COMPRESSOR
+HP
+TURBINE
+1 715 mm
+(67.5 in)
+1 067 mm
+(42.0 in)
+DRIVE
+ACCESSORY
+A
+FWD
+N_AC_021200_1_0310101_01_00
+Power Plant Handling
+Major Dimensions - IAE V2500 Series Engine
+FIGURE-2-12-0-991-031-A01
+2-12-0
+
+**ON A/C A320-200
+DISTANCE FROM
+THE NOSE
+5.25 m
+(17.23 ft)
+11.12 m
+(36.5 ft)
+D
+C
+F
+A
+W
+B
+E
+0.5°
+6°
+U
+V
+1.50 m
+(4.95 ft)
+E
+B
+F
+A
+C
+D
+5.26 m
+(17.27 ft)
+|Col1|W|Col3|U|Col5|V|Col7|PPS|Col9|AT COMPONENT|
+|---|---|---|---|---|---|---|---|---|---|
+||m|ft|m|ft|m|ft|m|ft|ft|
+|**A-A**|2.01|6.58|0.99|3.25|1.10|3.63|1.41|4.62|INLET ATTACH FLG|
+|**B-B**|2.01|6.58|1.00|3.29|1.11|3.64|2.59|8.50|TORQUE BOX "V" BLADE|
+|**C-C**|1.98|6.50|0.97|3.19|1.07|3.52|3.26|10.70|COMB. CHAMBER ENTRY FLG|
+|**D-D**|1.93|6.32|0.93|3.06|1.03|3.39|3.63|11.90|COMB. CHAMBER EXIT FLG|
+|**E-E**|1.64|5.38|0.78|2.57|0.86|2.83|4.60|15.10|TECH FLG TURB. EXIT CASE|
+|**F-F**|1.24|4.07|0.60|1.96|0.64|2.11|----|----|AFT END CNA|
+N_AC_021200_1_0320101_01_00
+Power Plant Handling
+Major Dimensions - IAE V2500 Series Engine
+FIGURE-2-12-0-991-032-A01
+2-12-0
+
+**ON A/C A320-200
+FWD VIEW
+2 m
+(6.6 ft)
+CLOSED
+WL100
+3.9 m
+(12.8 ft)
+WL100
+FAN COWL
+OPEN 50°
+1.6 m
+(5.2 ft)
+1.2 m
+(3.9 ft)
+SEE
+CHAPTER
+2-3
+GROUND
+APPROXIMATE DIMENSIONS.
+NOTE:
+N_AC_021200_1_0330101_01_01
+Power Plant Handling
+Fan Cowls - IAE V2500 Series Engine
+FIGURE-2-12-0-991-033-A01
+2-12-0
+
+**ON A/C A320-200
+AFT VIEW
+2 m
+(6.6 ft)
+WL100
+CLOSED
+3.6 m
+(11.8 ft)
+WL100
+0.9 m
+(3 ft)
+THRUST REVERSER
+1.1 m
+(3.6 ft)
+OPEN 45°
+1 m
+(3.3 ft)
+SEE
+CHAPTER
+2-3
+APPROXIMATE DIMENSIONS.
+NOTE:
+N_AC_021200_1_0340101_01_01
+Power Plant Handling
+Thrust Reverser Halves - IAE V2500 Series Engine
+FIGURE-2-12-0-991-034-A01
+2-12-0
+
+**ON A/C A320neo
+FAN COWL
+THRUST
+REVERSER
+NOSE COWL
+PRIMARY
+NOZZLE
+A
+PLUG
+0.46 m
+(1.51 ft)
+0.66 m
+(2.17 ft)
+1.46 m
+(4.79 ft)
+1.53 m
+(5.02 ft)
+1.44 m
+(4.72 ft)
+FWD
+2.60 m
+(8.53 ft)
+2.67 m
+(8.76 ft)
+SEE
+CHAPTER
+A
+2-3
+N_AC_021200_1_0460101_01_01
+Power Plant Handling
+Major Dimensions - PW 1100G Engine
+FIGURE-2-12-0-991-046-A01
+2-12-0
+
+**ON A/C A320neo
+A
+A
+4.70 m
+(15.42 ft)
+1.22 m
+(4.00 ft)
+FULL: 50°
+OPEN POSITION:
+50°
+1: FAN COWL
+SEE
+CHAPTER
+2-3
+A
+N_AC_021200_1_0470101_01_01
+Power Plant Handling
+Fan Cowls - PW 1100G Engine
+FIGURE-2-12-0-991-047-A01
+2-12-0
+
+**ON A/C A320neo
+A
+A
+A
+A
+B
+B
+43°
+45°
+: THRUST REVERSER
+C
+C
+A
+|OPEN POSITION|A|Col3|Col4|MIN .|Col6|B MAX .|Col8|C|
+|---|---|---|---|---|---|---|---|---|
+|43°|4.26 m (13.98 ft)|4.26 m (13.98 ft)|0.80 m (2.62 ft)|0.80 m (2.62 ft)|0.80 m (2.62 ft)|0.90 m (2.95 ft) SEE|AC SECTION|AC SECTION|
+|45°|4.33 m (14.21 ft)|4.33 m (14.21 ft)|0.84 m (2.76 ft)|0.84 m (2.76 ft)|0.84 m (2.76 ft)|0.95 m (3.12 ft)|2-3-0|2-3-0|
+NOTE:
+B AND C DEPENDING ON AIRCRAFT CONFIGURATION.
+N_AC_021200_1_0480101_01_00
+Power Plant Handling
+Thrust Reverser Halves - PW 1100G Engine
+FIGURE-2-12-0-991-048-A01
+2-12-0
+
+**ON A/C A320neo
+3548 mm
+(139.68 in)
+3327 mm
+(130.98 in)
+1352 mm
+(53.23 in)
+FAN AND
+BOOSTER
+COMPRESSOR
+A
+FWD
+HANDLING
+COMBUSTOR
+TURBINE
+FRAME
+POINT
+DIA 1084 mm
+B
+(42.68 in)
+HP
+TURBINE
+LP
+TURBINE
+AGB TGB
+ACCESSORY
+DRIVE
+2152 mm
+(84.72 in)
+A
+FWD
+2242 mm
+(88.27 in)
+ICNLEAP1A021200C588280000100101
+1165 mm
+(45.87 in)
+1236 mm
+(48.66 in)
+2487 mm
+(97.91 in)
+B
+N_AC_021200_1_0540101_01_00
+Power Plant Handling
+Major Dimensions - CFM LEAP-1A Engine
+FIGURE-2-12-0-991-054-A01
+2-12-0
+
+**ON A/C A320neo
+THRUST
+REVERSER
+FAN COWL
+NOSE COWL
+PRIMARY
+NOZZLE
+PLUG
+A
+0.98 m
+(3.22 ft)
+0.49 m
+(1.61 ft)
+0.67 m
+(2.20 ft)
+1.58 m
+(5.18 ft)
+1.98 m
+(6.50 ft)
+0.23 m
+(0.75 ft)
+FWD
+2.52 m
+(8.27 ft)
+SEE
+CHAPTER
+2-3
+2.60 m
+(8.53 ft)
+A
+N_AC_021200_1_0550101_01_01
+Power Plant Handling
+Major Dimensions - CFM LEAP-1A Engine
+FIGURE-2-12-0-991-055-A01
+2-12-0
+
+2-13-0
+Leveling, Symmetry and Alignment
+Leveling, Symmetry and Alignment
+1.
+Quick Leveling
+There are three alternative procedures to level the aircraft:
+- Quick leveling procedure with Air Data/Inertial Reference Unit (ADIRU).
+- Quick leveling procedure with a spirit level in the passenger compartment.
+- Quick leveling procedure with a spirit level in the FWD cargo compartment.
+2.
+Precise Leveling
+For precise leveling, it is necessary to install sighting rods in the receptacles located under the
+fuselage (points 11 and 12 for longitudinal leveling) and under the wings (points 2LH and 2RH
+for lateral leveling) and use a sighting tube. With the aircraft on jacks, adjust the jacks until the
+reference marks on the sighting rods are aligned in the sighting plane (aircraft level).
+3.
+Symmetry and Alignment Check
+Possible deformation of the aircraft is measured by photogrammetry.
+2-13-0
+
+FR50
+FR53
+RIB10
+2LH
+2RH
+RIB10
+FR34
+FR31
+N_AC_021300_1_0040101_01_00
+Location of the Leveling Points
+FIGURE-2-13-0-991-004-A01
+2-13-0
+
+2-14-0
+Jacking
+Jacking for Maintenance
+1.
+Aircraft Jacking Points for Maintenance
+A. 
+General
+(1)
+The A320 can be jacked:
+- At not more than 59 000 kg (130 073 lb),
+- Within the limits of the permissible wind speed when the aircraft is not in a closed
+environment.
+B. 
+Primary Jacking Points
+(1)
+The aircraft is provided with three primary jacking points:
+- One located under the forward fuselage (FR8),
+- Two located under the wings (one under each wing, located at the intersection of
+RIB9 and the datum of the rear spar).
+(2)
+Three jack adapters are used as intermediary parts between the aircraft and the jacks:
+- One male spherical jack adapter of 19 mm (0.75 in) radius, forming part of the
+aircraft structure (FR8),
+- Two wing jack pads (one attached to each wing at RIB9 with 2 bolts) for the
+location of the jack adaptor.
+Wing jack pads are ground equipment.
+C. 
+Auxiliary Jacking Points (Safety Stay)
+(1)
+When the aircraft is on jacks, it is recommended that a safety stay be placed under
+the fuselage, between FR73 and FR74, to prevent tail tipping caused by accidental
+displacement of the center of gravity.
+(2)
+The safety stay must not be used to lift the aircraft.
+(3)
+A male spherical ball pad with a 19 mm (0.75 in) radius, forming part of the aircraft
+structure, is provided for using the safety stay.
+2.
+Jacks and Safety Stay
+A. 
+Jack Design
+(1)
+The maximum permitted loads given in the table in FIGURE 2-14-0-991-030-A are the
+maximum loads applicable on jack fittings.
+2-14-0
+
+(2)
+In the fully retracted position (jack stroke at minimum), the height of the jack is such
+that the jack may be placed beneath the aircraft in the most adverse conditions,
+namely, tires deflated and shock absorbers depressurized. In addition, there must be a
+clearance of approximately 50 mm (1.97 in) between the aircraft jacking point and the
+jack upper end.
+(3)
+The lifting jack stroke enables the aircraft to be jacked up so that the fuselage
+longitudinal datum line (aircraft center line) is parallel to the ground, with a clearance
+of 100 mm (3.94 in) between the main landing gear wheels and the ground. This
+enables the landing gear extension/retraction tests to be performed.
+3.
+Shoring Cradles
+When it is necessary to support the aircraft in order to relieve the loads on the structure to do
+modifications or major work, shoring cradles shall be placed under each wing and the fuselage
+as necessary.
+NOTE :
+The aircraft must not be lifted or supported by the wings or fuselage alone without
+adequate support of the other.
+2-14-0
+
+**ON A/C A320-200
+WING JACKING
+POINT
+RIB9
+B
+X
+FR74
+FR73
+A
+C
+FR8
+Y
+SAFETY
+FWD JACKING
+STAY
+POINT
+B'
+RIB9
+WING JACKING
+POINT
+|Col1|X|Col3|Y|Col5|MAXIMUM LOADELIGIBLE daN|
+|---|---|---|---|---|---|
+||m|ft|m|ft|ft|
+|FORWARD FUSELAGE JACKING POINT A|2.74|8.99|0|0|6 800|
+|WING JACKING POINT B' B|17.56|57.61|6.50|21.33|28 500|
+|WING JACKING POINT B' B|17.56|57.61|-6.50|-21.33|28 500|
+|SAFETY STAY C|32.57|106.86|0|0|2 000|
+NOTE:
+SAFETY STAY IS NOT USED FOR JACKING.
+N_AC_021400_1_0300101_01_02
+Jacking for Maintenance
+Jacking Point Locations
+FIGURE-2-14-0-991-030-A01
+2-14-0
+
+**ON A/C A320neo
+X
+WING JACKING
+POINT
+RIB9
+FR74
+B
+X
+FR73
+A
+C
+FR8
+Y
+FORWARD JACKING
+SAFETY
+B'
+POINT
+STAY
+RIB9
+WING JACKING
+POINT
+X
+MAXIMUM
+LOAD ELIGIBLE
+m
+ft
+Y
+X
+m
+ft
+daN
+FORWARD FUSELAGE
+JACKING POINT
+2.74
+6 800
+8.99
+A
+17.73
+58.17
+21.33
+6.50
+B
+28 500
+WING JACKING
+POINT
+17.73
+58.17
+-21.33
+-6.50
+B'
+28 500
+32.57
+106.86
+C
+2 000
+SAFETY STAY
+NOTE:
+SAFETY STAY IS NOT USED FOR JACKING.
+N_AC_021400_1_0660101_01_00
+Jacking for Maintenance
+Jacking Point Locations
+FIGURE-2-14-0-991-066-A01
+2-14-0
+
+A
+FR8
+POINT A DETAIL
+Z-1 979.8
+Z-1 987
+B
+A
+SPHERICAL RADIUS
+19 mm (0.75 in)
+B
+N_AC_021400_1_0310101_01_00
+Jacking for Maintenance
+Forward Jacking Point
+FIGURE-2-14-0-991-031-A01
+2-14-0
+
+A
+A
+WING JACK PAD
+LOWER SURFACE
+B
+POINT BB' DETAIL
+SPAR DATUM
+RIB9
+INTERSECTION WITH REAR
+Z-828.35
+A
+Z-895
+REAR SPAR DATUM
+SPHERICAL RADIUS
+32 mm (1.26 in)
+B
+NOTE:
+TYPICAL
+N_AC_021400_1_0320101_01_01
+Jacking for Maintenance
+Wing Jacking Points
+FIGURE-2-14-0-991-032-A01
+2-14-0
+
+FR73 FR74
+A
+Z-729.441
+Z-744.932
+SPHERICAL RADIUS 19 mm (0.75 in)
+(19 D535-71 595)
+126.15 mm
+(4.97 in)
+X = 35 106
+A
+FWD
+N_AC_021400_1_0330101_01_01
+Jacking for Maintenance
+Safety Stay
+FIGURE-2-14-0-991-033-A01
+2-14-0
+
+**ON A/C A320-200
+FR73 FR74
+FR8
+FUSELAGE
+DATUM LINE
+WING JACK
+SAFETY STAY
+FORWARD JACK
+N
+L
+RIB9
+RIB9
+FORWARD
+WING JACK
+JACK
+WING JACK
+M
+TYPICAL JACK INSTALLATION SHOWN
+DISTANCE BETWEEN
+JACKING/SAFETY POINTS
+AND THE GROUND
+DESCRIPTION
+CONFIGURATION
+L
+(FORWARD
+M
+(WING
+N
+(SAFETY
+JACK)
+JACK)
+STAY)
+- NLG SHOCK ABSORBER DEFLATED AND
+1 588 mm
+(62.52 in)
+3 113 mm
+(122.56 in)
+3 656 mm
+(143.00 in)
+NLG TIRES FLAT
+- MLG STANDARD TIRES, WITH STANDARD
+SHOCK ABSORBERS
+-AIRCRAFT ON WHEELS
+1 660 mm
+(65.35 in)
+2 735 mm
+(107.68 in)
+2 834 mm
+(111.57 in)
+TIRES FLAT
+SHOCK ABSORBERS DEFLATED
+1 880 mm
+(74.02 in)
+3 112 mm
+(122.52 in)
+3 364 mm
+(132.44 in)
+STANDARD TIRES
+STANDARD SHOCK ABSORBERS
+STANDARD TIRES
+MLG SHOCK ABSORBERS EXTENDED WITH
+-
+(FORWARD JACK AND
+AIRCRAFT ON JACKS
+2 554 mm
+(100.55 in)
+3 655 mm
+(143.90 in)
+3 779 mm
+(148.78 in)
+WHEEL CLEARANCE OF 120 mm (4.72 in)
+WING JACKS)
+FUSELAGE DATUM LINE
+PARALLEL TO THE GROUND
+FOR MLG RETRACTION OR EXTENSION
+-
+STANDARD TIRES
+MLG SHOCK ABSORBERS EXTENDED WITH
+3 204 mm
+(126.14 in)
+4 305 mm
+(169.49 in)
+4 429 mm
+(174.37 in)
+WHEEL CLEARANCE OF 770 mm (30.31 in)
+FOR REPLACEMENT OF THE MLG
+STANDARD TIRES
+NLG SHOCK ABSORBERS EXTENDED WITH
+AIRCRAFT ON FORWARD
+JACK
+MLG WHEELS ON THE
+GROUND
+-
+2 387 mm
+(93.98 in)
+NA
+2 854 mm
+(112.36 in)
+WHEEL CLEARANCE OF 60 mm (2.36 in)
+FOR NLG RETRACTION OR EXTENSION
+-
+NOTE:
+THE SAFETY STAY IS NOT USED FOR JACKING.
+N_AC_021400_1_0340101_01_02
+Jacking for Maintenance
+Jacking Design
+FIGURE-2-14-0-991-034-A01
+2-14-0
+
+**ON A/C A320neo
+FUSELAGE
+DATUM LINE
+N
+L
+M
+HEIGHT
+CG
+POSITION
+L
+M
+N
+CONFIGURATION
+(% MAC)
+m
+ft
+m
+m
+ft
+ft
+3.29 LH
+1.91
+10.79 LH
+2.75 RH 
+3.06
+6.27
+10.04
+9.02 RH
+10.70 LH
+9.06 RH
+AIRCRAFT ON WHEELS, SHOCK-ABSORBERS
+DEFLATED, TIRES DEFLATED (RH)
+2.07
+3.26 LH
+2.76 RH
+2.88
+6.79
+9.45
+AIRCRAFT ON JACKS, FDL AT 5.21 m (17.09 ft),
+AIRCRAFT FUSELAGE PARALLEL TO THE
+GROUND, SHOCK-ABSORBERS EXTENDED,
+CLEARANCE OF MAIN GEAR
+N/A
+3.23
+4.47
+4.38
+10.60
+14.37
+14.67
+WHEELS = 0.73 m (2.40 ft)
+(STANDARD TIRES ), CLEARANCE OF
+NOSE GEAR WHEELS = 0.94 m (3.08 ft)
+(STANDARD TIRES )
+AIRCRAFT ON WHEELS
+(STANDARD TIRES )
+1.87
+11.29
+3.19
+10.47
+3.44
+6.14
+MAXIMUM JACKING WEIGHT
+2.01
+3.26
+3.17
+10.40
+10.70
+6.59
+= 59 000 kg (130 073 lb)
+AIRCRAFT ON WHEELS
+(STANDARD TIRES )
+1.90
+11.48
+3.23
+10.60
+3.50
+6.23
+2.08
+3.31
+3.23
+10.60
+10.86
+6.82
+OEW = 43 144 kg (95 116 lb)
+NOTE:
+STANDARD TIRES: NOSE LANDING GEAR = 762 x 233.52 R15
+MAIN LANDING GEAR = 1 168.4 x 431.8 R20
+N_AC_021400_1_0670101_01_01
+Jacking for Maintenance
+Jacking Design (Sheet 1 of 2)
+FIGURE-2-14-0-991-067-A01
+2-14-0
+
+**ON A/C A320neo
+HEIGHT
+CG
+POSITION
+L
+M
+N
+CONFIGURATION
+(% MAC)
+m
+ft
+m
+m
+ft
+ft
+AIRCRAFT ON WHEELS, NLG SHOCKABSORBER DEFLATED AND TIRES
+DEFLATED, MLG STANDARD SHOCKABSORBER (RH) (STANDARD TIRES )
+1.59
+16.5
+3.12
+3.67
+5.22
+10.24
+12.04
+1.59
+3.1
+3.63
+5.22
+10.17
+11.91
+AIRCRAFT ON JACKS, FDL PARALLEL
+TO THE GROUND AT 4.56 m (14.96 ft),
+SHOCK-ABSORBERS EXTENDED
+(STANDARD TIRES ), FOR MLG
+RETRACTION/EXTENSION OR MLG
+REPLACEMENT MAKE SURE CLEARANCE
+OF 0.95 m (3.12 ft) FROM GROUND TO
+BOTTOM OF MAIN FITTING OR MAKE
+SURE CLEARANCE OF MLG WHEELS =
+0.12 m (0.39 ft)
+N/A
+2.55
+3.78
+3.66
+8.37
+12.01
+12.4
+AIRCRAFT ON JACKS, FDL PARALLEL
+TO THE GROUND AT 5.21 m (17.09 ft),
+SHOCK-ABSORBERS EXTENDED
+(STANDARD TIRES ), FOR REPLACEMENT
+OF MLG SHOCK-ABSORBER MAKE SURE
+CLEARANCE OF 1.6 m (5.25 ft) FROM GROUND
+TO BOTTOM OF MAIN FITTING OR MAKE
+SURE CLEARANCE OF MLG WHEELS = 0.77 m
+(2.53 ft)
+N/A
+3.2
+14.53
+4.31
+10.5
+14.14
+4.43
+AIRCRAFT ON JACK WITH MLG WHEELS
+ON GROUND, NLG SHOCK-ABSORBER
+EXTENDED (STANDARD TIRES ),
+FOR NLG RETRACTION/EXTENSION OR
+REPLACEMENT OF NLG SHOCK-ABSORBER
+MAKE SURE CLEARANCE OF 1 m (3.28 ft)
+FROM GROUND TO BOTTOM OF TURNING
+TUBE OR MAKE SURE CLEARANCE OF
+NOSE GEAR WHEELS = 0.60 m (1.97 ft)
+16.5
+2.39
+9.42
+3.11
+7.84
+10.2
+2.87
+2.39
+2.83
+3.1
+7.84
+10.17
+9.28
+NOTE:
+STANDARD TIRES: NOSE LANDING GEAR = 762 x 233.52 R15
+MAIN LANDING GEAR = 1 168.4 x 431.8 R20
+N_AC_021400_1_0670102_01_00
+Jacking for Maintenance
+Jacking Design (Sheet 2 of 2)
+FIGURE-2-14-0-991-067-A01
+2-14-0
+
+FR73 FR74
+/
+(SAFETY STAY)
+FR64
+FR63
+FR42
+RIB4
+RIB4
+RIB22
+RIB22
+RIB13
+RIB13
+FR33
+FR15
+NOTE: THE SHORING CRADLE MUST BE INSTALLED AT THE EXACT LOCATION OF THE FRAME.
+N_AC_021400_1_0370101_01_00
+Jacking for Maintenance
+Location of Shoring Cradles
+FIGURE-2-14-0-991-037-A01
+2-14-0
+
+Jacking of the Landing Gear
+1.
+General
+Landing gear jacking will be required to lift the landing gear wheels off the ground.
+NOTE :
+You can lift the aircraft at Maximum Ramp Weight (MRW).
+NOTE :
+The load at each jacking position is the load required to give a 25.4 mm (1 in)
+clearance between the ground and the tire.
+**ON A/C A320-200
+2.
+Main Gear Jacking (Twin Wheel)
+The main gears are normally jacked up by placing a jack directly under the ball pad.
+The ball spherical radius is 19 mm (0.75 in).
+It is also possible to jack the main gear using a cantilever jack.
+The reactions at each of the jacking points are shown in the table, see FIGURE 2-14-0-991-060A.
+**ON A/C A320neo
+3.
+Main Gear Jacking (Twin Wheel)
+The main gears are normally jacked up by placing a jack directly under the ball pad.
+The ball spherical radius is 19 mm (0.75 in).
+It is also possible to jack the main gear using a cantilever jack.
+The reactions at each of the jacking points are shown in the table, see FIGURE 2-14-0-991-063A.
+2-14-0
+
+**ON A/C A320-200
+4.
+Main Gear Jacking (4-Wheel Bogie)
+The fore and aft pairs of MLG wheels can be jacked by placing a jack directly under the ball
+pads located at each end of the bogie beam.
+The ball spherical radius is 19 mm (0.75 in).
+The leading dimensions and environmental distances of these jacking points are shown on
+FIGURE 2-14-0-991-048-A, FIGURE 2-14-0-991-049-A and FIGURE 2-14-0-991-050-A.
+The reactions at each of the jacking points are shown in the table, see FIGURE 2-14-0-991-060A.
+5.
+Nose Gear Jacking
+For nose gear jacking, a 19 mm (0.75 in) radius ball pad is fitted under the lower end of the
+shock-absorber sliding tube. Jacking can be accomplished either by placing a jack directly under
+the ball pad, or using an adapter fitting provided with an identical ball pad.
+The reactions at each of the jacking points are shown in the table, see FIGURE 2-14-0-991-060A.
+**ON A/C A320neo
+6.
+Nose Gear Jacking
+For nose gear jacking, a 19 mm (0.75 in) radius ball pad is fitted under the lower end of the
+shock-absorber sliding tube. Jacking can be accomplished either by placing a jack directly under
+the ball pad, or using an adapter fitting provided with an identical ball pad.
+The reactions at each of the jacking points are shown in the table, see FIGURE 2-14-0-991-063A.
+2-14-0
+
+49 x 19 R20
+600 mm
+(23.62 in)
+FULLY
+EXTENDED
+45 x 16 R20
+552 mm
+(21.73 in)
+38 mm
+(1.5 in)
+DIA. BALL
+200 mm
+(7.87 in)
+25 mm
+ (1 in)
+218 mm
+(8.58 in)
+FULLY
+RETRACTED
+180 mm
+(7.09 in)
+ON THE RIM
+INFLATED TIRES
+FLAT TIRES
+THE FLAT TIRES VIEW SHOWS THE MINIMUM HEIGHT TO ENGAGE JACK WITH 2 FLAT TIRES.
+TWIN WHEEL TRACK IS 927 mm (36.5 in).
+NOTE:
+THE INFLATED TIRES VIEW SHOWS THE JACKING HEIGHT TO GIVE 25 mm (1 in)
+CLEARANCE BETWEEN THE TIRE AND GROUND.
+N_AC_021400_1_0450101_01_00
+Jacking of the Landing Gear
+MLG Jacking Point Location - Twin Wheels
+FIGURE-2-14-0-991-045-A01
+2-14-0
+
+643 mm
+(25.32 in)
+MLG TIRE 49 x 19 R20
+CANTILEVER
+ARM
+552 mm
+(21.73 in)
+25 mm
+(1 in)
+FWD
+TWIN WHEEL TRACK
+927 mm
+(36.5 in)
+DOUBLE FLAT MLG TIRES
+218 mm (8.58 in)
+(180 mm (7.09 in)
+ON RIM)
+FORK
+409 mm
+(16.1 in)
+1 620 mm
+(63.78 in)
+MIN
+MIN
+25 mm
+(1 in)
+25 mm
+(1 in)
+APPROX
+CONTOUR OF TIRES ON GROUND
+N_AC_021400_1_0460101_01_00
+Jacking of the Landing Gear
+MLG Jacking with Cantilever Jack - Twin Wheels
+FIGURE-2-14-0-991-046-A01
+2-14-0
+
+**ON A/C A320-200
+NORMAL ATTITUDE
+(10.63 in)
+(9.02 in)
+(10.63 in)
+JACKING POINT 270 mm
+JACKING POINT 270 mm
+FWD
+ONE FRONT TIRE DEFLATED
+JACKING POINT 229 mm
+FWD
+SITTING ON RIMS 133 mm (5.24 in)
+JACKING POINT 180 mm (7.09 in)
+TWO FRONT TIRES DEFLATED
+FWD
+N_AC_021400_1_0480101_01_00
+Jacking of the Landing Gear
+MLG Jacking Point Location Bogie
+FIGURE-2-14-0-991-048-A01
+2-14-0
+
+**ON A/C A320-200
+ONE REAR TIRE DEFLATED
+(9.02 in)
+JACKING POINT 229 mm
+FWD
+JACKING POINT 180 mm (7.09 in)
+TWO REAR TIRES DEFLATED
+ON RIMS 133 mm (5.24 in)
+FWD
+JACKING POINT 180 mm (7.09 in)
+JACKING POINT 180 mm (7.09 in)
+ALL FOUR TIRES DEFLATED
+ON RIMS 133 mm (5.24 in)
+ON RIMS 133 mm (5.24 in)
+FWD
+N_AC_021400_1_0490101_01_00
+Jacking of the Landing Gear
+MLG Jacking Point Location Bogie
+FIGURE-2-14-0-991-049-A01
+2-14-0
+
+**ON A/C A320-200
+FRONT WHEELS JACKED UP
+(14.96 in)
+JACKING POINT 380 mm
+MAX DIAMETER
+915 mm (36.02 in)
+25 mm CLEAR
+REAR WHEELS JACKED UP
+(14.96 in)
+JACKING POINT 380 mm
+(0.98 in)
+MAX DIAMETER
+915 mm (36.02 in)
+25 mm CLEAR
+FLAT TIRE DIMENSIONS
+(0.98 in)
+780 mm
+(30.71 in)
+(1.81 in)
+46 mm
+(5.51 in)
+140 mm
+330 mm
+(12.99 in)
+(48.43 in)
+1 230 mm
+N_AC_021400_1_0500101_01_00
+Jacking of the Landing Gear
+MLG Jacking Point Location Bogie
+FIGURE-2-14-0-991-050-A01
+2-14-0
+
+A
+APPROX
+326 mm
+(12.83 in)
+38 mm
+(1.5 in)
+DIA. BALL
+SAE AS 33559
+25 mm
+(1 in)
+128 mm
+(5.06 in)
+40 mm
+(1.57 in)
+FWD
+500 mm (19.69 in)
+264 mm MIN (10.39 in)
+289 mm MAX (11.38 in)
+198 mm
+(7.8 in)
+INFLATED TIRES
+FLAT TIRES
+A
+THE FLAT TIRES VIEW SHOWS THE MINIMUM HEIGHT TO ENGAGE JACK WITH 2 FLAT TIRES.
+THE INFLATED TIRES VIEW SHOWS THE JACKING HEIGHT TO GIVE 25 mm (1 in)
+CLEARANCE BETWEEN THE TIRE AND GROUND.
+NOTE:
+N_AC_021400_1_0530101_01_00
+Jacking of the Landing Gear
+NLG Jacking - Point Location
+FIGURE-2-14-0-991-053-A01
+2-14-0
+
+**ON A/C A320-200
+|A320200 - WV017|Col2|
+|---|---|
+|MAXIMUM DESIGN TAXI WEIGHT (MTW)|78 400 kg (172 842 lb)|
+|MAXIMUM DESIGN TAKE-OFF WEIGHT (MTOW)|78 000 kg (171 960 lb)|
+|MAXIMUM LOAD VALUE TO BE APPLIED ON NLG JACKING POINT|9 900 kg (21 826 lb)|
+|NUMBER OF JACKING POINTS ON ONE MLG|1|
+|MAXIMUM LOAD VALUE TO BE APPLIED ON MLG JACKING POINT (LEFT OR RIGHT)|36 000 kg (79 366 lb)|
+NOTE:
+A320 EQUIPPED WITH BOGIE MLG IS NOT LISTED SINCE JACKING CAPABILITY REQUESTED FOR LIFTING
+ONE AXLE WILL BE LOWER THAN A320 EQUIPPED WITH TWIN WHEELS.
+N_AC_021400_1_0600101_01_01
+Jacking of the Landing Gear
+Maximum Load Capacity to Lift Each Jacking Point
+FIGURE-2-14-0-991-060-A01
+2-14-0
+
+**ON A/C A320neo
+|A320NEO WV054ANDWV055|Col2|
+|---|---|
+|MAXIMUM DESIGN TAXI WEIGHT (MTW)|79 400 kg (175 047 lb)|
+|MAXIMUM DESIGN TAKE-OFF WEIGHT (MTOW)|79 000 kg (174 165 lb)|
+|MAXIMUM LOAD VALUE TO BE APPLIED ON NLG JACKING POINT|9 900 kg (21 826 lb)|
+|NUMBER OF JACKING POINTS ON ONE MLG|1|
+|MAXIMUM LOAD VALUE TO BE APPLIED ON MLG JACKING POINT (LEFT OR RIGHT)|36 250 kg (79 917 lb)|
+N_AC_021400_1_0630101_01_00
+Jacking of the Landing Gear
+Maximum Load Capacity to Lift Each Jacking Point
+FIGURE-2-14-0-991-063-A01
+2-14-0
+
+AIRCRAFT PERFORMANCE
+3-1-0
+General Information
+General Information
+1.
+Standard day temperatures for the altitudes shown are tabulated below:
+|Standard Day Temperatures for the Altitudes|Col2|Col3|Col4|
+|---|---|---|---|
+|Altitude|Altitude|Standard Day Temperature|Standard Day Temperature|
+|FEET|METERS|°F|°C|
+|0|0|59.0|15.0|
+|2 000|610|51.9|11.1|
+|4 000|1 220|44.7|7.1|
+|6 000|1 830|37.6|3.1|
+|8 000|2 440|30.5|-0.8|
+3-1-0
+
+3-2-1
+Payload / Range - ISA Conditions
+Payload/Range - ISA Conditions
+1.
+This section provides the payload/range at ISA conditions.
+3-2-1
+
+**ON A/C A320-200
+RANGE
+RANGE
+(nm)
+(km)
+1 000
+1 500
+2 000
+2 500
+3 000
+3 500
+4 000
+4 500
+5 000
+1 000
+2 000
+3 000
+4 000
+5 000
+6 000
+7 000
+8 000
+9 000
+MTOW - 78 000 kg (171 961 lb); 1 ACT
+MTOW - 73 500 kg (162 040 lb)
+MTOW - 78 000 kg (171 961 lb)
+MANUALS" SPECIFIC TO THE AIRLINE OPERATING THE AIRCRAFT.
+THE APPROVED VALUES ARE STATED IN THE "OPERATING
+THESE CURVES ARE GIVEN FOR INFORMATION ONLY.
+PAYLOAD
+(1 000 kg)
+PAYLOAD
+(1 000 lb)
+NOTE :
+N_AC_030201_1_0160101_01_00
+Payload/Range - ISA Conditions
+FIGURE-3-2-1-991-016-A01
+3-2-1
+
+**ON A/C A320-200
+RANGE
+RANGE
+(nm)
+(km)
+1 000
+1 500
+2 000
+2 500
+3 000
+3 500
+4 000
+4 500
+5 000
+1 000
+2 000
+3 000
+4 000
+5 000
+6 000
+7 000
+8 000
+9 000
+MTOW - 78 000 kg (171 961 lb); 1 ACT
+MTOW - 73 500 kg (162 040 lb)
+MTOW - 78 000 kg (171 961 lb)
+MANUALS" SPECIFIC TO THE AIRLINE OPERATING THE AIRCRAFT.
+THE APPROVED VALUES ARE STATED IN THE "OPERATING
+THESE CURVES ARE GIVEN FOR INFORMATION ONLY.
+PAYLOAD
+(1 000 kg)
+PAYLOAD
+(1 000 lb)
+NOTE :
+N_AC_030201_1_0170101_01_00
+Payload/Range - ISA Conditions
+Sharklet
+FIGURE-3-2-1-991-017-A01
+3-2-1
+
+**ON A/C A320neo
+RANGE
+RANGE
+(nm)
+(km)
+1 000
+1 500
+2 000
+2 500
+3 000
+3 500
+4 000
+4 500
+5 000
+1 000
+2 000
+3 000
+4 000
+5 000
+6 000
+7 000
+8 000
+9 000
+MTOW - 79 000 kg (174 165 lb); 1 ACT
+MTOW - 73 500 kg (162 040 lb)
+MTOW - 79 000 kg (174 165 lb)
+MANUALS" SPECIFIC TO THE AIRLINE OPERATING THE AIRCRAFT.
+THE APPROVED VALUES ARE STATED IN THE "OPERATING
+THESE CURVES ARE GIVEN FOR INFORMATION ONLY.
+PAYLOAD
+(1 000 kg)
+PAYLOAD
+(1 000 lb)
+NOTE :
+N_AC_030201_1_0180101_01_01
+Payload/Range - ISA Conditions
+FIGURE-3-2-1-991-018-A01
+3-2-1
+
+3-3-1
+Take-off Weight Limitation - ISA Conditions
+Take-Off Weight Limitation - ISA Conditions
+1.
+This section gives the take-off weight limitation at ISA conditions.
+3-3-1
+
+**ON A/C A320-200
+THESE CURVES ARE GIVEN FOR INFORMATION ONLY
+THE APPROVED VALUES ARE STATED IN THE "OPERATING
+MANUALS" SPECIFIC TO THE AIRLINE OPERATING THE AIRCRAFT.
+NOTE:
+1 000 kg
+1 000 lb
+AIRPORT PRESSURE ALTITUDE (1 000 ft)
+TAKE-OFF WEIGHT
+1 000 ft
+RUNWAY LENGTH
+1 000 m
+N_AC_030301_1_0050101_01_01
+Take-Off Weight Limitation - ISA Conditions
+CFM56 Series Engine
+FIGURE-3-3-1-991-005-A01
+3-3-1
+
+**ON A/C A320-200
+THESE CURVES ARE GIVEN FOR INFORMATION ONLY
+THE APPROVED VALUES ARE STATED IN THE "OPERATING
+MANUALS" SPECIFIC TO THE AIRLINE OPERATING THE AIRCRAFT.
+NOTE:
+1 000 kg
+1 000 lb
+AIRPORT PRESSURE ALTITUDE (1 000 ft)
+TAKE-OFF WEIGHT
+1 000 ft
+RUNWAY LENGTH
+1 000 m
+N_AC_030301_1_0060101_01_01
+Take-Off Weight Limitation - ISA Conditions
+IAE V2500 Series Engine
+FIGURE-3-3-1-991-006-A01
+3-3-1
+
+**ON A/C A320neo
+1 000 kg
+1 000 lb
+AIRPORT PRESSURE ALTITUDE (1 000 ft)
+TAKE-OFF WEIGHT
+1 000 ft
+RUNWAY LENGTH
+1 000 m
+NOTE:
+THESE CURVES ARE GIVEN FOR INFORMATION ONLY
+THE APPROVED VALUES ARE STATED IN THE "OPERATING
+MANUALS" SPECIFIC TO THE AIRLINE OPERATING THE AIRCRAFT.
+N_AC_030301_1_0090101_01_00
+Take-Off Weight Limitation - ISA Conditions
+LEAP-1A Series Engine
+FIGURE-3-3-1-991-009-A01
+3-3-1
+
+**ON A/C A320neo
+1 000 lb
+1 000 kg
+TAKE-OFF WEIGHT
+AIRPORT PRESSURE
+ALTITUDE (1 000 ft)
+1 000 ft
+RUNWAY LENGTH
+1 000 m
+1.5
+2.5
+NOTE:
+THESE CURVES ARE GIVEN FOR INFORMATION ONLY.
+THE APPROVED VALUES ARE STATED IN THE "OPERATING
+MANUALS" SPECIFIC TO THE AIRLINE OPERATING THE AIRCRAFT.
+N_AC_030301_1_0130101_01_00
+Take-Off Weight Limitation - ISA Conditions
+PW Engines
+FIGURE-3-3-1-991-013-A01
+3-3-1
+
+3-3-2
+Take-off Weight Limitation - ISA +15°C (+59°F) Conditions
+Take-Off Weight Limitation - ISA +15°C (+27°F) Conditions
+1.
+This section gives the take-off weight limitation at ISA +15°C (+27°F) conditions.
+3-3-2
+
+**ON A/C A320-200
+THESE CURVES ARE GIVEN FOR INFORMATION ONLY
+THE APPROVED VALUES ARE STATED IN THE "OPERATING
+MANUALS" SPECIFIC TO THE AIRLINE OPERATING THE AIRCRAFT.
+NOTE:
+1000 kg
+1000 lb
+AIRPORT PRESSURE ALTITUDE (1000 ft)
+TAKE-OFF WEIGHT
+1000 ft
+RUNWAY LENGTH
+1000 m
+N_AC_030302_1_0050101_01_01
+Take-Off Weight Limitation - ISA +15°C (+27°F) Conditions
+CFM56 Series Engine
+FIGURE-3-3-2-991-005-A01
+3-3-2
+
+**ON A/C A320-200
+THESE CURVES ARE GIVEN FOR INFORMATION ONLY
+THE APPROVED VALUES ARE STATED IN THE "OPERATING
+MANUALS" SPECIFIC TO THE AIRLINE OPERATING THE AIRCRAFT.
+NOTE:
+1000 lb
+1000 kg
+AIRPORT PRESSURE ALTITUDE (1000 ft)
+TAKE-OFF WEIGHT
+1000 ft
+RUNWAY LENGTH
+1000 m
+N_AC_030302_1_0060101_01_00
+Take-Off Weight Limitation - ISA +15°C (+27°F) Conditions
+IAE V2500 Series Engine
+FIGURE-3-3-2-991-006-A01
+3-3-2
+
+**ON A/C A320neo
+1000 lb
+1000 kg
+AIRPORT PRESSURE ALTITUDE (1000 ft)
+TAKE-OFF WEIGHT
+1000 ft
+RUNWAY LENGTH
+1000 m
+NOTE:
+THESE CURVES ARE GIVEN FOR INFORMATION ONLY
+THE APPROVED VALUES ARE STATED IN THE "OPERATING
+MANUALS" SPECIFIC TO THE AIRLINE OPERATING THE AIRCRAFT.
+N_AC_030302_1_0090101_01_00
+Take-Off Weight Limitation - ISA +15°C (+27°F) Conditions
+LEAP-1A Series Engine
+FIGURE-3-3-2-991-009-A01
+3-3-2
+
+**ON A/C A320neo
+1 000 lb
+1 000 kg
+AIRPORT PRESSURE
+TAKE-OFF WEIGHT
+ALTITUDE (1 000 ft)
+1 000 ft
+RUNWAY LENGTH
+1 000 m
+1.5
+2.5
+NOTE:
+THESE CURVES ARE GIVEN FOR INFORMATION ONLY.
+THE APPROVED VALUES ARE STATED IN THE "OPERATING
+MANUALS" SPECIFIC TO THE AIRLINE OPERATING THE AIRCRAFT.
+N_AC_030302_1_0120101_01_00
+Take-Off Weight Limitation - ISA +15°C (+27°F) Conditions
+PW Engines
+FIGURE-3-3-2-991-012-A01
+3-3-2
+
+3-3-3
+Aerodrome Reference Code
+Aerodrome Reference Code
+1.
+For A320-200:
+- If the aircraft take-off weight is less than or equal to 73 500 kg (162 040 lb), the aircraft is
+classified as code 3C as per ICAO Aerodrome Reference Code.
+- If the aircraft take-off weight is more than 73 500 kg (162 040 lb), the aircraft is classified as
+code 4C as per ICAO Aerodrome Reference Code.
+2.
+A320neo is classified as code 3C as per ICAO Aerodrome Reference Code.
+3-3-3
+
+3-4-1
+Landing Field Length - ISA Conditions
+Landing Field Length - ISA Conditions
+1.
+This section provides the landing field length.
+3-4-1
+
+**ON A/C A320-200
+(x 1 000 m)
+(x 1 000 ft)
+2.5
+LANDING FIELD LENGTH = ACTUAL DISTANCE
+AIRPORT PRESSURE
+0.6
+ALTITUDE
+(x 1 000 ft)
+2.0
+LANDING LENGTH
+LEVEL
+SEA
+1.5
+1.0
+GROSS WEIGHT (x 1 000 lb)
+GROSS WEIGHT (x 1 000 kg)
+NOTE:
+THESE CURVES ARE GIVEN FOR INFORMATION ONLY.
+THE APPROVED VALUES ARE STATED IN THE "OPERATING
+MANUALS" SPECIFIC TO THE AIRLINE OPERATING THE AIRCRAFT.
+N_AC_030401_1_0050101_01_01
+Landing Field Length - ISA Conditions
+CFM56 Series Engine
+FIGURE-3-4-1-991-005-A01
+3-4-1
+
+**ON A/C A320-200
+(x 1 000 m)
+(x 1 000 ft)
+2.5
+LANDING FIELD LENGTH = ACTUAL DISTANCE
+AIRPORT PRESSURE
+0.6
+ALTITUDE
+(x 1 000 ft)
+2.0
+LANDING LENGTH
+LEVEL
+SEA
+1.5
+1.0
+GROSS WEIGHT (x 1 000 lb)
+GROSS WEIGHT (x 1 000 kg)
+NOTE:
+THESE CURVES ARE GIVEN FOR INFORMATION ONLY.
+THE APPROVED VALUES ARE STATED IN THE "OPERATING
+MANUALS" SPECIFIC TO THE AIRLINE OPERATING THE AIRCRAFT.
+N_AC_030401_1_0060101_01_01
+Landing Field Length - ISA Conditions
+IAE V2500 Series Engine
+FIGURE-3-4-1-991-006-A01
+3-4-1
+
+**ON A/C A320neo
+(x 1 000 m)
+(x 1 000 ft)
+AIRFIELD ELEVATION
+(x 1 000 ft)
+LANDING FIELD LENGTH
+2.0
+1.5
+SEA
+LEVEL
+1.0
+GROSS WEIGHT (x 1 000 lb)
+GROSS WEIGHT (x 1 000 kg)
+NOTE:
+THESE CURVES ARE GIVEN FOR INFORMATION ONLY.
+THE APPROVED VALUES ARE STATED IN THE "OPERATING
+MANUALS" SPECIFIC TO THE AIRLINE OPERATING THE AIRCRAFT.
+N_AC_030401_1_0110101_01_00
+Landing Field Length - ISA Conditions
+Leap Engines
+FIGURE-3-4-1-991-011-A01
+3-4-1
+
+**ON A/C A320neo
+(x 1 000 m)
+(x 1 000 ft)
+AIRFIELD ELEVATION
+(x 1 000 ft)
+2.0
+LANDING FIELD LENGTH
+1.5
+SEA
+LEVEL
+1.0
+GROSS WEIGHT (x 1 000 lb)
+GROSS WEIGHT (x 1 000 kg)
+NOTE:
+THESE CURVES ARE GIVEN FOR INFORMATION ONLY.
+THE APPROVED VALUES ARE STATED IN THE "OPERATING
+MANUALS" SPECIFIC TO THE AIRLINE OPERATING THE AIRCRAFT.
+N_AC_030401_1_0120101_01_00
+Landing Field Length - ISA Conditions
+PW Engines
+FIGURE-3-4-1-991-012-A01
+3-4-1
+
+3-5-0
+Final Approach Speed
+Final Approach Speed
+1.
+This section provides the final approach speed. It is defined as the indicated airspeed at
+threshold in the landing configuration, at the certificated maximum flap setting and Maximum
+Landing Weight (MLW), in standard atmospheric conditions. The approach speed is used to
+classify the aircraft into an Aircraft Approach Category, a grouping of aircraft based on the
+indicated airspeed at threshold.
+**ON A/C A320-200
+2.
+The final approach speed is 136 kt at a MLW of 66 000 kg (145 505 lb) and classifies the aircraft
+into the Aircraft Approach Category C.
+NOTE :
+This value is given for information only.
+**ON A/C A320neo
+3.
+The final approach speed is 131.5 kt at a MLW of 67 400 kg (148 592 lb) and classifies the
+aircraft into the Aircraft Approach Category C.
+NOTE :
+This value is given for information only.
+3-5-0

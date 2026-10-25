@@ -1,0 +1,6 @@
+{
+  "system": "RAG",
+  "seconds": 979.2,
+  "chunks": 98,
+  "vector_dim": 1024
+}

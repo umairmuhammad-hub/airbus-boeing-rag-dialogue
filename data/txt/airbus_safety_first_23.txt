@@ -1,0 +1,2206 @@
+Document: Safety First magazine, issue 23
+Manufacturer: Airbus
+Source id: airbus_safety_first_23
+
+The Airbus safety magazine
+January 2017
+#23
+Safety 
+first
+
+Safety first
+Safety first, #23 January, 2017. Safety first 
+is published by Airbus S.A.S. - 1, rond point 
+Maurice Bellonte - 31707 Blagnac Cedex/France. 
+Publisher and Editor: Yannick Malinge, 
+Chief Product Safety Officer. 
+Concept Design by Airbus Multi Media Support 
+20162610. Reference: X00D16031905 Issue 23. 
+Photos by Airbus, Lindner Fotografie, 
+S. Ramadier, H. Goussé, P. Masclet, F. Lancelot, 
+B. Lange, A, Doumenjou, C. Brinkmann, 
+M. Lindner, E. Lafargue. Computer renderings 
+by Fixion
+The Airbus magazine contributing to the enhancement 
+of the safety of aircraft operations by increasing knowledge 
+and communication on safety related topics.
+This brochure is printed on Stucco. 
+This paper is produced in factories that are 
+accredited EMAS and certified ISO 9001-14001, 
+PEFC and FSC CoC. It is produced using pulp 
+that has been whitened without either chlorine 
+or acid. The paper is entirely recyclable and is 
+produced from trees grown in sustainable forest 
+resources. 
+The printing inks use organic pigments or 
+minerals. There is no use of basic dyes or 
+dangerous metals from the cadmium, lead, 
+mercury or hexavalent chromium group.
+Safety first is published by the Product Safety department. 
+It is a source of specialist safety information for the use 
+of airlines who fly and maintain Airbus aircraft. It is also 
+distributed to other selected organizations and is available 
+on tablets.
+Material for publication is obtained from multiple sources 
+and includes selected information from the Airbus Flight 
+Safety Confidential Reporting System, incident and accident 
+investigation reports, system tests and flight tests. Material 
+is also obtained from sources within the airline industry, 
+studies and reports from government agencies and other 
+aviation sources.
+All articles in Safety first are presented for ­information 
+only and are not intended to replace ICAO guidelines, 
+standards or recommended practices, operator-mandated 
+requirements or technical orders. The contents do not 
+supersede any requirements ­mand­ated by the State of 
+Registry of the Operator’s aircraft or supersede or amend 
+any Airbus type-specific AFM, AMM, FCOM, MMEL 
+documentation or any other approved documentation.
+© Airbus S.A.S. 2017 – All rights reserved. 
+Proprietary documents.
+By taking delivery of this Brochure 
+(hereafter “Brochure”), you accept on behalf 
+of your ­company to comply with the following 
+guidelines:
+No other intellectual property rights are granted 
+by the delivery of this Brochure than the right to 
+read it, for the sole purpose of information.
+This Brochure and its content shall 
+not be modified and its illustrations 
+and photos shall not be reproduced without 
+prior written consent of Airbus.
+Articles may be reprinted without permission, except where 
+copyright source is indicated, but with acknowledgement 
+to Airbus. Where Airbus is not the author, the contents of 
+the article do not necessarily reflect the views of Airbus, 
+neither do they indicate Company policy.
+This Brochure and the materials it contains 
+shall not, in whole or in part, be sold, rented, or 
+licensed to any third party subject to payment.
+This Brochure contains sensitive information 
+that is correct at the time of going to press.
+Contributions, comment and feedback are welcome. Enquiries 
+related to this publication should be addressed to:
+This information involves a number of factors that 
+could change over time, effecting the true public 
+representation. Airbus assumes no obligation 
+to update any information ­contained in this 
+document or with respect to the information 
+described herein.
+Airbus
+Product Safety department (GS)
+1, rond point Maurice Bellonte
+31707 Blagnac Cedex - France
+Fax: +33(0)5 61 93 44 29
+Airbus S.A.S. shall assume no liability for any 
+damage in connection with the use of this 
+Brochure and of the materials it contains, even if 
+Airbus S.A.S. has been advised of the ­likelihood 
+of such damages.
+safetycommunication@airbus.com
+
+editorial
+As you no doubt noticed, the front cover of this edition of Safety 
+First magazine shows a photo of our A350-1000 from its first 
+flight on the 24th November last year. This was obviously a 
+proud moment in 2016 for us at Airbus, shared equally with 
+another major achievement - the delivery our 10,000th aircraft.
+This deliveries milestone has taken us 42 years to achieve. 
+In comparison, we are planning to deliver our next 10,000 
+aircraft only within the next 10 years; the same output within 
+a quarter of the time.
+This is our challenge as an OEM. Yet the industry as a whole 
+faces similar significant challenges in the years ahead. In the 
+operator’s world, most forecasts point to a doubling of air traffic 
+over the next 15 years. As an industry we are fortunate to have 
+these great opportunities, but they also come with associated 
+risks inherent to the growth.
+YANNICK MALINGE
+SVP & Chief 
+Product Safety Officer
+In a world which is ever more turbulent and uncertain, we need 
+to find and train unprecedented numbers of people across all 
+disciplines, and we need to safely operate a higher number of 
+flights than ever before.
+Today, we can proudly say that the number of fatal accidents is 
+at an historically low level. But on a per flight basis, the last 10 
+years have seen us only keep this level almost flat. Since that 
+is the case, a doubling of flights will inevitably lead to accidents 
+happening more frequently.
+No accident is acceptable, so our challenge is obvious; we 
+as an industry have to find ways to significantly enhance our 
+capability to manage safety threats.
+On pages 32 to 36, you will read a short article about a new 
+Airbus project called ‘Air Transport Safety - Destination 10X - 
+Together’. This project is a vehicle, for Airbus and our operators, 
+to efficiently identify and implement our best opportunities for 
+enhancing Safety over the coming decades.
+So, whilst wishing you all a very happy new year, I would 
+also like to say that we at Airbus very much look forward to 
+working together with you in 2017 to make Safety our common 
+destination.
+
+Safety First #18 | July 2014
+Safety 
+first#23
+OPERATIONS
+P06
+Safely Flying Non-Precision 
+Instrument Approaches
+P14
+Introduction to the Soft 
+Go-Around Function
+TRAINING
+P22
+Preparing Flight Crews to Face 
+Unexpected Events
+Flight operations
+Maintenance
+GENERAL TOPIC
+P32
+Engineering
+Safety, Our Shared Destination
+Ground operations
+
+NEWS
+Airbus’ 23rd annual Flight Safety Conference 
+is the forum for Airbus and our customers to share 
+Safety lessons learnt and best practices.
+It is also a key opportunity to establish operator to operator contact between 
+Safety Officers or Fleet Management Pilots, and to establish contacts for further 
+exchange & support with Airbus representatives from Safety, Flight Test, Training, 
+Flight Ops and Chief Engineers.
+SAFETY THEMES IN 2017:  
+ Weather Hazards 
+ Training to Manage Growth
+The Training to Manage Growth theme covers training needs, training evolutions 
+including for multicultural crews, roadmaps for training device evolution, and linking 
+flight data analysis to training.
+The Weather Hazards theme will cover incidents where weather has been a 
+key factor, and illustrate what operational policies and safety enhancements 
+are available to help support airlines.
+ATTENDANCE & INVITATIONS:
+The 23rd Airbus Flight Safety Conference for operators of Airbus aircraft will be 
+held in the Grand Hyatt Santiago hotel in Santiago, Republic of Chile from the 
+20th to the 23rd March 2017.
+Invitations were sent to customers early January 2017.
+To nominate an attendee, or change contact information, please contact 
+Mrs Nuria Soler at nuria.soler@airbus.com
+
+23rd Flight Safety 
+Conference
+Santiago, Republic of Chile 
+20-23 March 2017
+
+Safely Flying Non-Precision Instrument Approaches
+OPERATIONS
+Safely Flying NonPrecision Instrument 
+Approaches
+Historically the distinction between flying ILS/MLS and non-precision 
+approaches was very clear. However, many new kinds of instrument 
+approaches are now available and this makes the distinction less 
+obvious.
+What remains true today for any approach is that disregarding basic 
+flying techniques and procedures reduces safety margins.
+This article clarifies which technologies are available to perform 
+approaches using an Airbus aircraft. It also emphasises 
+the safety messages that are important to remember whenever 
+flying an approach.
+THIERRY THOREAU
+Director Flight Safety
+MAXIME 
+LANSONNEUR
+Senior Flight 
+Operations Engineer
+SHAUN WILDEY
+Experimental Test Pilot
+MAXIME 
+DE VILLEPIN
+Approach & Landing 
+Project Leader
+
+OVERVIEW OF NAVIGATION 
+TECHNOLOGIES
+Historically, 
+it was easy to 
+differentiate between 
+precision approaches 
+and non-precision 
+approaches on the 
+basis of whether 
+glide-slope guidance 
+information was 
+provided or not.
+Ground based navigation technologies
+Development of the earliest radio 
+navigation systems started in the 
+1920s and 1930s. Initially, only the 
+lateral course was supported by a radio 
+navigation aid through systems such 
+as Localiser (LOC), Non-Directional 
+Beacons (NDB), and VHF Omni-Range 
+(VOR). These systems provided, and 
+continue to provide, guidance data for 
+non-precision approaches.
+guidance, and therefore quickly 
+became standard equipment at airports 
+during the early 1970s. The inclusion 
+of glide-slope guidance created what 
+has become known as ‘precision 
+approaches’. Later in that decade, 
+the Microwave Landing System 
+(MLS) was developed to reduce ILS 
+-beam distortion and multi-path errors; 
+but although it is in operation today, 
+MLS has never gained a significant 
+commercial aviation foothold and is 
+only in limited service.
+With the growth of the air-transport 
+system in the 1970s, it became 
+necessary to reduce the number of 
+accidents occurring due to lack of 
+vertical guidance in approach, as 
+well as to enable more consistent 
+operations in poor weather.
+Historically, with the ground-based 
+technologies described above 
+providing the guidance, it was easy 
+to differentiate between precision 
+approaches and non-precision 
+approaches simply on the basis 
+of whether glide-slope guidance 
+information was provided or not.
+Instrument-based Landing Systems 
+(ILS) satisfy the requirement to provide 
+both lateral and vertical (glide-slope)
+On-board technologies enhance Non Precision 
+Approaches
+With the increase in Flight Management 
+System (FMS) capability through the 
+80’s and 90’s, and especially with the 
+introduction of Global Positioning System 
+(GPS) equipment into civil aviation, the 
+simple distinction between precision and 
+non-precision approaches used earlier 
+is no longer possible. These on-board 
+technologies have rapidly become very 
+sophisticated and are progressively 
+enabling vertical and lateral approach 
+guidance at a similar level to that of an 
+ILS precision approach.
+barometric vertical guidance, for 
+which QNH setting and temperature 
+are key factors and this must be 
+taken into consideration by the crew. 
+The most sophisticated instrument 
+approaches use geometric vertical 
+guidance based on an augmented 
+GPS signal to create ‘ILS-like’ 
+approaches.
+Various 
+new GPS based 
+techniques offer 
+sufficient accuracy, 
+even to the point 
+of taking the 
+industry beyond the 
+traditional ‘straightline’ approaches 
+and enabled curved 
+approaches’.
+In addition, various new GPS based 
+techniques offer sufficient accuracy, 
+even to the point of taking the industry 
+beyond the traditional ‘straight-line’ 
+approaches and enabled curved 
+approaches.
+The first enhancement of these nonILS/MLS instrument approaches came 
+in the 1980s, with the replacement 
+of the step-down technique (“dive & 
+drive”) by Continuous Descent Final 
+Approach (CDFA).
+As a result of all this development, some 
+airports may have several approach 
+charts available for a given runway 
+as shown in (fig.1). In addition, each 
+chart can present several minima. 
+Therefore, pilots must be familiar with
+Today, the majority of non-ILS/
+MLS approaches are flown using a
+
+Safely Flying Non-Precision Instrument Approaches
+OPERATIONS
+If the required 
+visual references 
+are not acquired 
+by the applicable 
+minima, or lost after 
+it, a missed approach 
+must be initiated.
+the charting from their provider in order 
+to ensure correct understanding of 
+approach charts.
+• Descent profiles of instrument 
+approaches have become similar: 
+vertical guidance is provided and 
+there is no level-off required at 
+minima 
+• If the required visual references 
+are not acquired by the applicable 
+minima, or indeed lost after, a missed 
+approach must be initiated.
+Whatever the type of technology, 
+we can state that with the introduction of the CDFA technique, all 
+approaches now share two common 
+characteristics:
+FLYING APPROACHES 
+WITH AN AIRBUS
+(fig.1)
+VOR and RNAV (GNSS) approach charts 
+for LFPG RWY 08L.
+Source: NAVBLUE
+The importance of vertical guidance
+ICAO Controlled Flight Into Terrain 
+(CFIT) studies have shown that once 
+some form of vertical guidance is 
+added to approaches, the safety 
+margin is increased by a factor of 8.
+As a consequence, a focus was placed 
+at Airbus in recent years to offer some 
+guidance on the vertical path for all 
+instrument approaches.
+
+FLS is an Airbus 
+option offering a 
+solution to fly 99% 
+of approaches that 
+are not ILS/MLS, with 
+barometric vertical 
+profile.
+If we now discount ILS and MLS 
+approaches, there are different 
+guidance modes available on Airbus 
+aircraft to fly all types of instrument 
+approaches, from TRK/FPA to 
+managed modes offering guidance on 
+both the lateral and vertical trajectory.
+The creation of new approach modes 
+that have lateral and vertical profiles 
+independent of navaids followed the 
+introduction of the Flight Management 
+System (FMS) in the 1980s and of the 
+GPS in the 1990s. The objective was 
+to standardize the way of flying all 
+approaches down to the published 
+approach minima, whatever the 
+airport, and whatever the equipment 
+on the ground. The FLS (FMS Landing 
+System) is part of that concept and 
+today, it is an Airbus option offering 
+a solution to fly 99% of approaches 
+that are not ILS/MLS, with a barometric 
+vertical profile.
+Depending on the approach type, the 
+crew has to select the appropriate 
+one (fig.2). Managed modes are 
+recommended, but selected mode 
+might be useful in case of system or 
+equipment failures.
+It is worth recalling that in selected 
+mode, the Flight Path Angle (FPA) 
+easily permits to follow the published 
+descent gradient, but the pilot must 
+still ensure that the vertical trajectory 
+relative to the touchdown point is 
+precisely followed.
+It offers lateral and vertical guidance 
+for a straight-in instrument approach, 
+referenced from the aircraft position, 
+along a trajectory retrieved from the 
+FMS navigation database.
+(fig.2)
+Guidance modes available to fly non-ILS/
+approaches not based on augmented GPS 
+signal
+Lateral & 
+Vertical Managed
+Lateral Managed 
+Vertical Selected
+Lateral & 
+Vertical Selected
+FLS Function
+A350 XWB
+F-G/S
+F-LOC
+A380
+A320 / A330 / A340 / A350 / A380
+A320 Option
+A330
+F-G/S
+LOC
+FPA -3.0° NAV
+FPA -3.0° TRK
+FPA -3.0° LOC
+FINAL APP
+A320 A330 A340
+APP-DES
+NAV
+A350 XWB RNP AR
+Navigating through approaches: 
+key characteristics
+Ultimately, what is needed to safely fly 
+an approach is a clear picture of what 
+it represents in terms of:
+• The aircraft capabilities and crew 
+qualifications (e.g. RNP-AR)
+• The approach type
+• The approach lateral axis, including 
+potential offset with the runway axis
+(or FLS anchor point position)
+• Vertical profile (barometric and 
+temperature considerations) 
+• Applicable minima
+• Aircraft guidance mode
+• The recovery scenario in case 
+of system failures or deviations 
+exceedance.
+
+Safely Flying Non-Precision Instrument Approaches
+OPERATIONS
+THE FMS LANDING SYSTEM 
+(FLS) GUIDANCE MODE
+(fig.3)
+FLS virtual beam – anchor point
+FLS replicates the ILS beam concept, 
+but using only the onboard navigation 
+sensors with no need for additional 
+ground aids. The FMS constructs a 
+“pseudo beam” which has an anchor 
+point (not necessarily aligned with the 
+runway threshold), approach course 
+and Flight Path Angle (FPA) (fig.3), 
+and which overlays the final segment 
+of an instrument approach with a 
+temperature compensation on final 
+segment for the indicated altitude.
+FLS beam
+Anchor point
+Coded FPA 
+and Course
+Final 
+Approach
+Fix
+FLS allows a pilot to fly an approach down to minima as 
+an ‘ILS-alike approach’ thanks to the CDFA technique. 
+In addition, the human / machine interface has been 
+designed similar enough for the crew to capitalize on 
+their current techniques but different enough for the
+crew not to mistake a non-precision approach flown 
+with FLS for an ILS thanks to a distinctive symbology 
+(fig.4). In the end, this concept makes these 
+approaches more simple to fly, thereby contributing 
+to an increase in safety.
+(fig.4)
+FLS distinctive symbology
+1 AP/FD modes
+2 FLS approach capability
+3 Pseudo G/S deviation scale and index
+4 FLS message
+5 Pseudo LOC deviation scale and index
+6 FLS information
+7 FLS course pointer
+A characteristic of the FLS is that it can only be used for 
+straight-in approaches but it is not compatible with curved 
+RNP-AR approaches. Indeed, for curved approaches, crews 
+need to undertake specific training and checking, and use
+the FINAL APP (or APP-DES on A350 aircraft) mode.
+Nevertheless, Airbus is working towards co-existence of the 
+two modes so that all non-ILS/MLS approaches are flown in 
+FLS and the FINAL APP mode remains available for RNP-AR.
+
+INFORMATION
+The FLS mode is basic on A380 and A350 aircraft. It is available 
+as an option on A320 and A330 families.
+The coexistence of FINAL APP and FLS modes is already available 
+for A330 aircraft with Honeywell FMS. It is expected by end 2018 for 
+the remainder of the A330 fleet, as well as A320 family aircraft.
+Not all aircraft are technically capable of ensuring F-G/S, F-LOC 
+or FINAL APP guidance. FINAL APP and F-G/S or F-LOC 
+guidance modes availability depends on the actual configuration 
+of the aircraft and the airline approach options chosen in the 
+catalogue (i.e FLS or FINAL APP).
+FLYING AN INSTRUMENT 
+APPROACH SAFELY
+FLS allows 
+a pilot to fly a nonILS approach down 
+to minima as an 
+‘ILS-like approach’ 
+thanks to the CDFA 
+technique.
+A well trained and briefed crew: 
+why preparation is key to a successful approach, 
+whatever its type
+For a flight crew, after possibly long hours 
+of flight or a busy day’s flying schedule, 
+the objective is to perform the most 
+appropriate approach available at the 
+airport according to the weather, aircraft 
+capability, crew knowledge and training.
+require good preparation both on 
+ground and in flight.
+Before the flight commences, GPS 
+coverage (Receiver Autonomous 
+Integrity Monitoring (RAIM) / 
+Autonomous Integrity Monitored 
+Extrapolation (AIME)) at destination 
+must be checked if approach requiring 
+GPS only is expected.
+To fly a non-ILS/MLS approach using 
+managed guidance requires a valid 
+FMS data base. If not, then selected 
+guidance must be used.
+The FMS data base is considered 
+validated if the provider is compliant 
+with Regulatory requirements and/or 
+validated by the Operator (depending 
+on FMS standards and approach types).
+Managed 
+guidance to fly 
+a non-ILS/MLS 
+approach can be 
+used only if the FMS 
+database has been 
+validated.
+When in flight, the crew should ensure 
+that the status of the aircraft is compliant 
+with the technical requirement to fly the 
+approach. In accordance with SOP, the 
+FMS waypoints have to be checked 
+versus the applicable chart to ensure 
+that the correct approach has been 
+selected and that the aircraft will fly the 
+charted trajectory. During the descent
+In addition, because instrument 
+approaches that are not ILS/MLS may 
+not be flown on a daily basis they
+
+Safely Flying Non-Precision Instrument Approaches
+OPERATIONS
+preparation, the crew must define and 
+agree on the aircraft guidance mode 
+depending on the approach type and 
+applicable minima. For this purpose, 
+the cross-reference table published in 
+FCOM is helpful (fig.5).
+management, e.g. vertical profile, 
+visual segment after minima and offset.
+During the descent, the flight crew 
+should check that the navigation 
+accuracy is compliant with the 
+approach type and use the guidance 
+mode that was intended to be flown, 
+as per SOP.
+(fig.5)
+Example of a cross-reference table, as 
+available in A320 FCOM PRO-NOR-SOPAPPROACH-APPROACH GENERAL.
+The action plan to fly the approach 
+must also consider threats and errors
+|Col1|GuidanceModesperApproachType|Col3|Col4|Col5|Col6|
+|---|---|---|---|---|---|
+||**LOC G/S**|**FINAL APP**|**LOC FPA or** **LOC B/C FPA**|**NAV FPA**|**TRK FPA**|
+|**ILS / MLS / GLS**|Refer to FCOM ‘APPR using LOC G/S’|N/A|N/A|N/A|N/A|
+|**LOC ONLY** **ILS G/S OUT**|N/A|N/A|Refer to FCOM ‘APPR using FPA guidance’|N/A|N/A|
+|**LOC B/C**|N/A|N/A|Refer to FCOM ‘APPR using FPA guidance’|N/A|Refer to FCOM ‘APPR using FPA guidance’|
+|**RNAV (GNSS) with** **LNAV/VNAV minima**|N/A|Refer to FCOM ‘APPR using FINAL APP’|N/A|Not authorised|Not authorised|
+|**RNAV (GNSS) with** **LNAV minima**|N/A|Refer to FCOM ‘APPR using FINAL APP’|N/A|Refer to FCOM ‘APPR using FPA guidance’|Not authorised|
+|**RNAV (GNSS)** **with LPV minima**|N/A|Not authorised|N/A|Not authorised|Not authorised|
+|**VOR, VOR-DME,** **NDB, NDB-VME**|N/A|Refer to FCOM ‘APPR using FINAL APP’|N/A|Refer to FCOM ‘APPR using FPA guidance’|Refer to FCOM ‘APPR using FPA guidance’|
+Minima must be respected
+With the increasing precision of the 
+navigation means used to fly any 
+approach (e.g. GPS positioning) and 
+the improved reliability of aircraft 
+on-board systems, there is an 
+observed tendency of crews to delay 
+the go-around decision perhaps 
+because of increased confidence in 
+the aircraft automation to guide them 
+below the published minima. This 
+tendency translates into a significant 
+reduction of the safety margins, 
+especially with respect to flying without 
+visual references below the minima.
+were still expected, some crews waited 
+a little bit longer, hoping for visibility to 
+improve before they made the decision 
+to go-around. This means that they 
+were now flying unsafely below minima 
+with no visual references. Likewise, if 
+visibility is good at minima but it then 
+reduces, some crews may decide to 
+continue the approach, hoping for 
+an improvement in the visibility. This 
+tendency could also be reinforced if 
+pilots are not go-around minded.
+Any “negotiation” 
+with the visibility 
+requirement from 
+the minima and 
+below for any 
+approach is a drift 
+into danger.
+In reality, any “negotiation” with the 
+visibility requirement from the minima 
+and below for any approach is a drift 
+into danger.
+Data has shown that if visual conditions 
+were not achieved at the minima but
+
+GLOSSARY
+CDFA 
+Continuous Descent Final Approach
+LNAV 
+Lateral Navigation
+DME 
+Distance Measuring Equipment
+LOC 
+Localizer
+FAF 
+Final Approach Fix
+LPV 
+Localizer Performance with Vertical 
+guidance
+FLS 
+FMS Landing System
+NDB 
+Non-Directional Radio Beacon
+FMA 
+Flight Mode Annunciator
+RNAV 
+Area Navigation
+FPA 
+Flight Path Angle
+RNP 
+Required Navigation Performance
+GLS 
+GBAS (Ground Based Augmentation 
+System) Landing System
+RNP-AR 
+Required Navigation Performance 
+Authorization Required
+GNSS 
+Global Navigation Satellite System
+SLS 
+Satellite Landing System
+GPS 
+Global Positioning System
+VNAV 
+Vertical Navigation
+G/S 
+Glideslope
+VOR 
+VHF Omnidirectional Range
+ILS 
+Instrument Landing System
+The most important safety messages to keep in mind to fly any kind 
+of instrument approach are:
+• Know which procedure your company allows
+• Prepare the approach well in advance; on ground and in flight
+• Know which parameters and deviations or systems failures should 
+trigger a go-around decision
+• Brief, share and understand the intended approach technique 
+to be used
+• Fly as you are trained. Fly the brief
+• Respect the minima; from the minima and below, visual references are primary references. If they are not there or don’t 
+remain there, go-around!
+• From the minima, ensure the aircraft can continue with a normal 
+rate of descent and bank angle, to land within the touchdown zone.
+Finally, the Pilot Monitoring (PM) has a vital role to play in all instrument 
+approaches. The PM must understand what the Pilot Flying (PF) has 
+planned to do, what the PF is doing right now and what the PF will do 
+in the near future. The PM supports the PF in using the SOP callouts 
+and ultimately ensuring that the minima are respected. He/she also 
+assists the PF in monitoring the appropriate arming and engagement 
+of guidance modes at the right time.
+
+Introduction to the Soft Go-Around Function
+OPERATIONS
+Introduction to the Soft 
+Go-Around Function
+The “all engines” go-around is a very dynamic procedure with 
+high accelerations created by the application of TOGA thrust. 
+Yet in-service experience has shown that as long as both engines 
+are operating, a lower thrust can still be sufficient to perform 
+a safe go-around.
+As a safety enhancement, Airbus has introduced the Soft 
+Go-Around (SGA) function, which provides a reduced go-around 
+thrust and associated operating procedures.
+This article will review how the Soft Go-Around function works, 
+how it is activated, on which aircraft it is installed, and how to 
+deal with a “mixed” fleet composed of aircraft with and without 
+the function.
+BRICE FERNANDEZ
+Propulsion System 
+Certification & 
+Airworthiness
+CAPT. XAVIER 
+LESCEU
+Head of Operational & 
+Training Policy
+DAVID MARCONNET
+Flight Operations Support 
+& Training Standards - 
+Safety Enhancement
+
+GO-AROUNDS & 
+SOMATOGRAVIC ILLUSION
+WHAT IS THE 
+SOMATOGRAVIC 
+ILLUSION?
+Somatogravic Illusion (SI) is a 
+spatial disorientation pheno- 
+mena which is caused by a 
+mismatch between different 
+signals from our senses and the 
+brain. It is generated by a strong 
+longitudinal acceleration or 
+deceleration. The brain interprets 
+acceleration as a pitch up and 
+this may lead to inappropriate 
+pitch down command. (fig.1)
+Go-arounds can be performed in 
+various conditions (aircraft weight, 
+speed, altitude...). However, even if 
+these parameters are known to vary 
+significantly from one go-around to 
+another, up until recently only one level 
+of thrust has been available to perform 
+this manoeuvre: the TOGA thrust.
+Flight crew are not used to the feeling 
+of such a strong acceleration, so this 
+may lead to them being surprised. 
+The strong longitudinal acceleration 
+induced by the TOGA thrust may 
+ultimately lead to Spatial Disorientation 
+(SD) of the flight crew caused by 
+a Somatogravic Illusion (SI). SI is a 
+suspected element in several fatal 
+accidents.
+Go-arounds usually take place when 
+an aircraft’s weight is well below the 
+Max Landing Weight, and of course, 
+when flying at a low speed close to the 
+Approach speed (VAPP). Application of 
+the TOGA thrust under these conditions 
+creates an unusually strong longitudinal 
+acceleration. Such a strong acceleration 
+is rarely experienced by flight crew since 
+the only other time TOGA thrust is applied 
+is at take-off when the aircraft is heavy.
+Pilots can be especially sus- 
+ceptible to SI when performing 
+a go-around at night or in poor 
+visual conditions. The strong 
+longitudinal accelerations 
+combined with a lack of 
+visual references lead to 
+the mistaken perception of 
+excessive pitch up.
+As a means to reduce the likelihood 
+of SI occurring, Airbus developed a 
+function that allows crews to perform 
+a go-around with a reduced thrust, 
+adapted to the aircraft weight, speed 
+and altitude: the Soft Go-Around 
+Function (SGA).
+(fig.1)
+Explanation of the Somatogravic Illusion
+
+Introduction to the Soft Go-Around Function
+OPERATIONS
+PRINCIPLE OF THE SOFT 
+GO-AROUND FUNCTION
+The SGA 
+function provides 
+a lower than 
+TOGA initial thrust 
+level, such that it 
+ensures a reduced 
+acceleration and 
+requirement to pitch 
+up and a lower but 
+constant final rate 
+of climb whatever 
+the aircraft weight, 
+speed, altitude 
+and Slat/Flaps 
+configuration.
+The SGA function provides a lower 
+than TOGA initial thrust level, such 
+that it ensures a reduced acceleration 
+and requirement to pitch up and a 
+lower but constant final rate of climb 
+whatever the aircraft weight, speed, 
+altitude and Slat/Flaps configuration.
+Performance of the SGA function is 
+demonstrated to be at least as good 
+as if the go-around was performed 
+with TOGA thrust with One Engine 
+Inoperative (OEI).
+The Soft Go-Around function is 
+only available when all engines are 
+operating:
+• If the go-around is performed with 
+one engine inoperative, TOGA 
+thrust must be used 
+• In the case of an engine failure 
+during a soft go-around, the flight 
+crew must also select TOGA thrust.
+Airbus has designed the SGA climb 
+capability to be sufficient to be able to 
+deal with the world’s most demanding 
+missed approaches. The target rate 
+of climb is either 2000 or 2300 ft/min, 
+depending on the aircraft model.
+To put 2000 ft/min into context, if a 
+go-around is performed by an A330300 at a weight of 150 tons, at sea 
+level, the rate of climb obtained with 
+the TOGA thrust is 3500 ft/min.
+At any time during a soft go-around, 
+the TOGA thrust can be applied if 
+needed by setting the thrust levers 
+to the TOGA position.
+
+HOW DOES THE SGA WORK?
+Based on the environmental conditions, the aircraft weight, altitude, speed 
+and slats/flaps configuration, the Auto Flight System (AFS) via the PRIMs 
+(A350/A380) or FMGECs (A330) or FMGCs (A320) computes a thrust target 
+that will enable the aircraft to climb at 2000 (or 2300 ft/min) (fig.2). This 
+thrust target is then sent to the engines FADEC that will apply the optimized 
+thrust as soon as the function is activated via the thrust levers.
+SGA is only 
+available when all 
+engines are operating. 
+The TOGA thrust can 
+be applied at any time 
+by setting the thrust 
+levers to the TOGA 
+position.
+EIS
+Thrust Levers
+Position
+AutoFlight System (AFS)
+A350/A380: PRIMs
+A330: FMGEC
+A320 neo: FMGC
+Aircraft Weight
+Slats/Flaps 
+Configuration
+Engine System
+SGA Activation
+Aircraft Speed
+SGA Thrust Target
+Temperature
+Computation
+(fig.2)
+SGA functional description
+SOFT GO-AROUND ACTIVATION 
+AND DEACTIVATION
+When the go-around is initiated, the 
+flight crew sets the thrust levers to TOGA 
+position, as usual, to trigger all the logics 
+(approach modes disengagement, FMS 
+FPL sequencing...), and then activates 
+the SGA by moving back without delay 
+the thrust lever to the FLX/MCT detent. 
+Like any mode, the flight crew checks 
+the engagement of the SGA via the 
+FMA (fig.3):
+1. The flight crew first sets the thrust 
+lever to the TOGA detent to:
+• Disengage the approach modes 
+• Engage the go-around guidance 
+mode (SRS GA TRK or SRS NAV)
+• Engage the go-around phase of the 
+FMS to insert the missed-approach 
+procedure in the FMS flight plan.
+2. Without delay, the flight crew sets 
+the thrust levers back to the FLX/
+MCT detent to engage the SGA 
+mode (MAN GA SOFT displayed 
+on the FMA)
+3. If the flight crew follows FD orders or 
+if AP is ON, a 2000 ft/mn (or 2300 
+ft/mn) is maintained
+4. At the Go-around thrust reduction 
+altitude, the flight crew sets the 
+thrust levers to the CLB detent:
+• MAN GA SOFT disengages
+• The CLB guidance mode engages
+• The Autothrust activates.
+
+Introduction to the Soft Go-Around Function
+OPERATIONS
+(fig.3)
+Soft Go-Around Activation/Deactivation
+UPDATED FCOM 
+GO-AROUND PROCEDURE
+On aircraft equipped with the 
+SGA function, SGA is now fully 
+part of the Standard Operating 
+Procedures (SOPs). The FCOM 
+and QRH have been updated 
+accordingly.
+Example of FCOM GO-AROUND procedure 
+with SGA
+
+SOFT GO-AROUND FUNCTION 
+AVAILABILITY
+The SGA function is, or will be, available for the following aircraft:
+A320
+A330
+ceo + neo
+A350
+A380
+neo
+Optional
+Basic
+Basic
+Optional
+Optional
+PROCEDURES 
+FOR AIRCRAFT WITHOUT 
+SOFT GO-AROUND
+On aircraft not fitted with the Soft 
+Go-around function, if the TOGA thrust 
+is not required for a go-around, the flight 
+crew can apply the procedure introduced 
+in the FCOM/FCTM in 2013 (fig.4).
+System (SRS) guidance mode and 
+of the FMS Go-Around phase.
+2. Then, the flight crew should set the 
+thrust lever to Climb (CL) detent to 
+take advantage of the autothrust 
+(A/THR).
+1. To initiate the go-around, the flight 
+crew must set the thrust levers 
+are set momentarily to the TOGA 
+detent in order to ensure proper 
+activation of the Speed Reference
+Refer to the article: “Flying a Go-Around 
+– Managing Energy“, published in the 
+issue 17 of the Safety First magazine.
+
+Introduction to the Soft Go-Around Function
+OPERATIONS
+(fig.4)
+Managing energy on aircraft without SGA feature
+WHAT ABOUT 
+MIXED FLEETS?
+Due to the recent introduction of the SGA 
+function and its fleet-wide availability 
+status, it is likely operators will have to 
+deal with mixed fleet operations where 
+some aircraft will be equipped with SGA 
+and others will not. The key is to make 
+sure that the flight crew is aware of the 
+SGA / Non-SGA capability of the aircraft 
+they are flying.
+should brief the PM on the go-around 
+thrust strategy based on the availability 
+of the SGA (function installed and not 
+inoperative).
+In any case, the Go Around initiation 
+is always done by setting the thrust 
+levers to the TOGA detent to engage 
+the SRS guidance mode and the 
+GO-AROUND phase of the FMS. 
+Then, depending on the aircraft SGA 
+capability and on the possibility to 
+use a reduced go-around thrust, the 
+thrust lever may be set either to the 
+FLX/MCT for SGA activation or to the 
+CLB detent, if conditions permit.
+During the descent preparation, the flight 
+crew can check the SGA capability of the 
+aircraft using the Aircraft Configuration 
+Summary of the QRH.
+During the Approach Briefing, the PF
+
+The Go Around 
+initiation is always 
+done by setting 
+the thrust levers to 
+the TOGA detent 
+to engage the SRS 
+guidance mode and 
+the GO-AROUND 
+phase of the FMS.
+PREVIOUS ‘SAFETY FIRST’ ARTICLES DEVOTED TO THE GO-AROUND PROCEDURE:
+- “Go-around Handling” issue 10, August 2010, highlighted
+detent without delay in the event of an early capture of 
+altitude.
+- “Flying a Go-Around Managing Energy” issue 17, January
+that on Airbus Fly By Wire aircraft the go-around flight 
+guidance modes of the Auto Flight System are triggered 
+by setting the thrust levers to TOGA.
+- “The go-around Procedure” issue 12, July 2011, insisted
+2014, presented the refined go-around procedure to set 
+the thrust levers to CL detent just after the TOGA detent 
+selection when conditions permit, and introduced the 
+discontinued approach technique.
+on the need to fly and maintain the proper pitch and on 
+the necessity to retard the thrust levers from TOGA to CL
+The Soft Go-Around function represents a significant safety and operational 
+improvement. It softens the go-around manoeuvre with optimized thrust 
+to improve go around handling by the flight crew.
+No matter whether the aircraft is or isn’t fitted with the SGA function, the 
+go-around initiation is always performed by setting the thrust levers to the 
+TOGA detent. On aircraft equipped with the SGA, an updated FCOM go 
+around procedure enables the flight crew to benefit from the function by 
+setting the thrust lever to the MCT detent after the go-around initiation to 
+activate the function, with the possibility at any time to set the thrust lever 
+to TOGA, should the situation request it.
+On aircraft not equipped with the SGA, the flight crew can apply FCOM 
+procedure described in the “Flying a Go-Around – Managing Energy“ 
+article, published in the issue 17 of the Safety First magazine. This 
+procedure provides the flight crew with the possibility to set the thrust lever 
+to the CLB detent after the go-around initiation, when conditions permit.
+
+Preparing Flight Crews to Face Unexpected Events
+TRAINING
+Preparing Flight 
+Crews to Face 
+Unexpected Events
+During an approach at night-time into Glasgow Airport, the crew 
+of an easyJet A319 experienced a strong cross-wind and turbulent 
+conditions, which created a WINDSHEAR alert and led them to 
+perform a go-around.
+As they did this, PFD information including Flight Modes 
+Annunciator, Flight Director bars, and characteristic speeds all 
+disappeared from both PFDs. In addition, the rudder travel limiter 
+function became unavailable, and the auto-thrust disconnected. 
+The crew was facing a very challenging situation, and needed 
+to use their training in back-to-basics flying and efficient Crew 
+Resource Management.
+PANXIKA 
+CHARALAMBIDES
+Flight Safety Director
+BRIAN TYRRELL
+Head of Flight 
+Operations, easyJet
+CAPT. CHRISTIAN 
+NORDEN
+Director Flight Operations 
+& Training Policy
+
+This article describes the event, and provides analysis of its root 
+cause. It also explores the training, oversight and cultural objectives 
+in place at easyJet that have contributed to the crew’s effective 
+handling of an unforeseeable combination of factors. These were 
+all key elements that helped the crew achieve a safe outcome.
+A CREW EXPERIENCED 
+A COMBINATION OF FACTORS 
+THEY HAD NOT TRAINED FOR
+It was the crew’s first sector of the 
+day departing from London Gatwick 
+for Glasgow. From the weather 
+reported for Glasgow Airport, they 
+were expecting turbulent conditions 
+with cross-wind of approximately 26 
+knots and a wet runway.
+for the flight to Glasgow. The MEL 
+procedure required the crew to select 
+the Air Data selector to [FO ON 3] and 
+set the ADR2 pushbutton switch to 
+[OFF] prior to entering icing conditions. 
+Icing conditions were expected during 
+the flight, and so the ADR2 was set 
+to [OFF] before the departure. The 
+procedure also states that when the 
+ADR2 has been switched [OFF], the 
+ADR2 must remain set to [OFF] for the 
+remainder of the flight (fig.1).
+Each ADR is part of 
+the ADIRU, and provides 
+anemometric parameters 
+which they compute from 
+their associated air data 
+probe outputs.
+The system architecture of 
+A320 family aircraft includes 
+three ADRs, called ADR1, 
+ADR2 and ADR3.
+The First Officer’s Probe Heat 
+Computer was inoperative prior to 
+the departure from Gatwick and so the 
+aircraft was operated under an MEL
+(fig.1)
+Application of MEL 30/31/01B for First 
+Officer’s Probe Heat Computer (PHC) 
+inoperative.
+Instructions are to select the AIR DATA 
+to [F/O ON 3] and set the ADR2 pushbutton 
+switch to OFF prior to entering icing conditions.
+
+Preparing Flight Crews to Face Unexpected Events
+TRAINING
+(fig.2)
+Primary Flight Display. 
+[FD] and [SPD LIM] flags are displayed in red 
+text. They respectively indicate the loss of Flight 
+Director bars and the characteristic speed 
+information.
+Upon reaching 
+850 feet a reactive 
+WINDSHEAR 
+warning was 
+triggered for 15 
+seconds. The 
+crew evaded the 
+WINDSHEAR and 
+then conducted the 
+go-around.
+After an uneventful flight from Gatwick, 
+the crew reported turbulent conditions 
+on the approach into Glasgow. They 
+disconnected both auto-pilots while 
+crossing one-thousand feet. The Captain 
+was the pilot flying. Upon reaching 850 
+feet a reactive WINDSHEAR warning 
+was triggered for 15 seconds.
+created a startle effect on the crew. 
+With the increased workload, the crew 
+missed the AUTO FLT RUD TRV LIM 
+SYS ECAM warning and hence did not 
+apply the associated procedure shown 
+on the ECAM display (fig.3).
+In retrospect, if the crew had applied the 
+procedure displayed on the ECAM they 
+would have reset FAC1 and FAC2, and 
+recovered all of the functions previously 
+lost. However, on the climb from 1900 
+feet through to 2300 feet, during the 
+slats and flaps retraction, three VFE 
+(maximum allowable airspeed with 
+flaps extended) OVERSPEED warnings 
+sounded within 20 seconds. At the time 
+of the second VFE triggering, the crew 
+switched the ADR2 to [ON], which was 
+not part of the operating procedure but 
+resulted in the characteristic speeds 
+and rudder travel limiter function being 
+available again in the FAC2. This also 
+made the Flight Director (FD2) available 
+and it reengaged automatically on both 
+PFD as it was still selected. Similarly 
+the auto-thrust (ATHR) was also now 
+available and later reengaged by 
+the crew.
+The crew evaded the WINDSHEAR 
+and then conducted the go-around 
+as per standard operating procedures. 
+However in the same instant the FMA 
+became blank, the Flight Director (FD) 
+bars disappeared from the Primary 
+Flight Displays (PFD) and were 
+replaced by the red [FD] flag (fig.2). 
+The characteristic speed information 
+were also no longer displayed on either 
+PFD, and were replaced by the red 
+[SPD LIM] flag, which was displayed 
+at the bottom of the airspeed scale. 
+The only information displayed on 
+the airspeed scales were the current 
+speed and the speed bug.
+The crew 
+handled this difficult 
+situation well, 
+performing efficient 
+Crew Resource 
+Management (CRM), 
+and applying backto-basics in flying 
+attitude and thrust 
+to manage the go 
+around phase.
+Additionally, two ECAM messages with 
+the associated single-chime and master 
+caution indicated they lost the AutoThrottle (ATHR) as well as the rudder 
+travel limitation functions. As shown in 
+Figure 3, the ECAM messages indicated 
+were the AUTO FLT ATHR OFF and 
+AUTO FLT RUD TRV LIM SYS amber 
+messages (fig.3).
+The crew successfully conducted the 
+remainder of the flight and landed 
+safely. Overall, the crew handled this 
+difficult situation well, performing 
+efficient Crew Resource Management 
+(CRM), and applying back-to-basics 
+in flying attitude and thrust to manage 
+the go around phase.
+As illustrated in (fig.4), the combination 
+of the windshear, chimes and alerts
+
+(fig.3)
+Ecam messages ‘AUTO FLT ATHR OFF’ 
+and ‘AUTO FLT RUD TRV LIM SYS’. 
+Associated operating procedure to reset FAC 1 & 
+2 displayed with master caution and single chime.
+CONDITIONS
+MEL Applied
+Night Time
+Turbulence
+Crosswind
+WINDSHEAR alert
+Go-Around
+PFD
+ECAM Cautions
+PFD Effects
+ECAM
+STARTLE
+PFD
+EFFECT
+(fig.4)
+Combination of conditions and events 
+which caused a startle effect.
+EVENTS
+TECHNICAL ANALYSIS 
+OF THE EVENT
+The AOA3 is 
+located below the 
+aircraft’s horizontal 
+axis of symmetry 
+and is therefore 
+more susceptible 
+to sideslip.
+easyJet and Airbus conducted a joint 
+investigation into this event. Analysis of 
+the Digital Flight Data Recorder (DFDR) 
+showed a significant discrepancy between 
+the AOA1 and AOA3 measurements at
+the same time that the WINDSHEAR alert 
+was triggered. Why did the measured 
+AOA3 increase significantly more than 
+the AOA1 at that time? What are the 
+consequences of this?
+Angle of Attack and the Sideslip Effect Explained
+This aircraft is fitted with three Angles of 
+Attack probes that deliver three separate 
+Angle of Attack measurements, so 
+called AOA1, AOA2 and AOA3. The 
+sensor vanes delivering AOA1 and 
+AOA2 measurements are located 
+symmetrically on the left and right sides 
+of the aircraft close to the horizontal 
+axis of symmetry. As illustrated in 
+(fig.5), these locations give them a 
+low sensitivity to sideslip.
+The AOA3 is located below the aircraft’s 
+horizontal axis of symmetry. This position 
+makes it more susceptible to sideslip 
+because it is mainly exposed to the part 
+of the lateral airflow which flows below the 
+aircraft (fig.5). This is why the crosswind 
+gust that occurred at the same time 
+as the triggering of the WINDSHEAR 
+alert caused there to be a discrepancy 
+between the measured deflections of the 
+AOA1 and AOA3 sensor vanes.
+
+Preparing Flight Crews to Face Unexpected Events
+TRAINING
+AOA2
+AOA1
+(fig.5)
+Lateral wind gusting across the fuselage 
+during sideslip. 
+AOA3 is more sensitive to sideslip deflection, 
+when compared to AOA1 and AOA2, due 
+to its position below the horizontal symmetry 
+axis of the aircraft.
+Crosswind
+From Right Flowing
+Around the Fuselage
+AOA3
+What were the consequences of the sudden 
+AOA3 increase?
+In the Flight Augmentation Computers (FAC)
+Both FAC1 and FAC2 monitor certain 
+ADR parameters, and in particular 
+they monitor the AOA by performing 
+a cross-comparison monitoring of all 
+three AOA measurements provided 
+by their respective ADR (refer fig. 6). 
+In this event, where the applied MEL 
+procedure called for the ADR2 to be 
+switched to [OFF], the FACs were only 
+monitoring for a difference between the 
+measured values of AOA1 and AOA3.
+and AOA3 ADR parameters being 
+rejected by both FACs. When one 
+ADR parameter is rejected by the FAC 
+monitoring, then all parameters of its 
+corresponding ADR are also rejected. 
+Therefore, ADR1 and ADR3 were 
+rejected by both FAC1 and FAC2. 
+Consequently, there was now no ADR 
+information available in either FAC.
+In this condition, both FAC were no 
+longer capable of computing the 
+characteristic speeds, the FD bars, the 
+auto-thrust, auto-pilot or rudder travel 
+limiter function.
+The discrepancy between AOA1 
+and AOA3 measurements at the 
+time of crosswind gust led to AOA1
+(fig.6)
+FAC
+FAC
+MONITORING
+MONITORING
+Simplified schematic diagram showing 
+the system configurations for ADR1, ADR2 
+and ADR3 with the cross-comparison 
+monitoring of ADR by FAC1 and FAC2 
+in a normal configuration.
+KEY
+Primary use
+ADR
+ADR
+ADR
+Monitoring input only
+Back-up use
+ADA
+ADA
+ADA
+In the Elevator & Aileron Computers (ELAC)
+The sudden AOA3 increase had no 
+consequences in the ELAC because 
+the ELAC’s monitoring is slightly 
+different to the FAC one due to 
+different architecture. Therefore data
+from both ADR1 and ADR3 remained 
+valid in the ELAC, and normal laws 
+including all flight envelope protections, 
+continued to be computed throughout 
+the flight.
+
+On both PFD
+ADR1 and 
+ADR3 remained 
+valid in the ELAC, 
+and normal laws 
+including all flight 
+envelope protections, 
+continued to be 
+computed throughout 
+the flight.
+The fact that ADR1 and ADR3 were 
+rejected in FAC1 and FAC2 had 
+no impact on the display of ADR 
+parameters on the primary flight displays 
+(PFD). Indeed, as the ADR1 and ADR3 
+were selected on the Captain’s and First
+Officer’s sides respectively, the current 
+speed, Mach and altitude parameters 
+delivered by these computers were 
+respectively displayed on both the 
+Captain’s and First Officer’s PFD until 
+the end of the flight.
+What are the consequences of turning ADR2 to [ON]?
+At the time of the second VFE 
+overspeed warning, the crew switched 
+the ADR2 to [ON]. This led ADR2 
+parameters to be available again 
+for functions computation in FAC2. 
+Therefore the characteristic speeds, 
+the rudder travel limiter function, the
+Flight Director (FD2) and the autothrust (ATHR) became available again 
+from channel 2.
+However, the autopilot remained 
+unavailable since FAC2 had only 
+information from one ADR available.
+THE EASYJET FORMULA FOR 
+AN ENHANCED SAFETY BENEFIT
+easyJet continues to learn from events 
+like the one analyzed in this article in order 
+to prepare its pilots to face unexpected 
+events and manage situations to have a 
+safe outcome. It has a specific structure 
+that it has put in place for managing
+remote bases and this reinforces the 
+dissemination of safety, technical 
+and training materials. Through the 
+development of its “Just” culture, crews 
+have confidence to report events so that 
+their experience can be shared.
+The importance of encouraging pilots to practice 
+manual flying skills
+Practicing manual flying in various conditions and to use automation 
+appropriately
+easyJet recommends that all of 
+its pilots regularly disengage the 
+automation and practice their 
+manual flying skills in various weather 
+conditions. It is at the pilot’s discretion 
+to choose when to fly without the 
+auto-pilot or without auto-pilot and 
+auto-thrust. easyJet places emphasis 
+on using automation appropriately to 
+reduce workload, and for the crew to 
+fly manually when they feel they have 
+the right conditions to do so without 
+reducing their overall capacity. 
+Manual handling skills are further 
+reinforced in the easyJet simulator 
+sessions.
+The aim of encouraging regular practice 
+of manual flying skills, both on the 
+aircraft and in the simulators, is to ease 
+the management of any unexpected 
+events that could lead to less aircraft 
+automation being available. Additionally, 
+this reinforces the confidence of the 
+pilots in their manual flying capabilities, 
+which can help them to minimize the 
+startle effect from unexpected events. In 
+the flight described in this article, it was 
+evident that the Captain was confident 
+to manually fly the aircraft in the 
+turbulent conditions on the approach 
+into Glasgow as he disconnected the 
+auto-pilot from one-thousand feet.
+easyJet 
+recommends 
+that all of its pilots 
+regularly disengage 
+the automation 
+and practice their 
+manual flying skills 
+in various weather 
+conditions.
+
+Preparing Flight Crews to Face Unexpected Events
+TRAINING
+The importance of “Just Culture”
+Encouraging the reporting of events to share the lessons learned and 
+enhance safety
+easyJet promotes a “Just Culture” for 
+reporting events, which ensures that 
+they can be objectively resolved and 
+with a standardized recorded outcome. 
+The reporting of an event by the crew 
+and the subsequent investigation allows 
+easyJet to collect all of the relevant 
+facts in order to accurately rebuild the 
+scenario. The aim is to share these 
+experiences with other pilots, and to
+recognize positive behaviors that the 
+crew exhibited when faced with a rare 
+and unpredictable event. For easyJet, 
+a “Just culture” means that when their 
+crews are capably acting with their 
+best intentions, to the capacity of their 
+knowledge and experience levels, they 
+can perform their responsibilities without 
+the worry of an inconsistent reproach 
+from the easyJet management.
+WHAT IS “JUST CULTURE”?
+“A culture in which front-line operators 
+or other persons are not punished for 
+actions, omissions or decisions taken 
+by them that are commensurate 
+with their experience and training, 
+but in which gross negligence, willful 
+violations and destructive acts are not 
+tolerated.” 
+This definition of “Just Culture”
+was formally enacted by European 
+Commission Regulation for the 
+reporting, analysis and follow-up of 
+occurrences in civil aviation.
+The meaning is that under “Just 
+Culture” conditions, individuals are 
+not blamed for ‘honest errors’, but 
+are only held accountable for willful 
+violations and gross negligence.
+Role of the Base Standards Captains in supporting event reporting 
+and knowledge sharing amongst the pilots at a remote base
+Base Standards 
+Captains foster 
+a supportive 
+atmosphere at the 
+base in which pilots 
+can operate, share 
+their experiences 
+and report events, or 
+seek out knowledge 
+if required.
+For the pilots who are located at bases 
+away from the easyJet headquarters, 
+a network of Base Standards Captains 
+(BSCs) are in place. These BSCs 
+distribute new procedures into each 
+base in the easyJet route network, 
+to ensure the procedures and other 
+safety related changes are understood 
+and adopted.
+monitoring and standards assessments 
+to ensure the continued capabilities 
+of all pilots operating in their base. 
+All of easyJet’s BSCs are line training 
+Captains who are embedded within 
+the day to day front line operation and 
+therefore are best placed to engender 
+a supportive atmosphere at the base 
+in which pilots can operate, share their 
+experiences and report events, or seek 
+out knowledge if required.
+A BSC will carry out regular performance
+Importance of operators updating their training 
+packages
+Enhancement of training with the lessons shared from event reports 
+to train for outcomes rather than from specific tasks
+easyJet invests significantly in 
+providing both remedial and 
+supportive training packages for all 
+of its crew and has over 10 years’ 
+experience in using Alternative Training 
+and Qualification Program (ATQP). 
+This has provided more effective,
+operations specific training packages. 
+The packages are designed using 
+data from both industry wide and 
+specific company safety events, as 
+well as statistical analysis of data in 
+order to identify additional areas that 
+need to be trained.
+
+The easyJet 
+system is designed 
+to ‘train for 
+outcomes’ rather 
+than for specific 
+scenarios. It 
+includes training 
+for upset recovery 
+in normal law and 
+multiple training 
+cases for unreliable 
+airspeed.
+With over 400,000 sectors a year 
+flown across the fleet, easyJet has a 
+rich stream of internal flight data to 
+analyze. Their training team can define 
+additional training priorities based on 
+what they see in both the operations 
+and in simulator sessions. They also 
+draw upon the available industry 
+information, including the lessons learned 
+and recommendations from accident 
+and incident reports. These are made 
+available to all easyJet pilots for review.
+The easyJet system is designed to 
+“train for outcomes” rather than for 
+specific scenarios. It includes training 
+for upset recovery in normal law and 
+multiple training cases for unreliable 
+airspeed, which are opportunities 
+to emphasize importance of “pitch 
+and thrust” flying. All of the easyJet 
+pilots are immersed in this training 
+philosophy.
+Reinforcing safety of operations though training enhancements
+easyJet’s training highlights the 
+importance of crews going back-tobasics to ensure a positive outcome 
+for the safety of their flights, and the 
+importance of efficient Crew Resource 
+Management (CRM) when facing 
+unexpected events.
+applied back-to-basics attitude and 
+thrust flying with the priorities to “Fly, 
+Navigate and Communicate”. This 
+allowed them to manage the situation 
+and have a positive outcome to this 
+startle effect event.
+It is impossible to train every pilot in 
+scenarios that will cover every potential 
+threat. However, easyJet believes that 
+by training their crews to ‘manage 
+outcomes’ and to manage complex 
+failures as a team for events, such as 
+upset recovery or unusual attitude, 
+they get an enhanced safety benefit 
+across their entire fleet for all of their 
+customers and crews.
+For the event described by this article, 
+it was clear for the First Officer as the 
+pilot monitoring that his priority was to 
+closely monitor the parameters, and 
+in particular to always remain aware 
+of the aircraft pitch attitude and bank 
+angle during the go-around phase. The 
+Captain as the pilot flying followed the 
+standard operating procedures and
+It is impossible 
+to train every pilot 
+in scenarios that will 
+cover every potential 
+threat.
+
+Preparing Flight Crews to Face Unexpected Events
+TRAINING
+EVIDENCE BASED TRAINING 
+FOR AIRBUS PILOTS
+Airbus is 
+a strong supporter 
+of EBT and has 
+started to include 
+EBT elements in 
+its pilots’ type rating 
+courses.
+The example of the easyJet event 
+shows how a well-trained crew 
+working in just-culture managed a 
+challenging situation that had not been 
+trained before. easyJet has practiced 
+the UK CAA’s ‘Advanced Training & 
+Qualification Programme’ (AQTP) for 
+several years. The described event 
+demonstrates the merits of this 
+competency based training system 
+compared to the conventional task 
+based training philosophy.
+particularly focusing on the most critical 
+training topics identified by EBT2. 
+One of these critical training topics is the 
+Go-Around, which was found through 
+analysis of data from multiple operational 
+and training sources to be a procedure 
+with operational risks. The data indicated 
+that crews may face challenges when 
+conducting a Go-Around3. These 
+findings highlighted to industry the need 
+to raise flight-crew skills in performing 
+Go-Arounds, through more and different 
+training types.
+Evidence Based Training (EBT) takes 
+the concepts of the FAA’s Advanced 
+Qualification Program (AQP) and EASA’s 
+ATQP program further by structuring 
+recurrent assessment and training 
+according to evidence-based priorities, 
+based on a comprehensive analysis of 
+safety and training data from a wide 
+variety of sources1. EBT was introduced 
+by EASA in 2016 by ED Decision 
+2015/027/R for recurrent training.
+Accordingly, starting with the A350, 
+Airbus has intensified Go-Around 
+training to cover a much broader scope. 
+Besides training the still necessary oneengine inoperative manoeuvres, the 
+training also assigns the following:
+• “Unexpected” go-arounds 
+• Go-arounds from various altitudes 
+different from MDA/DH
+• Go-arounds with relatively low gross 
+weight, combined with low MISAP 
+level off altitudes
+• Go-arounds in VMC with revisions 
+to the (managed) flight path (“Join 
+visual downwind”)
+Airbus is a strong supporter of EBT and 
+has started to include EBT elements in 
+its pilots’ type rating courses, even if it is 
+not yet mandated by regulation.
+The Airbus A350 Type Rating courses 
+have been the first to receive EBT 
+elements, making them competency 
+and not task centered. EBT places 
+emphasis on scenario-based training, 
+adding the ‘surprise’ element, and
+Type Rating training will receive a major 
+revamp when the new EASA regulation 
+currently under design will introduce 
+EBT for the type training phase. This 
+step beyond ICAO DOC 9995 can be 
+expected for 2018.
+IATA Evidence-Based Training
+Implementation Guide, 1st Edition Pg. 38
+ IATA Data Report for Evidence-Based
+Training – Montreal 2013 Appendix 16
+ IATA l.c. Pg. 85
+
+In the event described by this article, the crew clearly faced a scenario 
+with a significant startle effect due to a combination of factors for which 
+they had not been specifically trained. Despite this, the crew worked as 
+a team and managed this challenging situation very well thanks to their 
+general training.
+easyJet’s training philosophy to “train for outcomes” is one element 
+that was key in achieving a safe outcome when faced with such 
+events. easyJet’s training program, which evolves with new data, 
+highlights the importance of crews performing efficient crew resource 
+management, to use automation appropriately, and to regularly 
+practice manual flying skills.
+Their supportive professional structure, which promotes “Just Culture” 
+for reporting and sharing knowledge or experience is also a key element 
+driving the evolution of their training programs, using reported experiences 
+to prepare crew to face unexpected events.
+Approaches to training are evolving across industry, with Evidence Based 
+Training (EBT) for recurrent training being introduced by EASA in 2016. 
+Rather than measuring a pilot’s performance during individual events or 
+manoeuvres, EBT develops and assesses the overall capability of a pilot 
+across a range of core competencies.
+Starting with the A350, Airbus is evolving type rating courses to include 
+elements of Evidence Based Training (EBT).
+
+Safety, Our Shared Destination
+GENERAL TOPIC
+Safety, Our Shared 
+Destination
+As professionals, working in an industry with annual growth rates 
+between 5 & 6%, we must ask ourselves the question ‘what could 
+be the impact on Safety of a doubling of air traffic?’.
+Without industry-wide action to lower the accident rate, by 2030 
+we will be experiencing accidents more frequently.
+This article looks at an Airbus initiative called Air Transport Safety 
+Destination 10X Together, which is a platform upon which Airbus 
+and our operators can collaborate to propose pragmatic solutions 
+to key identified safety issues.
+YANNICK VANHECKE
+Head Of Safety 
+Enhancement
+
+COMMERCIAL AVIATION’S 
+RECORD ON SAFETY
+The fatal accident 
+rate of 1 per 10 million 
+departures for 4th 
+generation jets has 
+been consistent for the 
+last 10 years, barely 
+decreasingly.
+Our industry can be very proud of its 
+record on safety. Our combined efforts 
+have reduced the fatal accident rate 
+to about only 1 fatal accident per 
+10 million departures on the fourth 
+generation of airplanes (fig.1).
+Even if these abstracted statistics 
+show a low and stable accident 
+rate, we at Airbus believe we must 
+still address the real-world meaning 
+of fatal accidents and their impact 
+on people, since any accident is an 
+unacceptable tragedy.
+(fig.1)
+Yet despite this success, the fatal 
+accident rate for 4th generation jets has 
+been consistent for the last 10 years, 
+barely decreasingly.
+Accident rate per million by aircraft 
+generation (ten year moving average).
+The accident rate for 4th generation jets 
+is very low but has barely decreased over 
+the last 10 years.
+Fatal accident rate 1996-2015
+
+Safety, Our Shared Destination
+GENERAL TOPIC
+SAFETY IN THE FUTURE
+If the fatal 
+accident rate 
+remains at today’s 
+level, the doubling 
+of flights forecast 
+to occur by 2030 
+will inevitably lead to 
+double the number 
+of accidents in 
+numerical terms.
+What do we know about the future of our industry?
+In terms of the volume of activity we 
+need to manage, we know that our 
+industry’s output (RPKs) continues to 
+grow at a global rate of between 5 & 6% 
+per year. We also have the proof from 
+history which shows that this growth is 
+resilient to external shocks over the longterm. We can therefore be reasonably 
+confident in the consensus of forecasts 
+which anticipate a doubling of air traffic 
+over the next 15 years (fig.2).
+the number of accidents in numerical 
+terms. This must surely be something 
+which we all find unacceptable.
+Furthermore, rapid global development 
+of the industry may generate increased 
+operational pressures at all areas of the 
+air transport system. It will also require 
+a significant expansion of the number 
+of newly certified personnel, potentially 
+causing a decrease in the overall level 
+of experience and causing new threats 
+to emerge.
+As professionals, we must ask ourselves 
+the question, ‘what could be the impact 
+on Safety of a doubling of air traffic?’
+The conclusion from these considerations 
+seems clear: we need to launch 
+co-ordinated actions with all actors of air 
+transport system to address upcoming 
+threats and drive the rate of accidents 
+lower than it has ever been.
+(fig.2)
+If we assume a scenario where our fatal 
+accident rate remains at today’s level, 
+the doubling of flights forecast to occur 
+by 2030 will inevitably lead to double
+Airbus Global Market Forecast for annual 
+traffic (trillion RPKs per year).
+Air traffic is resilient to external shocks, 
+and is forecast to double over the next 15 years.
+World annual traffic
+
+DESTINATION 10X
+By sharing
+information and 
+exchanging ideas,
+the project aims to 
+identify ‘quick-wins’
+for Safety 
+enhancement and
+then move quickly 
+into pragmatic
+implementation.
+With this in mind, Airbus has launched 
+a project called ‘Air Transport 
+Safety Destination 10X Together’, 
+or Destination 10X for short. The 
+objective of the Destination 10X 
+project is to identify and implement 
+different initiatives to enhance Air 
+Transport Safety, in cooperation with 
+our operators.
+Based on this survey, as well as from 
+the existing safety plans from EASA, 
+ICAO and FAA, four key areas were 
+identified as the top priorities; Training, 
+Weather, Safety Data, and Safety 
+Enhancement Promotion.
+At this point in the project, Airbus 
+is running workshops with some 
+operators on these key priority areas, 
+to identify quick-win enhancement 
+projects, and has chosen the top two 
+priorities of Weather and Training as the 
+key themes of this year’s Airbus Safety 
+Conference in Santiago. Airlines at this 
+conference will have the opportunity to 
+collaborate with Airbus by participating 
+in workshops to propose priorities to 
+be launched for implementation in 
+Wave 1, as well as to identify priority 
+areas for Wave 2 (fig.3).
+By sharing information and exchanging 
+ideas, the project aims to identify 
+‘quick-wins’ for Safety enhancement 
+and then move quickly into pragmatic 
+implementation.
+The Destination 10X project is 
+integrated into Airbus’ strategy for 
+continuous Safety Enhancement. The 
+annual Airbus Flight Safety Conference 
+(FSC) is a key component in this 
+activity, since it offers Airbus and 
+airlines a unique opportunity to share 
+information and ideas. In 2016 the FSC 
+was attended by 267 airline delegates 
+from 117 different operators, and it 
+was with this community that Airbus 
+launched the first wave of activity on 
+the project.
+Similar waves will be run at every FSC, 
+with a second wave already scheduled 
+for the 2017 event in order to identify 
+the next areas of focus for the project.
+In addition, in order to promote a 
+continually collaborative working mode 
+for the project, Airbus will release a 
+Destination 10X app and website in Q1 
+2017. Users will be able to receive project 
+updates, as well as be able to vote on 
+project priorities.
+(fig.3)
+Destination 10X Timeline.
+Project waves are integrated into Airbus’ strategy 
+for continuous Safety Enhancement. Each wave 
+involves four key phases of (a) surveying industry, 
+(b) Identifying priorities for action, (c) Validating 
+priorities, and finally (d) Implementing solutions 
+and evaluating the result.
+The airlines were surveyed in order 
+to identify the areas in which they 
+believed the industry needed to focus 
+attention in order to improve Safety.
+
+Safety, Our Shared Destination
+GENERAL TOPIC
+DESTINATION 10X TOGETHER
+Airbus and 
+our airline customers 
+are already in 
+co-operation 
+on the Destination 
+10X project. We 
+encourage more 
+airlines to join us.
+The Destination 10X project is a platform 
+upon which Airbus and its operators 
+can collaborate to propose pragmatic 
+solutions to key identified safety issues.
+As we identify together quick win 
+initiatives, we aim at sharing them 
+across industry. The concept is to 
+create initial momentum amongst 
+those whose businesses are most 
+immediately impacted by Safety, and 
+then to continue to build momentum 
+across other industry actors in a 
+‘snowball effect’.
+As mentioned, Airbus and our airline 
+customers are already in co-operation 
+in the current first wave of the project. 
+We certainly encourage more airlines to 
+join us as we progress into the selection 
+of solutions, whether at the Airbus Flight 
+Safety Conference (see pages 4-5), 
+or through the app / website.
+This is a pragmatic approach to 
+building consensus from the ground 
+up, with a focus on action.
+INFORMATION
+From the beginning of March 2017, scan the QR code in order to download 
+your copy of the Destination 10X app. This is will be your way to engage in the 
+Destination 10X project, to make sure your ideas are captured and priorities 
+are implemented for finding the most effective ways to enhance Safety.
+Despite our industry’s success on preventing accidents, the fatal accident 
+rate of 1 accident per 10 million flights for 4th generation jets has been 
+consistent for the last 10 years, barely decreasingly.
+When we combine increased operational pressures arising from the 
+forecast doubling of flights over the next 15 years, with the rapid 
+intake of newly certified personnel which is needed to achieve growth, 
+it is likely that we will experience accidents more frequently. This is 
+clearly unacceptable.
+The goal of Airbus’ Destination 10X project is to quickly identify and 
+implement different initiatives to enhance Air Transport Safety and share 
+them at industry level.
+Airbus and our airline customers are already in co-operation together, 
+and we encourage all our operators to get involved.
+
+ARTICLES PUBLISHED
+IN PREVIOUS 
+‘SAFETY FIRST’ ISSUES
+Issue 22
+Issue 20
+Issue 21
+July 2016
+July 2015
+January 2016
+• Pitot Probe Performance Covered 
+On the Ground
+• 180° turns on runway
+• Optimum use of weather radar
+• Control your speed... during climb
+• Lateral runway excursions upon landing
+• Fuel monitoring on A320 Family aircraft
+• Hight-altitude manual flying
+• Control your speed... in cruise
+• Lithium batteries: safe to fly?
+• Wake vortices
+• A320 Family Aircraft configuration
+Issue 19
+Issue 18
+Issue 17
+January 2015
+July 2014
+January 2014
+• Tidy cockpit for safe flight
+• Landing on contaminated runways
+• Understanding weight & balance
+• Wind shear: an invisible enemy to pilots?
+• Control your speed... at take-off
+• Safe operations with composite aircraft
+• Learning from the evidence
+• A320 Family cargo Containers/ pallets 
+movement
+• Parts Departing from Aircraft (PDA)
+• Airbus Brake Testing
+• Hard Landing, a Case Study for Crews 
+and Maintenance Personnel
+• Aircraft Protection during Washing and 
+Painting
+• Flight Data Analysis (FDA), a Predictive 
+Tool for Safety Management System 
+(SMS)
+• Flying a Go-Around, Managing Energy
+Issue 16
+Issue 15
+Issue 14
+July 2013
+January 2013
+July 2012
+• Performance Based Navigation: 
+RNP and RNP AR Approaches
+• Atlantic Airways: Introduction 
+of RNP AR 0.1 Operations
+• Flight Crews and De-Icing Personnel 
+– Working together in Temporary 
+Teamwork for safe Skies
+• Low Speed Rejected Take-Off upon 
+Engine Failure
+• Late Changes before Departure
+• The Golden Rules for Pilots moving 
+from PNF to PM
+• Airbus Crosswind Development and 
+Certification
+• The SMOKE/FUMES/AVNCS SMOKE 
+Procedure
+• Post-Maintenance Foreign Objects 
+Damage (FOD) Prevention
+• Corrosion: 
+A Potential Safety Issue
+• Thrust Reverser Selection means 
+Full-Stop
+• Transient Loss of Communication due 
+to Jammed Push-To-Talk A320 and 
+A330/A340 Families
+• A380: Development of the Flight 
+Controls - Part 2
+• Preventing Fan Cowl Door Loss
+• Do not forget that you are not alone in 
+Maintenance
+
+Issue 13
+Issue 11
+Issue 12
+January 2012
+January 2011
+July 2011
+• A320 Family / A330 Prevention and 
+Handling of Dual Bleed Loss
+• The Fuel Penalty Factor
+• The Airbus TCAS Alert Prevention 
+(TCAP)
+• A380: Development of the Flight 
+Controls - Part 1
+• Facing the Reality of everyday 
+Maintenance Operations
+• What is Stall? How a Pilot Should 
+React in Front of a Stall Situation
+• Minimum Control Speed Tests 
+on A380
+• Radio Altimeter Erroneous Values
+• Automatic NAV Engagement at Go 
+Around
+• Airbus New Operational 
+Landing Distances
+• The Go Around Procedure
+• The Circling Approach
+• VMU Tests on A380
+• Automatic Landings 
+in Daily Operation
+Issue 10
+Issue 9
+Issue 8
+August 2010
+February 2010
+July 2009
+• A380: Flutter Tests
+• Operational Landing Distances: 
+A New Standard for In-flight Landing 
+Distance Assessment
+• Go Around Handling
+• A320: Landing Gear Downlock
+• Situation Awareness and Decision Making
+• A320 Family: Evolution of Ground 
+Spoiler Logic
+• Incorrect Pitch Trim Setting at Take-Off
+• Technical Flight Familiarization
+• Oxygen Safety
+• The Runway Overrun Prevention 
+System
+• The Take-Off Securing Function
+• Computer Mixability: 
+An Important Function
+• Fuel Spills During Refueling Operations
+Issue 7
+Issue 6
+Issue 5
+February 2009
+July 2008
+December 2007
+• Airbus AP/FD TCAS Mode: A New 
+Step Towards Safety Improvement
+• Braking System Cross Connections
+• Upset Recovery Training Aid, Revision 2
+• Fuel Pumps Left in OFF Position
+• A320: Avoiding Dual Bleed Loss
+• A320: Runway Overrun
+• FCTL Check after EFCS Reset on Ground
+• A320: Possible Consequence of VMO/
+MMO Exceedance
+• A320: Prevention of Tailstrikes
+• Low Fuel Situation Awareness
+• Rudder Pedal Jam
+• Why do Certain AMM Tasks Require 
+Equipment Resets?
+• Slide/raft Improvement
+• Cabin Attendant Falling through the 
+Avionics Bay Access Panel in Cockpit
+• New CFIT Event During Non Precision 
+Approach
+• A320: Tail Strike at Take-Off?
+• Unreliable Speed
+• Compliance to Operational Procedures
+• The Future Air Navigation 
+System FANS B
+
+ARTICLES PUBLISHED
+IN PREVIOUS 
+‘SAFETY FIRST’ ISSUES
+Issue 3
+Issue 4
+Issue 2
+December 2006
+June 2007
+September 2005
+• Dual Side Stick Inputs
+• Trimmable Horizontal Stabilizer Damage
+• Pitot Probes Obstruction on Ground
+• A340: Thrust Reverser Unlocked
+• Residual Cabin Pressure
+• Cabin Operations Briefing Notes
+• Hypoxia: An Invisible Enemy
+• Operations Engineering Bulletin 
+Reminder Function
+• Avoiding High Speed Rejected TakeOffs Due to EGT Limit Exceedance
+• Do you Know your ATC/TCAS Panel?
+• Managing Hailstorms
+• Introducing the Maintenance Briefing 
+Notes
+• A320: Dual hydraulic Loss
+• Terrain Awareness and Warning Systems 
+Operations Based on GPS Data
+• Tailpipe or Engine Fire
+• Managing Severe Turbulence
+• Airbus Pilot Transition (ATP)
+• Runway Excursions at Take-Off
+Issue 1
+January 2005
+• Go Arounds in Addis-Ababa due to VOR 
+Reception Problems
+• The Importance of the Pre-flight Flight 
+Control Check
+• A320: In-flight Thrust Reverser Deployment
+• Airbus Flight Safety Manager Handbook
+• Flight Operations Briefing Notes

@@ -1,0 +1,23 @@
+{
+  "system": "GraphRAG",
+  "seconds": 7039.3,
+  "documents": 6,
+  "text_units": 98,
+  "entities": 1416,
+  "relationships": 2658,
+  "communities": 261,
+  "community_reports": 261,
+  "index_size_mb": 10.68,
+  "pipeline": {
+    "load_input_documents": 0.10913395881652832,
+    "create_base_text_units": 0.8975920677185059,
+    "create_final_documents": 0.10214972496032715,
+    "extract_graph": 86.45933818817139,
+    "finalize_graph": 5.509107828140259,
+    "extract_covariates": 0.0,
+    "create_communities": 2.561270236968994,
+    "create_final_text_units": 2.5021042823791504,
+    "create_community_reports": 3742.5745520591736,
+    "generate_text_embeddings": 2964.4780719280243
+  }
+}

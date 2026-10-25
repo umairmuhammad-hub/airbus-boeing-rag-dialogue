@@ -1,0 +1,544 @@
+Document: 787 Airplane Characteristics for Airport Planning (D6-58333, Rev. Q)
+Manufacturer: Boeing
+Source id: boeing_787_airport_planning
+
+1.0 SCOPE AND INTRODUCTION
+1.1 SCOPE
+This document provides, in a standardized format, airplane characteristics data for general 
+airport planning. Since operational practices vary among airlines, specific data should be 
+coordinated with the using airlines prior to facility design. Boeing Commercial Airplanes 
+should be contacted for any additional information required.
+Content of the document reflects the results of a coordinated effort by representatives from 
+the following organizations:
+• Aerospace Industries Association
+• Airports Council International - North America
+• Air Transport Association of America
+• International Air Transport Association
+The airport planner may also want to consider the information presented in the 
+"Commercial Aircraft Design Characteristics - Trends and Growth Projections," for long 
+range planning needs and can be accessed via the following website:
+http://www.boeing.com/airports
+The document is updated periodically and represents the coordinated efforts of the 
+following organizations regarding future aircraft growth trends.
+• International Coordinating Council of Aerospace Industries Associations
+• Airports Council International - North American and World Organizations
+• Air Transport Association of America
+• International Air Transport Association
+1-1
+
+1.2 INTRODUCTION
+This document conforms to NAS 3601. It provides characteristics of the Boeing 787 
+Dreamliner family of airplanes for airport planners and operators, airlines, architectural 
+and engineering consultant organizations, and other interested industry agencies. Airplane 
+changes and available options may alter model characteristics. The data presented herein 
+reflects the 787 family. Data used is generic in scope and not customer-specific.
+For additional information contact:
+Boeing Commercial Airplanes 
+2201 Seal Beach Blvd. M/C: 110-SB02 
+Seal Beach, CA 90740-1515 
+U.S.A.
+Attention: Manager, Airport Operations Engineering
+Phone: 562-797-1172 
+Email: AirportCompatibility@boeing.com
+1-2
+
+1.3 A BRIEF DESCRIPTION OF THE 787 FAMILY OF AIRPLANES
+The 787 Dreamliner is an efficient family of twin-engine airplanes with exceptional 
+environmental performance and new passenger-pleasing features. An international team of 
+aerospace companies builds the 787, led by Boeing at its Everett facility near Seattle, WA 
+and in North Charleston, SC.
+787 Family
+The 787 family is designed for medium- to long-range flights. In a typical dual-class 
+configuration, the 787-8 can carry 242 passengers, the 787-9 can carry 290 passengers, and 
+the 787-10 will carry 330 passengers.
+787 Engines
+The 787 features new engines from General Electric and Rolls-Royce that represent nearly 
+a two-generation jump in technology.
+Cargo Handling
+The lower lobe cargo compartments can accommodate a variety of containers and pallets 
+now in use.
+Ground Servicing
+The 787 features a more-electric design and does not have a traditional pneumatic system. 
+The traditional pneumatic starters on the engines are replaced with a pair of gearboxmounted main-engine starter/generators. Cabin air conditioning and wing anti-ice systems 
+are also electrically powered. The remaining pneumatic system is for engine nacelle antiice. The airplane has ground service connections compatible with existing ground service 
+equipment, and no special equipment is necessary. In case of an inoperable APU, engine 
+starts may be accomplished via the airplane's external ground electrical connections.
+1-3
+
+1.4 CONVERSION FACTORS
+The data in this manual is provided in both English and Metric units. Unless otherwise 
+stated, the conversions listed below are used throughout this manual.
+|MULTIPLY|BY|TOOBTAIN|
+|---|---|---|
+|Pounds|0.45359237|Kilograms|
+|U.S. Gallons|3.78541180|Liters|
+|Inches|2.54000000|Centimeters|
+|Feet|0.30480000|Meters|
+When totals or summations are required the English values are summed separately from 
+the Metric values. Differences may occur when comparing the English total with metric 
+totals due to rounding.
+All metric values are converted from English values. When using the conversion factors 
+in this manual, all resultants will be rounded except when the value is a weight limitation. 
+For minimum or maximum weight limitations the resultant metric values will be rounded 
+up or truncated, whichever is more conservative.
+1-4
+
+2.0 AIRPLANE DESCRIPTION
+2.1 GENERAL CHARACTERISTICS
+Maximum Design Taxi Weight (MTW). Maximum weight for ground maneuver as limited 
+by aircraft strength and airworthiness requirements. (It includes weight of taxi and run-up 
+fuel.)
+Maximum Design Takeoff Weight (MTOW). Maximum weight for takeoff as limited by 
+aircraft strength and airworthiness requirements. (This is the maximum weight at start of 
+the takeoff run.)
+Maximum Design Landing Weight (MLW). Maximum weight for landing as limited by 
+aircraft strength and airworthiness requirements.
+Maximum Design Zero Fuel Weight (MZFW). Maximum weight allowed before usable 
+fuel and other specified usable agents must be loaded in defined sections of the aircraft as 
+limited by strength and airworthiness requirements.
+Operating Empty Weight (OEW). Weight of structure, powerplant, furnishing systems, 
+unusable fuel and other unusable propulsion agents, and other items of equipment that are 
+considered an integral part of a particular airplane configuration. Also included are certain 
+standard items, personnel, equipment, and supplies necessary for full operations, excluding 
+usable fuel and payload.
+Maximum Structural Payload. Maximum design zero fuel weight minus operation 
+empty weight.
+Maximum Seating Capacity. The maximum number of passengers specifically certificated 
+or anticipated for certification.
+Maximum Cargo Volume. The maximum space available for cargo.
+Usable Fuel. Fuel available for aircraft propulsion.
+2-1
+
+2.1.1 
+General Characteristics: Model 787-8
+|CHARACTERISTICS|UNITS|MODEL7878*[1] -|
+|---|---|---|
+|MAX DESIGN TAXI WEIGHT|POUNDS|503,500|
+|MAX DESIGN TAXI WEIGHT|KILOGRAMS|228,383|
+|MAX DESIGN TAKEOFF WEIGHT|POUNDS|502,500|
+|MAX DESIGN TAKEOFF WEIGHT|KILOGRAMS|227,930|
+|MAX DESIGN LANDING WEIGHT|POUNDS|380,000|
+|MAX DESIGN LANDING WEIGHT|KILOGRAMS|172,365|
+|MAX DESIGN ZERO FUEL WEIGHT|POUNDS|355,000|
+|MAX DESIGN ZERO FUEL WEIGHT|KILOGRAMS|161,025|
+|SEATING CAPACITY|ONE CLASS|359 ALL-ECONOMY SEATS; FAA EXIT LIMIT = 381 SEATS|
+|SEATING CAPACITY|MIXED CLASS|242 DUAL-CLASS; 24 BUSINESS CLASS, 218 ECONOMY CLASS(SEE SEC 2.4)|
+|MAX CARGO - LOWER DECK *[2]|CUBIC FEET|4,826|
+|MAX CARGO - LOWER DECK *[2]|CUBIC METERS|136.7|
+|USABLE FUEL *[3]|U.S. GALLONS|33,340|
+|USABLE FUEL *[3]|LITERS|126,206|
+|USABLE FUEL *[3]|POUNDS|223,378|
+|USABLE FUEL *[3]|KILOGRAMS|101,343|
+NOTES: 
+*[1] GENERAL CHARACTERISTICS ARE THE SAME FOR BOTH GENERAL ELECTRIC AND ROLLS 
+ROYCE ENGINES. 
+*[2] 16 LD-3 CONTAINERS IN FWD COMPARTMENT AT 158 CU FT (4.5 CU M) EACH; 12 LD-3 
+CONTAINERS IN AFT COMPARTMENT; 402 CU FT (11.4 CU M) IN BULK CARGO COMPARTMENT. 
+SEE SEC 2.6 FOR OTHER LOADING COMBINATIONS. 
+*[3] FUEL DENSITY = 6.7 LBS/US GAL
+2-2
+
+2.1.2 
+General Characteristics: Model 787-9
+|CHARACTERISTICS|UNITS|MODEL7879*[1] -|Col4|
+|---|---|---|---|
+|MAX DESIGN TAXI WEIGHT|POUNDS|563,000|573,000|
+|MAX DESIGN TAXI WEIGHT|KILOGRAMS|255,372|259,908|
+|MAX DESIGN TAKEOFF WEIGHT|POUNDS|561,500|571,500|
+|MAX DESIGN TAKEOFF WEIGHT|KILOGRAMS|254,692|259,228|
+|MAX DESIGN LANDING WEIGHT|POUNDS|425,000|425,000|
+|MAX DESIGN LANDING WEIGHT|KILOGRAMS|192,776|192,776|
+|MAX DESIGN ZERO FUEL WEIGHT|POUNDS|400,000|400,000|
+|MAX DESIGN ZERO FUEL WEIGHT|KILOGRAMS|181,436|181,436|
+|SEATING CAPACITY|ONE CLASS|406 ALL-ECONOMY SEATS; FAA EXIT LIMIT = 420 SEATS|406 ALL-ECONOMY SEATS; FAA EXIT LIMIT = 420 SEATS|
+|SEATING CAPACITY|MIXED CLASS|290 DUAL-CLASS; 28 BUSINESS CLASS, 262 ECONOMY CLASS(SEE SEC 2.4)|290 DUAL-CLASS; 28 BUSINESS CLASS, 262 ECONOMY CLASS(SEE SEC 2.4)|
+|MAX CARGO - LOWER DECK *[2]|CUBIC FEET|6,090|6,090|
+|MAX CARGO - LOWER DECK *[2]|CUBIC METERS|172.4|172.4|
+|USABLE FUEL *[3]|U.S. GALLONS|33,399|33,399|
+|USABLE FUEL *[3]|LITERS|126,429|126,429|
+|USABLE FUEL *[3]|POUNDS|223,773|223,773|
+|USABLE FUEL *[3]|KILOGRAMS|101,522|101,522|
+NOTES: 
+*[1] GENERAL CHARACTERISTICS ARE THE SAME FOR BOTH GENERAL ELECTRIC AND ROLLS 
+ROYCE ENGINES. 
+*[2] 20 LD-3 CONTAINERS IN FWD COMPARTMENT AT 158 CU FT (4.5 CU M) EACH; 16 LD-3 
+CONTAINERS IN AFT COMPARTMENT; 402 CU FT (11.4 CU M) IN BULK CARGO COMPARTMENT. 
+SEE SEC 2.6 FOR OTHER LOADING COMBINATIONS. 
+*[3] FUEL DENSITY = 6.7 LBS/US GAL
+2-3
+
+2.1.3 
+General Characteristics: Model 787-10
+|CHARACTERISTICS|UNITS|MODEL78710*[1] -|Col4|
+|---|---|---|---|
+|MAX DESIGN TAXI WEIGHT|POUNDS|561,500|575,500|
+|MAX DESIGN TAXI WEIGHT|KILOGRAMS|254,692|261,042|
+|MAX DESIGN TAKEOFF WEIGHT|POUNDS|560,000|574,000|
+|MAX DESIGN TAKEOFF WEIGHT|KILOGRAMS|254,011|260,362|
+|MAX DESIGN LANDING WEIGHT|POUNDS|445,000|445,000|
+|MAX DESIGN LANDING WEIGHT|KILOGRAMS|201,848|201,848|
+|MAX DESIGN ZERO FUEL WEIGHT|POUNDS|425,000|425,000|
+|MAX DESIGN ZERO FUEL WEIGHT|KILOGRAMS|192,776|192,776|
+|SEATING CAPACITY|ONE CLASS|440 ALL-ECONOMY SEATS; FAA EXIT LIMIT = 440 SEATS|440 ALL-ECONOMY SEATS; FAA EXIT LIMIT = 440 SEATS|
+|SEATING CAPACITY|MIXED CLASS|330 DUAL-CLASS; 32 BUSINESS CLASS, 298 ECONOMY CLASS(SEE SEC 2.4)|330 DUAL-CLASS; 32 BUSINESS CLASS, 298 ECONOMY CLASS(SEE SEC 2.4)|
+|MAX CARGO - LOWER DECK *[2]|CUBIC FEET|6,722|6,722|
+|MAX CARGO - LOWER DECK *[2]|CUBIC METERS|190.3|190.3|
+|USABLE FUEL *[3]|U.S. GALLONS|33,399|33,399|
+|USABLE FUEL *[3]|LITERS|126,429|126,429|
+|USABLE FUEL *[3]|POUNDS|223,773|223,773|
+|USABLE FUEL *[3]|KILOGRAMS|101,522|101,522|
+NOTES: 
+*[1] GENERAL CHARACTERISTICS ARE THE SAME FOR BOTH GENERAL ELECTRIC AND ROLLS 
+ROYCE ENGINES. 
+*[2] 22 LD-3 CONTAINERS IN FWD COMPARTMENT AT 158 CU FT (4.5 CU M) EACH; 18 LD-3 
+CONTAINERS IN AFT COMPARTMENT; 402 CU FT (11.4 CU M) IN BULK CARGO COMPARTMENT. 
+SEE SEC 2.6 FOR OTHER LOADING COMBINATIONS. 
+*[3] FUEL DENSITY = 6.7 LBS/US GAL
+2-4
+
+2.2 GENERAL DIMENSIONS
+2.2.1 
+General Dimensions: Model 787-8
+2-5
+
+2.2.2 
+General Dimensions: Model 787-9
+2-6
+
+2.2.3 
+General Dimensions: Model 787-10
+2-7
+
+2.3 GROUND CLEARANCES
+2.3.1 
+Ground Clearances: Model 787-8
+|Dimension|MINIMUM|Col3|MAXIMUM|Col5|
+|---|---|---|---|---|
+|**Dimension**|**FT - IN**|**M **|**FT - IN**|**M **|
+|A|25 – 2|7.67|26 – 4|8.03|
+|B|13 – 11|4.24|15 – 6|4.72|
+|C|7 – 9|2.36|9 – 0|2.74|
+|D|5 – 6|1.68|6 – 10|2.08|
+|E|14 – 5|4.39|15 – 5|4.70|
+|F (GE ENGINES)|2 – 5|0.74|3 – 6|1.07|
+|F (RR ENGINES)|2 – 4|0.71|3 – 6|1.07|
+|G|15 – 1|4.60|15 – 8|4.78|
+|H|8 – 9|2.67|9 – 6|2.90|
+|J|23 – 10|7.26|25 – 5|7.75|
+|K|8 – 11|2.72|9 – 10|3.00|
+|L|15 – 3|4.65|16 – 2|4.93|
+|M|22 – 3|6.78|23 – 5|7.14|
+|N|54 – 5|16.59|56 – 1|17.09|
+NOTES: 
+1. 
+VERTICAL CLEARANCES SHOWN OCCUR DURING MAXIMUM VARIATIONS OF 
+AIRPLANE ATTITUDE. COMBINATIONS OF AIRPLANE LOADING AND UNLOADING 
+ACTIVITIES THAT PRODUCE THE GREATEST POSSIBLE VARIATION IN ATTITUDE 
+WERE USED TO ESTABLISH THE VARIATIONS SHOWN. 
+2. 
+DURING ROUTINE SERVICING, THE AIRPLANE REMAINS RELATIVELY STABLE, 
+PITCH AND ELEVATION CHANGES OCCURRING SLOWLY. 
+* NOMINAL DIMENSIONS ROUNDED TO NEAREST INCH AND NEAREST CENTIMETER.
+2-8
+
+2.3.2 
+Ground Clearances: Model 787-9
+|Dimension|MINIMUM|Col3|MAXIMUM|Col5|
+|---|---|---|---|---|
+|**Dimension**|**FT - IN**|**M **|**FT - IN**|**M **|
+|A|24 – 4|7.42|25 - 8|7.82|
+|B|13 – 11|4.24|15 – 9|4.80|
+|C|7 – 8|2.34|9 – 3|2.82|
+|D|5 – 9|1.75|6 – 1|1.85|
+|E|14 – 6|4.42|15 – 9|4.80|
+|F (GE ENGINES)|2 – 3|0.69|2 - 6|0.76|
+|F (RR ENGINES)|2 – 0|0.61|2 – 7|0.79|
+|G|15 – 2|4.62|16 – 0|4.88|
+|H|8 – 10|2.69|9 – 11|3.02|
+|J|24 – 0|7.32|25 – 6|7.77|
+|K|9 – 0|2.74|10 - 0|3.05|
+|L|15 – 5|4.70|16 – 8|5.08|
+|M|22 – 7|6.88|23 – 5|7.14|
+|N|55 – 2|16.81|56 – 1|17.09|
+NOTES: 
+1. 
+VERTICAL CLEARANCES SHOWN OCCUR DURING MAXIMUM VARIATIONS OF 
+AIRPLANE ATTITUDE. COMBINATIONS OF AIRPLANE LOADING AND UNLOADING 
+ACTIVITIES THAT PRODUCE THE GREATEST POSSIBLE VARIATION IN ATTITUDE 
+WERE USED TO ESTABLISH THE VARIATIONS SHOWN. 
+2. 
+DURING ROUTINE SERVICING, THE AIRPLANE REMAINS RELATIVELY STABLE, 
+PITCH AND ELEVATION CHANGES OCCURRING SLOWLY. 
+* NOMINAL DIMENSIONS ROUNDED TO NEAREST INCH AND NEAREST CENTIMETER.
+2-9
+
+2.3.3 
+Ground Clearances: Model 787-10
+|Dimension|MINIMUM|Col3|MAXIMUM|Col5|
+|---|---|---|---|---|
+|**Dimension**|**FT - IN**|**M **|**FT - IN**|**M **|
+|A|26-0|7.92|26-9|8.15|
+|B|14-0|4.27|15-5|4.70|
+|C|7-9|2.36|9-0|2.74|
+|D|6-6|1.98|7-3|2.21|
+|E|14-8|4.47|15-7|4.75|
+|F (GE ENGINES)|2-5|0.74|3-3|0.99|
+|F (RR ENGINES)|2-5|0.74|3-2|0.97|
+|G|15-4|4.67|16-0|4.88|
+|H|9-2|2.79|9-9|2.97|
+|J|25-4|7.72|25-11|7.90|
+|K|9-6|2.90|10-1|3.07|
+|L|15-10|4.83|16-5|5.00|
+|M|23-3|7.09|23-8|7.21|
+|N|55-5|16.89|55-10|17.02|
+NOTES: 
+1. 
+VERTICAL CLEARANCES SHOWN OCCUR DURING MAXIMUM VARIATIONS OF 
+AIRPLANE ATTITUDE. COMBINATIONS OF AIRPLANE LOADING AND UNLOADING 
+ACTIVITIES THAT PRODUCE THE GREATEST POSSIBLE VARIATION IN ATTITUDE 
+WERE USED TO ESTABLISH THE VARIATIONS SHOWN. 
+2. 
+DURING ROUTINE SERVICING, THE AIRPLANE REMAINS RELATIVELY STABLE, 
+PITCH AND ELEVATION CHANGES OCCURRING SLOWLY. 
+* NOMINAL DIMENSIONS ROUNDED TO NEAREST INCH AND NEAREST CENTIMETER.
+2-10
+
+2.4 INTERIOR ARRANGEMENTS
+2.4.1 
+Interior Arrangements - Typical: Model 787-8, 787-9, 787-10
+2-11
+
+2.5 CABIN CROSS SECTIONS
+2.5.1 
+Cabin Cross-Sections: Model 787-8, 787-9, 787-10
+2-12
+
+2.6 LOWER CARGO COMPARTMENTS
+2.6.1 
+Lower Cargo Compartments: Model 787-8, Containers and 
+Bulk Cargo
+2-13
+
+2.6.2 
+Lower Cargo Compartments: Model 787-9, Containers and 
+Bulk Cargo
+2-14
+
+2.6.3 
+Lower Cargo Compartments: Model 787-10, Containers and 
+Bulk Cargo
+2-15
+
+2.7 DOOR CLEARANCES
+2.7.1 
+Door Locations: Model 787-8, 787-9, 787-10, Passenger and Cargo 
+Doors
+SEE NOTE *[2]
+|Col1|DoorName|Door Location|787 8 - FT IN/M -|787 9 - FT IN/M -|787 10 - FT IN/M -|
+|---|---|---|---|---|---|
+|1|MAIN ENTRY/SERVICE DOOR NO 1(2)|LEFT AND RIGHT|20-8 / 6.30|20-8 / 6.30|20-8 / 6.30|
+|2|MAIN ENTRY/SERVICE DOOR NO 2(2)|LEFT AND RIGHT|50-3 / 15.32|60-3 / 18.36|70-3 / 21.41|
+|3|MAIN ENTRY/SERVICE DOOR NO 3(2)|LEFT AND RIGHT|106-3 / 32.39|116-3 / 35.43|126-3 / 38.48|
+|4|MAIN ENTRY/SERVICE DOOR NO 4(2)|LEFT AND RIGHT|142-11 / 43.56|162-11 / 49.66|180-11 / 55.14|
+|5|FORWARD CARGO DOOR|RIGHT|36-1 / 11.00|36-1 / 11.00|36-1 / 11.00|
+|6|AFT CARGO DOOR|RIGHT|122-1 / 37.21|142-1 / 43.31|152-1 / 46.36|
+|7|BULK CARGO DOOR|LEFT|136-8 / 41.66|156-8 / 47.75|174-8 / 53.24|
+NOTES: 
+*[1] ENTRY DOORS LEFTSIDE, SERVICE DOORS RIGHTSIDE 
+*[2] SEE SECTION 2.3 FOR DOOR SILL HEIGHTS
+2-16
+
+2.7.2 
+Door Clearances: Model 787-8, 787-9, 787-10, Main Deck Entry and 
+Service Doors
+2-17
+
+2.7.3 
+Door Clearances: Model 787-8, 787-9, 787-10, Lower Deck Cargo 
+Door (Forward & Aft)
+2-18
+
+2.7.4 
+Door Clearances: Model 787-8, 787-9, 787-10, Bulk Cargo Door
+2-19
+
+3.0 AIRPLANE PERFORMANCE
+3.1 GENERAL INFORMATION
+The graphs in Section 3.2 provide information on payload-range capability of the 787 
+airplane. To use these graphs, if the trip range and zero fuel weight (OEW + payload) are 
+known, the approximate takeoff weight can be found, limited by maximum zero fuel 
+weight, maximum design takeoff weight, or fuel capacity.
+The graphs in Section 3.3 provide information on FAA/EASA takeoff runway length 
+requirements with typical engines at different pressure altitudes. Maximum takeoff weights 
+shown on the graphs are the heaviest for the particular airplane models with the 
+corresponding engines. Standard day temperatures for pressure altitudes shown on the 
+FAA/EASA takeoff graphs are given below:
+|corresponding engines. Standard day temper FAA/EASA takeoff graphs are given below:|Col2|ratures for pressure altitudes shown on the|Col4|
+|---|---|---|---|
+|**PRESSURE ALTITUDE**|**PRESSURE ALTITUDE**|**STANDARD DAY TEMP**|**STANDARD DAY TEMP**|
+|**FEET**|**METERS**|**°F**|**°C**|
+|0|0|59.0|15.0|
+|2,000|610|51.9|11.0|
+|4,000|1,219|44.7|7.1|
+|6,000|1,829|37.6|3.1|
+|8,000|2,438|30.5|-0.8|
+|10,000|3,048|23.3|-4.8|
+|12,000|3,658|16.2|-8.8|
+|14,000|4,267|9.1|-12.7|
+The graphs in Section 3.4 provide information on landing runway length requirements for 
+different airplane weights and airport altitudes. The maximum landing weights shown are 
+the heaviest for the particular airplane model.
+3-1
+
+3.2 PAYLOAD/RANGE FOR LONG RANGE CRUISE
+3.2.1 
+Payload/Range for Long-Range Cruise: Model 787-8 
+(Typical Engines)
+3-2
+
+3.2.2 
+Payload/Range for Long-Range Cruise: Model 787-9 
+(Typical Engines)
+3-3
+
+3.2.3 
+Payload/Range for Long-Range Cruise: Model 787-10 
+(Typical Engines)
+3-4
+
+3.3 FAA/EASA TAKEOFF RUNWAY LENGTH REQUIREMENTS
+3.3.1 
+FAA/EASA Takeoff Runway Length Requirements - Standard Day, 
+Dry Runway: Model 787-8 (Typical Engines)
+3-5
+
+3.3.2 
+FAA/EASA TakeOff Runway Length Requirements - Standard Day 
++ 27°F (STD + 15°C), Dry Runway: Model 787-8 (Typical Engines)
+3-6
+
+3.3.3 
+FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 45°F (STD + 25°C), Dry Runway: Model 787-8 (Typical Engines)
+3-7
+
+3.3.4 
+FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 61°F (STD + 34°C, Dry Runway): Model 787-8 (Typical Engines)
+3-8
+
+3.3.5 
+FAA/EASA Takeoff Runway Length Requirements - Standard Day, 
+Dry Runway: Model 787-8 (Hi-Thrust Engines)
+3-9
+
+3.3.6 
+FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 27°F (STD + 15°C), Dry Runway: Model 787-8 (Hi-Thrust Engines)
+3-10
+
+3.3.7 
+FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 45°F (STD + 25°C), Dry Runway: Model 787-8 (Hi-Thrust Engines)
+3-11
+
+3.3.8 
+FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 61°F (STD + 34°C), Dry Runway: Model 787-8 (Hi-Thrust Engines)
+3-12
+
+3.3.9 
+FAA/EASA Takeoff Runway Length Requirements - Standard Day, 
+Dry Runway: Model 787-9 (Typical Engines)
+3-13
+
+3.3.10 FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 27°F (STD + 15°C), Dry Runway: Model 787-9 (Typical Engines)
+3-14
+
+3.3.11 FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 45°F (STD + 25°C), Dry Runway: Model 787-9 (Typical Engines)
+3-15
+
+3.3.12 FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 61°F (STD + 34°C), Dry Runway: Model 787-9 (Typical Engines)
+3-16
+
+3.3.13 FAA/EASA Takeoff Runway Length Requirements - Standard Day, 
+Dry Runway: Model 787-9, (Hi-Thrust Engines)
+3-17
+
+3.3.14 FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 27°F (STD + 15°C), Dry Runway: Model 787-9, (Hi-Thrust Engines)
+3-18
+
+3.3.15 FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 45°F (STD + 25°C), Dry Runway: Model 787-9, (Hi-Thrust Engines)
+3-19
+
+3.3.16 FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 61°F (STD + 34°C), Dry Runway: Model 787-9, (Hi-Thrust Engines)
+3-20
+
+3.3.17 FAA/EASA Takeoff Runway Length Requirements - Standard Day, 
+Dry Runway: Model 787-10 (Typical Engines)
+3-21
+
+3.3.18 FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 27°F (STD + 15°C), Dry Runway: Model 787-10 (Typical Engines)
+3-22
+
+3.3.19 FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 45°F (STD + 25°C), Dry Runway: Model 787-10 (Typical Engines)
+3-23
+
+3.3.20 FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 61°F (STD + 34°C), Dry Runway: Model 787-10 (Typical Engines)
+3-24
+
+3.3.21 FAA/EASA Takeoff Runway Length Requirements - Standard Day, 
+Dry Runway: Model 787-10 (Hi-Thrust Engines)
+3-25
+
+3.3.22 FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 27°F (STD + 15°C), Dry Runway: Model 787-10 (Hi-Thrust Engines)
+3-26
+
+3.3.23 FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 45°F (STD + 25°C), Dry Runway: Model 787-10 (Hi-Thrust Engines)
+3-27
+
+3.3.24 FAA/EASA Takeoff Runway Length Requirements - Standard Day 
++ 61°F (STD + 34°C), Dry Runway: Model 787-10 (Hi-Thrust Engines)
+3-28
+
+3.4 FAA/EASA LANDING RUNWAY LENGTH REQUIREMENTS
+3.4.1 
+FAA/EASA Landing Runway Length Requirements – Flaps 30: 
+Model 787-8 (All Engines)
+3-29
+
+3.4.2 
+FAA/EASA Landing Runway Length Requirements – Flaps 25: 
+Model 787-8 (All Engines)
+3-30
+
+3.4.3 
+FAA/EASA Landing Runway Length Requirements – Flaps 30: 
+Model 787-9 (All Engines)
+3-31
+
+3.4.4 
+FAA/EASA Landing Runway Length Requirements – Flaps 25: 
+Model 787-9 (All Engines)
+3-32
+
+3.4.5 
+FAA/EASA Landing Runway Length Requirements – Flaps 30: 
+Model 787-10 (All Engines)
+3-33
+
+3.4.6 
+FAA/EASA Landing Runway Length Requirements – Flaps 25: 
+Model 787-10 (All Engines)
+3-34

@@ -1,0 +1,203 @@
+id,type,engine,question,start_ts,end_ts,seconds,score,judge_raw,answer,error
+1,factual,Plain RAG,What is the ICAO Aerodrome Reference Code of the A320neo?,1792904904.1587749,1792905114.135943,209.98,5,5,3C,
+2,factual,Plain RAG,When is an A320-200 classified as ICAO aerodrome code 4C instead of 3C?,1792905178.2058067,1792905287.9433336,109.74,5,5,"An A320-200 is classified as ICAO Aerodrome Reference Code 4C if its take-off weight is more than 73,500 kg (162,040 lb).",
+3,factual,Plain RAG,What is the standard seating capacity of the A320 given in the Airbus Aircraft Characteristics manual?,1792905481.136391,1792905485.2383256,4.1,5,5,180 (Single-Class),
+4,factual,Plain RAG,What is the maximum total usable fuel capacity of the A320neo?,1792905486.8323295,1792905495.7852888,8.95,2,2,"The maximum total usable fuel capacity of the A320neo is 32,168 liters (8,498 US gallons). This information is found in the document ""A320 Aircraft Characteristics – Airport and Maintenance Planning (Rev. Jun 2024)"" from Airbus, under the section ""Usable Fuel Capacity (density = 0.785 kg/l)"" for the A320NEO model.",
+5,factual,Plain RAG,Which two engine options are offered on the A320neo family?,1792905502.112603,1792905507.7904608,5.68,5,5,"According to the document, the two engine options offered on the A320neo family are:
+1. The PW1100G PurePower from Pratt&Whitney
+2. The LEAP-1A from CFM International
+
+(Source: airbus_a320_aircraft_characteristics)",
+6,factual,Plain RAG,Which engine does the Boeing 737 MAX use?,1792905510.0303116,1792905520.1294167,10.1,5,5,The Boeing 737 MAX incorporates an all new CFM LEAP-1B engine for improved fuel-efficiency and reduced community noise.,
+7,factual,Plain RAG,What is the two-class and single-class seating capacity of the Boeing 737-10?,1792905521.701137,1792905532.3371341,10.64,1,1,"The two-class seating capacity of the Boeing 737-10 is not explicitly mentioned in the provided context. However, the single-class seating capacity is 440 all-economy seats, as indicated in the section ""General Characteristics: Model 737-10"" on page 2-13 of the document.",
+8,factual,Plain RAG,What is the usable fuel capacity of the Boeing 737 MAX without auxiliary tanks?,1792905533.643904,1792905541.9752645,8.33,5,5,"According to the Boeing 737 MAX airport planning document, the usable fuel capacity without auxiliary tanks is:
+
+- 6,820 US gallons (25,816 liters)
+- 45,694 pounds (20,730 kilograms)
+
+This information is consistent across all 737 MAX models (737-7, 737-8, 737-8-200, 737-9, and 737-10) as shown in their respective General Characteristics tables in the document.",
+9,factual,Plain RAG,What is the maximum design takeoff weight of the Boeing 787-8?,1792905543.5061958,1792905549.6239223,6.12,5,5,"The maximum design takeoff weight of the Boeing 787-8 is 502,500 pounds or 227,930 kilograms. This information comes from the Boeing 787 Airport Planning document, section 2.1.1.",
+10,factual,Plain RAG,What is the dual-class seating capacity of the Boeing 787-9?,1792905551.1167464,1792905556.0170734,4.9,4,4,"330 DUAL-CLASS; 28 BUSINESS CLASS, 262 ECONOMY CLASS",
+11,factual,Plain RAG,How does the Boeing 787 differ from earlier airplanes in its pneumatic system?,1792905559.00816,1792905567.4664593,8.46,5,5,"The Boeing 787 features a more-electric design and does not have a traditional pneumatic system. The traditional pneumatic starters on the engines are replaced with a pair of gearbox-mounted main-engine starter/generators. Cabin air conditioning and wing anti-ice systems are also electrically powered. The remaining pneumatic system is for engine nacelle anti-ice. The airplane has ground service connections compatible with existing ground service equipment, and no special equipment is necessary. In case of an inoperable APU, engine starts may be accomplished via the airplane's external ground electrical connections. (Source: boeing_787_airport_planning, D6-58333, Rev. Q)",
+12,factual,Plain RAG,How many fatal accidents did the worldwide commercial jet fleet have in 2016-2025 according to Boeing's Statistical Summary?,1792905569.0355031,1792905580.375022,11.34,5,5,"According to Boeing's Statistical Summary of Commercial Jet Airplane Accidents, the worldwide commercial jet fleet had 31 fatal accidents between 2016-2025. This information comes from the ""Accident Summary by Type of Operation"" table in the document.",
+13,factual,Plain RAG,"According to Boeing's Statistical Summary, what share of fatal accidents in 2016-2025 happened during landing, and how much flight time does landing represent?",1792905581.8201137,1792905587.2996774,5.48,2,2,"According to Boeing's Statistical Summary, for the period 2016-2025, 25% of fatal accidents happened during landing. Landing represents 12% of flight time (based on exposure percentage for a 1.5-hour flight). This information comes from the document ""Statistical Summary of Commercial Jet Airplane Accidents"" (Source: boeing_statistical_summary_accidents).",
+14,factual,Plain RAG,What is the Soft Go-Around function introduced by Airbus?,1792905588.9028366,1792905598.5437882,9.64,5,5,"The Soft Go-Around (SGA) function is a feature introduced by Airbus that allows crews to perform a go-around with reduced thrust, adapted to the aircraft weight, speed, and altitude. It provides a lower than TOGA (Take-Off/Go-Around) initial thrust level, ensuring reduced acceleration and requirement to pitch up, and a lower but constant final rate of climb. The target rate of climb is either 2000 or 2300 ft/min, depending on the aircraft model. The SGA function is only available when all engines are operating. If a go-around is performed with one engine inoperative, TOGA thrust must be used. In the case of an engine failure during a soft go-around, the flight crew must select TOGA thrust. The SGA function is available for A320 (optional), A330 (basic), A350 (optional), and A380 (optional) aircraft. [Source: airbus_safety_first_23]",
+15,factual,Plain RAG,"When did Airbus start publishing a dedicated safety magazine, and when did it become 'Safety First'?",1792905599.9717238,1792905608.2683766,8.3,5,5,"According to the context from airbus_safety_first_25, Airbus started publishing a dedicated safety magazine in June 1995 with the name 'Hangar Flying'. The magazine was renamed to 'Safety First' in 2004, with the first issue of 'Safety First' being published in January 2005.",
+16,multi-hop,Plain RAG,"Which has the larger lower-deck cargo volume, the Boeing 737-10 or the Boeing 787-8, and by roughly how much?",1792905609.7214022,1792905621.8999329,12.18,3,3,"According to the documents, the Boeing 787-8 has a larger lower-deck cargo volume than the Boeing 737-10.
+
+The Boeing 787-8 has a maximum cargo volume of 4,826 cubic feet (136.7 cubic meters) (Source: boeing_787_airport_planning, 2-1).
+
+The Boeing 737-10 has a maximum cargo volume of 41 FT - 4 IN (12.60 M) in the aft compartment and 32 FT - 4 IN (9.86 M) in the forward compartment, but the document doesn't provide a total cubic volume for comparison (Source: boeing_737max_airport_planning, 2-14).
+
+The 787-8's cargo volume is approximately 4,826 cubic feet, while the 737-10's cargo volume is not provided in cubic feet in the document, making it difficult to determine the exact difference.",
+17,multi-hop,Plain RAG,Compare the usable fuel capacity of the A320neo with that of the 737 MAX (no auxiliary tanks). Which carries more?,1792905624.8189726,1792905632.6057448,7.79,1,1,"Based on the documents provided:
+
+For the A320neo (from airbus_a320_aircraft_characteristics):
+- Usable fuel capacity: 15,490 liters (4,092 US gallons) with a density of 0.785 kg/l
+
+For the 737 MAX (from boeing_737max_airport_planning):
+- Usable fuel capacity: 6,820 US gallons (25,816 liters) with a density of 6.7 lbs/US gal
+
+The A320neo carries more usable fuel than the 737 MAX when no auxiliary tanks are used.",
+18,multi-hop,Plain RAG,Compare the single-class seating capacity of the A320 and the Boeing 737-8.,1792905634.5462854,1792905670.7412443,36.19,5,5,"I could not find the single-class seating capacity of the A320 in the documents provided. The documents only contain the single-class seating capacity for the Boeing 787-8 (359 all-economy seats) and Boeing 787-9 (406 all-economy seats), as well as the mixed-class seating capacity for the Boeing 737-8 (242 dual-class; 24 business class, 218 economy class).",
+19,multi-hop,Plain RAG,What is the difference between the highest maximum design takeoff weights of the 787-10 and the 787-9?,1792905672.0378993,1792905676.1614866,4.12,3,3,"The difference between the highest maximum design takeoff weights of the 787-10 and the 787-9 is 3,000 pounds (1,361 kilograms).",
+20,multi-hop,Plain RAG,Are the A320neo and the 737 MAX in the same ICAO aerodrome reference code letter?,1792905677.7383556,1792905686.9893315,9.25,1,1,"No, the A320neo and the 737 MAX are not in the same ICAO aerodrome reference code letter.
+
+For the A320neo, the ICAO Aerodrome Reference Code is 3C as per ICAO Aerodrome Reference Code (Section 3-3-3 in the Airbus A320 Aircraft Characteristics document).
+
+For the 737 MAX, the ICAO Aerodrome Reference Code can vary based on the specific model and its takeoff weight up to MTOW. For example:
+- 737-7 can be 3C or 4C
+- 737-8 can be 3C or 4C
+- 737-9 can be 3C or 4C
+- 737-10 is not explicitly mentioned in the provided context, but it is likely to follow the same pattern.
+
+The ICAO Aerodrome Reference Code classification for all 737 MAX models is provided in Section 3-41 of the Boeing 737 MAX Airport Planning document.",
+21,multi-hop,Plain RAG,Which engine manufacturers power the Boeing 787 and the Airbus A320neo?,1792905688.4312727,1792905692.8630922,4.43,5,5,"The Boeing 787 is powered by engines from General Electric and Rolls-Royce, while the Airbus A320neo is powered by engines from Pratt & Whitney (PW1100G PurePower) and CFM International (LEAP-1A).",
+22,multi-hop,Plain RAG,Compare the maximum design landing weight of the Boeing 787-8 with the maximum landing weight of the A320-200.,1792905694.5381885,1792905702.7062788,8.17,5,5,"The maximum design landing weight of the Boeing 787-8 is 380,000 pounds (172,365 kilograms). The maximum landing weight (MLW) of the Airbus A320-200 varies by weight variant, but it is listed as 64,500 kilograms (142,198 pounds) for several weight variants in the provided document. Therefore, the maximum design landing weight of the Boeing 787-8 is greater than the maximum landing weight of the A320-200 for the specified weight variants.",
+23,global,Plain RAG,What are the main safety themes discussed across the Airbus Safety First magazines?,1792905704.1175356,1792905735.3846521,31.27,3,3,"The main safety themes discussed across the Airbus Safety First magazines include:
+
+1. Aircraft Energy Management
+2. Control Inputs in Manual Flight
+3. Cabin Operations
+4. Engineering & Maintenance
+5. Pitot Probe Performance
+6. 180° turns on runway
+7. Optimum use of weather radar
+8. Control your speed during climb
+9. Lateral runway excursions upon landing
+10. Fuel monitoring on A320 Family aircraft
+11. High-altitude manual flying
+12. Control your speed in cruise
+13. Lithium batteries: safe to fly?
+14. Wake vortices
+15. A320 Family Aircraft configuration
+16. Tidy cockpit for safe flight
+17. Landing on contaminated runways
+18. Understanding weight & balance
+19. Wind shear: an invisible enemy to pilots?
+20. Control your speed at take-off
+21. Safe operations with composite aircraft
+22. Learning from the evidence
+23. A320 Family cargo Containers/pallets movement
+24. Parts Departing from Aircraft (PDA)
+25. Airbus Brake Testing
+26. Hard Landing, a Case Study for Crews and Maintenance Personnel
+27. Aircraft Protection during Washing and Painting
+28. Flight Data Analysis (FDA), a Predictive Tool for Safety Management System (SMS)
+29. Flying a Go-Around, Managing Energy
+30. Performance Based Navigation: RNP and RNP AR Approaches
+31. Atlantic Airways: Introduction of RNP AR 0.1 Operations
+32. Flight Crews and De-Icing Personnel – Working together in Temporary Teamwork for safe Skies
+33. Low Speed Rejected Take-Off upon Engine Failure
+34. Late Changes before Departure
+35. The Golden Rules for Pilots moving from PNF to PM
+36. Airbus Crosswind Development and Certification
+37. The SMOKE/FUMES/AVNCS SMOKE Procedure
+38. Post-Maintenance Foreign Objects Damage (FOD) Prevention
+39. Corrosion: A Potential Safety Issue
+40. Thrust Reverser Selection means Full-Stop
+41. Transient Loss of Communication due to Jammed Push-To-Talk A320 and A330/A340 Families
+42. A380: Development of the Flight Controls - Part 2
+43. Preventing Fan Cowl Door Loss
+44. A320 Family / A330 Prevention and Handling of Dual Bleed Loss
+45. The Fuel Penalty Factor
+46. The Airbus TCAS Alert Prevention (TCAP)
+47. A380: Development of the Flight Controls - Part 1
+48. Facing the Reality of everyday Maintenance Operations
+49. What is Stall? How a Pilot Should React in Front of a Stall Situation
+50. Minimum Control Speed Tests on A380
+51. Radio Altimeter Erroneous Values
+52. Automatic NAV Engagement at Go Around
+53. Airbus New Operational Landing Distances
+54. The Go Around Procedure
+55. The Circling Approach
+56. VMU Tests on A380
+57. Automatic Landings in Daily Operation
+58. A380: Flutter Tests
+59. Operational Landing Distances: A New Standard for In-flight Landing Distance Assessment
+60. Go Around Handling
+61. A320: Landing Gear Downlock
+62. Situation Awareness and Decision Making
+63. A320 Family: Evolution of Ground Spoiler Logic
+64. Incorrect Pitch Trim Setting at Take-Off
+65. Technical Flight Familiarization
+66. Oxygen Safety
+67. The Runway Overrun Prevention System
+68. The Take-Off Securing Function
+69. Computer Mixability: An Important Function
+70. Fuel Spills During Refueling Operations
+71. Airbus AP/FD TCAS Mode: A New Step Towards Safety Improvement
+72. Braking System Cross Connections
+73. Upset Recovery Training Aid, Revision 2
+74. Fuel Pumps Left in OFF Position
+75. A320: Avoiding Dual Bleed Loss
+76. A320: Runway Overrun
+77. FCTL Check after EFCS Reset on Ground
+78. A320: Possible Consequence of VMO/MMO Exceedance
+79. A320: Prevention of Tailstrikes
+80. Low Fuel Situation Awareness
+81. Rudder Pedal Jam
+82. Why do Certain AMM Tasks Require Equipment Resets?
+83. Slide/raft Improvement
+84. Cabin Attendant Falling through the Avionics Bay Access Panel in Cockpit
+85. New CFIT Event During Non Precision Approach
+86. A320: Tail Strike at Take-Off?
+87. Unreliable Speed
+88. Compliance to Operational Procedures
+89. The Future Air Navigation System FANS B
+90. Dual Side Stick Inputs
+91. Trimmable Horizontal Stabilizer Damage
+92. Pitot Probes Obstruction on Ground
+93. A340: Thrust Reverser Unlocked
+94. Residual Cabin Pressure
+95. Cabin Operations Briefing Notes
+96. Hypoxia: An Invisible Enemy
+97. Operations Engineering Bulletin Reminder Function
+98. Avoiding High Speed Rejected Take-Offs Due to EGT Limit Exceedance
+99. Do you Know your ATC/TCAS Panel?
+100. Managing Hailstorms
+101. Introducing the Maintenance Briefing Notes
+102. A320: Dual hydraulic Loss
+103. Terrain Awareness and Warning Systems Operations Based on GPS Data
+104. Tailpipe or Engine Fire
+105. Managing Severe Turbulence
+106. Airbus Pilot Transition (ATP)
+107. Runway Excursions at Take-Off
+108. Go Arounds in Addis-Ababa due to VOR Reception Problems
+109. The Importance of the Pre-flight Flight Control Check
+110. A320: In-flight Thrust Reverser Deployment
+111. Airbus Flight Safety Manager Handbook
+112. Flight Operations Briefing Notes
+
+These themes cover a wide range of safety-related topics, including pilot procedures, aircraft systems, maintenance practices, and environmental factors.",
+24,global,Plain RAG,How do the Airbus and Boeing documents describe the overall trend in commercial aviation safety?,1792905736.7828398,1792905774.5176451,37.73,4,4,"According to the Boeing document (boeing_statistical_summary_accidents), over the past two decades, there has been a 35% decline in the total accident rate and a 60% decline in the fatal accident rate, while departures have increased by more than 20%. Between the last two decades, total accidents dropped by about 20%, hull losses dropped by nearly 50%, and fatal accidents dropped by about 50%.
+
+According to the Airbus document (airbus_safety_first_23), despite the industry's success in preventing accidents, the fatal accident rate of 1 accident per 10 million flights for 4th generation jets has been consistent for the last 10 years, barely decreasing. The document also states that without industry-wide action to lower the accident rate, by 2030 there will be more frequent accidents due to the doubling of air traffic expected over the next 15 years.",
+25,global,Plain RAG,What kinds of information do the airport-planning manuals from Airbus and Boeing provide?,1792905776.0526261,1792905814.4906747,38.44,4,4,"According to the documents provided:
+
+The Airbus A320 Aircraft Characteristics - Airport and Maintenance Planning manual (Rev. Jun 2024) provides necessary data to airport operators, airlines, and Maintenance/Repair Organizations (MRO) for airport and maintenance facilities planning. It includes general aircraft characteristics data, design weight terminology, and other information specific to the A320-200 series aircraft.
+
+The Boeing 787 Airplane Characteristics for Airport Planning document provides airplane characteristics data in a standardized format for general airport planning. It includes information on the Boeing 787 Dreamliner family of airplanes, general characteristics, conversion factors between English and Metric units, and other data relevant for airport planners and operators. The document notes that specific data should be coordinated with using airlines prior to facility design as operational practices vary among airlines.",
+26,global,Plain RAG,Summarize the main features of the Boeing 737 MAX family described in its planning manual.,1792905815.920642,1792905931.6430495,115.72,5,5,"The Boeing 737 MAX family is the latest series of derivative airplanes in the 737 family, featuring improved fuel efficiency, increased payload or range, and reduced emissions and noise. Key characteristics include:
+
+1. **Engines**: The 737 MAX incorporates an all-new CFM LEAP-1B engine for improved fuel-efficiency and reduced community noise.
+2. **Winglets**: It features a new Advanced Technology (AT) winglet with a distinctive dual-feather configuration to improve aerodynamics.
+3. **Certification**: The 737 MAX family remains a Federal Aviation Administration (FAA) Airplane Design Group III and International Civil Aviation Organization (ICAO) Aerodrome Reference Code Letter C aircraft.
+4. **Variants**: The family includes models such as the 737-7, 737-8, 737-8-200, 737-9, 737-10, and Business Jet versions.
+5. **Capacity**: It is designed for medium- to long-range flights, with seating capacities ranging from 242 passengers (737-8) to 330 passengers (737-10) in a typical dual-class configuration.
+
+These features make the 737 MAX family a modern and efficient choice for airlines, offering enhanced performance and environmental benefits.",
+27,global,Plain RAG,Which design weight terms are used by both manufacturers and what do they mean?,1792905933.9825697,1792906048.207564,114.22,2,2,"Based on the documents provided, both Boeing and Airbus use the following design weight terms:
+
+1. MAX DESIGN TAXI WEIGHT - The maximum weight authorized for ground maneuvering (from Boeing documents)
+
+2. MAX DESIGN TAKEOFF WEIGHT - The maximum weight authorized for takeoff (from Boeing documents)
+
+3. MAX DESIGN LANDING WEIGHT - The maximum weight authorized for landing (from Boeing documents)
+
+4. MAX DESIGN ZERO FUEL WEIGHT - The maximum weight of the aircraft without fuel (from Boeing documents)
+
+These terms appear in both the Boeing 737 MAX and Boeing 787 airport planning documents provided. The documents do not contain information about Airbus aircraft or their design weight terminology.",
+28,unanswerable,Plain RAG,What is the list price of a new Airbus A320neo?,1792906054.6004362,1792906138.5239906,83.92,5,5,I could not find the list price of a new Airbus A320neo in the documents.,
+29,unanswerable,Plain RAG,How many A350 aircraft did Airbus deliver in 2025?,1792906140.2371037,1792906244.084981,103.85,5,5,I could not find information about how many A350 aircraft Airbus delivered in 2025 in the documents.,
+30,unanswerable,Plain RAG,What is the wingspan of the Boeing 777X?,1792906251.8040314,1792906343.334782,91.53,5,5,I could not find information about the wingspan of the Boeing 777X in the provided documents. The context only contains information about Boeing 737 MAX and Boeing 787 aircraft.,

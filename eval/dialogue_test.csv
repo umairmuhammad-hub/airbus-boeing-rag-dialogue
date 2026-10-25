@@ -1,0 +1,39 @@
+dialogue,turn,user_message,rewritten_question,engine,answer
+1,1,What is the maximum design takeoff weight of the Boeing 787-8?,What is the maximum design takeoff weight of the Boeing 787-8?,LightRAG (hybrid),"The maximum design takeoff weight of the Boeing 787-8 is 502,500 pounds (227,930 kilograms). This value is specified in the knowledge base and is confirmed in the document chunks.
+
+### References
+
+- [1] boeing_737max_airport_planning.txt
+- [2] boeing_787_airport_planning.txt"
+1,2,And the 787-9?,What is the maximum design takeoff weight of the Boeing 787-9?,LightRAG (hybrid),"The maximum design takeoff weight of the Boeing 787-9 is **194,700 pounds (88,314 kilograms)**. This value is specified in the provided knowledge base and is a key parameter for the aircraft's performance and operational capabilities.
+
+### References
+
+- [1] boeing_737max_airport_planning.txt
+- [2] boeing_787_airport_planning.txt"
+1,3,Which of the two can carry more passengers in dual class?,Which of the two aircraft can carry more passengers in dual class?,LightRAG (hybrid),"The Model 787-10 aircraft can accommodate more passengers in a dual-class configuration compared to the Model BBJ MAX 8. The Model 787-10 has a dual-class seating capacity of 330 passengers, consisting of 32 business class and 298 economy class seats. In contrast, the Model BBJ MAX 8, while not explicitly stated in the provided context, typically offers a dual-class layout with fewer seats, often around 62 to 86 seats in total, depending on the specific configuration. Therefore, the Model 787-10 is designed to carry more passengers in a dual-class setup. 
+
+### References
+
+- [1] boeing_737max_airport_planning.txt
+- [2] airbus_a320_aircraft_characteristics.txt
+- [3] boeing_statistical_summary_accidents.txt"
+2,1,Which engine does the Boeing 737 MAX use?,Which engine does the Boeing 737 MAX use?,LightRAG (hybrid),"The Boeing 737 MAX series of airplanes use the CFM LEAP-1B engine. This engine is known for its improved fuel-efficiency and reduced community noise. The LEAP-1B engine is a key component of the 737 MAX series, enhancing its operational efficiency and environmental performance.
+
+### References
+
+- [1] Document: 737 MAX Airplane Characteristics for Airport Planning (D6-38A004, Rev. K)
+- [2] Document: 787 Airplane Characteristics for Airport Planning (D6-58333, Rev. Q)"
+2,2,What about the A320neo?,Which engine does the Airbus A320neo use?,LightRAG (hybrid),"The Airbus A320neo model aircraft can be equipped with two types of engines:
+
+- **PW 1100G Engine**: A gas turbine engine produced by Pratt & Whitney, featuring fan cowls and thrust reversers as key components.
+- **CFM LEAP-1A Engine**: A commercial aircraft engine produced by CFM International, known for its high efficiency and low emissions.
+
+These engines are designed to provide enhanced performance and fuel efficiency compared to previous models, with the A320neo family offering improved aerodynamics and environmental benefits. The choice of engine may vary depending on the specific configuration and requirements of the aircraft. 
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four"
