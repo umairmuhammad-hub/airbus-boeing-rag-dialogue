@@ -21,6 +21,6 @@ if (-not (Test-Path $ollama)) { $ollama = "ollama" }
 & $ollama list
 
 Write-Host "`n[4/4] Checking the settings file (.env) ..." -ForegroundColor Cyan
-if (-not (Test-Path ".env")) { throw ".env is missing - copy .env.example to .env and put your Zhipu API key in it" }
+if (-not (Test-Path ".env")) { throw ".env is missing - copy env.example.txt to .env and put your Zhipu API key in it" }
 & $py -c "import graphrag, lightrag, gradio, faiss; print('All packages import correctly')"
 Write-Host "`nSetup finished. Next: powershell -ExecutionPolicy Bypass -File run_all.ps1" -ForegroundColor Green

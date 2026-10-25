@@ -54,7 +54,7 @@ from **[Zhipu BigModel](https://open.bigmodel.cn)** (the free GLM-Flash models a
 2. Download **`prebuilt_indexes.zip`** from the [Releases](../../releases) page of this repository and unzip it
    **into the same folder** (it creates `rag_store/`, `lightrag_store/` and `graphrag_proj/`).
 3. Install the embedding model: open a terminal and run `ollama pull bge-m3`.
-4. Copy `.env.example` to `.env` and put your own Zhipu API key in it.
+4. Copy `env.example.txt` to a new file named `.env` and put your own Zhipu API key in it.
 5. In PowerShell, inside the folder:
    ```
    powershell -ExecutionPolicy Bypass -File setup.ps1     # once: creates .venv and installs the packages
